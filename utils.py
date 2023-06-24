@@ -61,32 +61,34 @@ def find_rows_and_cols_with_null(df):
   print("Columns with null/NaN values:")
   print(null_columns)
   
-# For each K in [1-30 (all numbers), 35-95 (in increments of 5), 100-1000 (in increments of 25)] (in total 80 different k values)
-# Run k-means and Measure the values of all of 5 of the clustering validation metrics 
-def calc_optimal_number_of_clusters(df, k):
-  X = df.values
 
-  kmeans = KMeans(n_clusters=k)  
+# For each K in [1-30 (all numbers), 35-95 (in increments of 5), 100-1000 (in increments of 25)] (in total 80 different k values)
+# Run k-means and Measure the values of all of 5 of the clustering validation metrics
+def calc_scores(df, k):
+  X = df.values
+  kmeans = KMeans(n_clusters=k)
   labels = kmeans.fit_predict(X)
 
-  davies_score = davies_bouldin_score(X, labels)
-  print("Davies-Bouldin score:", davies_score)
+  print(f'labels {np.unique(labels)}')
+  silhouette = silhouette_score(X, labels)
+  print("Silhouette Coefficient:", silhouette)
 
-  silhouette_score = silhouette_score(X, labels)
-  print("Silhouette Coefficient:", silhouette_score)
+  calinski_harabasz = calinski_harabasz_score(X, labels)
+  print("Calinski-Harabasz Index:", calinski_harabasz)
 
-  calinski_harabasz_score = calinski_harabasz_score(X, labels)
-  print("Calinski-Harabasz Index:", calinski_harabasz_score)
-  
-  return davies_score, silhouette_score, calinski_harabasz_score
-  
-def optimal_number_of_clusters(df):
+  davies = davies_bouldin_score(X, labels)
+  print("Davies-Bouldin score:", davies)
+
+  elbow = kmeans.inertia_
+  return elbow, davies, silhouette, calinski_harabasz
+
+def kmeans_scores(df):
     X = df.drop('ground_truth', axis=1)
-    k_values = list(range(1, 31)) + list(range(35, 96, 5)) + list(range(100, 1001, 25))
+    k_values = list(range(2, 31)) + list(range(35, 96, 5)) + list(range(100, 1001, 25))
     k_scores = {}
-    
+
     for k in k_values:
-        davies_score, silhouette_score, calinski_harabasz_score =  calc_optimal_number_of_clusters(X,k)
-        k_scores['k'] = {'davies_bouldin_score': davies_score, 'silhouette_score': silhouette_score, 'calinski_harabasz_score': calinski_harabasz_score}
-    
-    
+        elbow, davies, silhouette, calinski_harabasz =  calc_scores(X,k)
+        k_scores['k'] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette, 'calinski_harabasz_score': calinski_harabasz}
+
+    return k_scores
