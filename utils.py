@@ -82,8 +82,7 @@ def calc_scores(df, k):
   elbow = kmeans.inertia_
   return elbow, davies, silhouette, calinski_harabasz
 
-def kmeans_scores(df):
-    X = df.drop('ground_truth', axis=1)
+def kmeans_scores(X):
     k_values = list(range(2, 31)) + list(range(35, 96, 5)) + list(range(100, 1001, 25))
     k_scores = {}
 
