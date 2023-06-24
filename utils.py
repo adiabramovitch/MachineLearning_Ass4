@@ -69,8 +69,8 @@ def calc_optimal_number_of_clusters(df, k):
   kmeans = KMeans(n_clusters=k)  
   labels = kmeans.fit_predict(X)
 
-  davies_bouldin_score = davies_bouldin_score(X, labels)
-  print("Davies-Bouldin score:", davies_bouldin_score)
+  davies_score = davies_bouldin_score(X, labels)
+  print("Davies-Bouldin score:", davies_score)
 
   silhouette_score = silhouette_score(X, labels)
   print("Silhouette Coefficient:", silhouette_score)
@@ -78,7 +78,7 @@ def calc_optimal_number_of_clusters(df, k):
   calinski_harabasz_score = calinski_harabasz_score(X, labels)
   print("Calinski-Harabasz Index:", calinski_harabasz_score)
   
-  return davies_bouldin_score, silhouette_score, calinski_harabasz_score
+  return davies_score, silhouette_score, calinski_harabasz_score
   
 def optimal_number_of_clusters(df):
     X = df.drop('ground_truth', axis=1)
@@ -86,7 +86,7 @@ def optimal_number_of_clusters(df):
     k_scores = {}
     
     for k in k_values:
-        davies_bouldin_score, silhouette_score, calinski_harabasz_score =  calc_optimal_number_of_clusters(X,k)
-        k_scores['k'] = {'davies_bouldin_score': davies_bouldin_score, 'silhouette_score': silhouette_score, 'calinski_harabasz_score': calinski_harabasz_score}
+        davies_score, silhouette_score, calinski_harabasz_score =  calc_optimal_number_of_clusters(X,k)
+        k_scores['k'] = {'davies_bouldin_score': davies_score, 'silhouette_score': silhouette_score, 'calinski_harabasz_score': calinski_harabasz_score}
     
     
