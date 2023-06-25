@@ -58,28 +58,44 @@ def find_rows_and_cols_with_null(df):
   null_columns = df.columns[df.isnull().any()]
   print("Columns with null/NaN values:")
   print(null_columns)
-  
+
+def get_bic_score(X, labels):
+  # n is number of observations
+  n, n_features = X.shape
+  k = max(labels) + 1
+
+  # Find each cluster center
+  centroids = np.empty(shape=(k, X.shape[1]))
+  for cluster in range(k):
+    centroids[cluster] = np.mean(X[labels == cluster], axis=0)
+
+  # get residual sum of squares for the bic equation
+  rss = np.sum(np.linalg.norm(X - centroids[labels], axis=1) ** 2)
+  bic = rss + np.log(n) * (k * n_features + k - 1)
+  return bic
+
 # For each K in [1-30 (all numbers), 35-95 (in increments of 5), 100-1000 (in increments of 25)] (in total 80 different k values)
 # Run k-means and Measure the values of all of 5 of the clustering validation metrics
 def calc_scores(X, model):
-  # TODO:
   elbow = 0
   labels = model.fit_predict(X)
+  n_clusters = len(np.unique(labels))
 
-  silhouette = silhouette_score(X, labels)
-  print("Silhouette Coefficient:", silhouette)
-
-  calinski_harabasz = calinski_harabasz_score(X, labels)
-  print("Calinski-Harabasz Index:", calinski_harabasz)
-
-  davies = davies_bouldin_score(X, labels)
-  print("Davies-Bouldin score:", davies)
+  if n_clusters > 1 and n_clusters < X.shape[0]:
+    silhouette = silhouette_score(X, labels)
+    calinski_harabasz = calinski_harabasz_score(X, labels)
+    davies = davies_bouldin_score(X, labels)
+  else:
+    silhouette = np.nan
+    calinski_harabasz = np.nan
+    davies = np.nan
 
   if isinstance(model, KMeans):
     elbow = model.inertia_
-  print("Elbow Method score:", elbow)
 
-  return elbow, davies, silhouette, calinski_harabasz
+  bic = get_bic_score(X, labels)
+
+  return elbow, davies, silhouette, calinski_harabasz, bic
 
 def calc_scores_for_all(X):
     kmeans_scores, dbscan_scores, optics_scores, agg_scores  = {}, {}, {}, {}
@@ -87,25 +103,28 @@ def calc_scores_for_all(X):
     k_values = list(range(2, 31)) + list(range(35, 96, 5)) + list(range(100, 1001, 25))
     for k in k_values:
       kmeans = KMeans(n_clusters=k)
-      elbow, davies, silhouette, calinski_harabasz =  calc_scores(X, kmeans)
-      kmeans_scores[k] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette, 'calinski_harabasz_score': calinski_harabasz}
-      print(f'K means scores for k = {k}: {kmeans_scores[k]}')
+      elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, kmeans)
+      kmeans_scores[k] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette,
+                          'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
 
-    for epsilon in range(0.1, 2.1):
+    for epsilon in np.arange(0.1, 2.1, 0.1):
       dbscan = DBSCAN(eps=epsilon)
-      elbow, davies, silhouette, calinski_harabasz =  calc_scores(X, dbscan)
-      dbscan_scores[epsilon] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette, 'calinski_harabasz_score': calinski_harabasz}
+      elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, dbscan)
+      dbscan_scores[epsilon] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette,
+                                'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
 
     min_samples_values = [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 18, 20, 25, 30, 35, 40, 45, 50]
     for min_sample in min_samples_values:
       optics = OPTICS(min_samples=min_sample)
-      elbow, davies, silhouette, calinski_harabasz =  calc_scores(X, optics)
-      optics_scores[min_sample] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette, 'calinski_harabasz_score': calinski_harabasz}
+      elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, optics)
+      optics_scores[min_sample] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette,
+                                   'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
 
     n_clusters_values = [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 18, 20, 25, 30, 35, 40, 45, 50]
     for n in n_clusters_values:
       agg = AgglomerativeClustering(n_clusters=n)
-      elbow, davies, silhouette, calinski_harabasz =  calc_scores(X, agg)
-      agg_scores[n] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette, 'calinski_harabasz_score': calinski_harabasz}
+      elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, agg)
+      agg_scores[n] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette,
+                       'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
 
     return kmeans_scores, dbscan_scores, optics_scores, agg_scores
