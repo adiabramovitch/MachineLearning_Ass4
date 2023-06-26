@@ -102,7 +102,7 @@ def calc_scores_for_all(X):
 
     k_values = list(range(2, 31)) + list(range(35, 96, 5)) + list(range(100, 1001, 25))
     for k in k_values:
-      kmeans = KMeans(n_clusters=k)
+      kmeans = KMeans(n_clusters=k, n_init='auto')
       elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, kmeans)
       kmeans_scores[k] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette,
                           'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
