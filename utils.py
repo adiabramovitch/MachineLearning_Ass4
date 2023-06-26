@@ -4,6 +4,7 @@ import numpy as np
 from urllib.request import urlretrieve
 from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bouldin_score
 from sklearn.cluster import KMeans, DBSCAN, OPTICS, AgglomerativeClustering
+from tqdm import tqdm
 
 def transform_to_numerical_columns(df, columns):
   df_to_encode = df[columns]
@@ -100,31 +101,39 @@ def calc_scores(X, model):
 def calc_scores_for_all(X):
     kmeans_scores, dbscan_scores, optics_scores, agg_scores  = {}, {}, {}, {}
 
+    print("Working on KMeans")
     k_values = list(range(2, 31)) + list(range(35, 96, 5)) + list(range(100, 1001, 25))
-    for k in k_values:
-      kmeans = KMeans(n_clusters=k, n_init='auto')
+    for i in tqdm(range(len(k_values))):
+      kmeans = KMeans(n_clusters=k_values[i], n_init='auto')
       elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, kmeans)
-      kmeans_scores[k] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette,
-                          'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
-
-    for epsilon in np.arange(0.1, 2.1, 0.1):
-      dbscan = DBSCAN(eps=epsilon, n_jobs=-1)
+      kmeans_scores[k_values[i]] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies,
+                                    'silhouette_score': silhouette,
+                                    'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
+    print("Working on DBSCAN")
+    eps_values = np.arange(0.1, 2.1, 0.1)
+    for i in tqdm(range(len(eps_values))):
+      dbscan = DBSCAN(eps=eps_values[i], n_jobs=-1)
       elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, dbscan)
-      dbscan_scores[epsilon] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette,
-                                'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
+      dbscan_scores[eps_values[i]] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies,
+                                      'silhouette_score': silhouette,
+                                      'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
 
+    print("Working on OPTICS")
     min_samples_values = [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 18, 20, 25, 30, 35, 40, 45, 50]
-    for min_sample in min_samples_values:
-      optics = OPTICS(min_samples=min_sample, n_jobs=-1)
+    for i in tqdm(range(len(min_samples_values))):
+      optics = OPTICS(min_samples=min_samples_values[i], n_jobs=-1)
       elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, optics)
-      optics_scores[min_sample] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette,
-                                   'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
+      optics_scores[min_samples_values[i]] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies,
+                                              'silhouette_score': silhouette,
+                                              'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
 
+    print("Working on AgglomerativeClustering")
     n_clusters_values = [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 18, 20, 25, 30, 35, 40, 45, 50]
-    for n in n_clusters_values:
-      agg = AgglomerativeClustering(n_clusters=n)
+    for i in tqdm(range(len(n_clusters_values))):
+      agg = AgglomerativeClustering(n_clusters=n_clusters_values[i])
       elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, agg)
-      agg_scores[n] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette,
-                       'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
+      agg_scores[n_clusters_values[i]] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies,
+                                          'silhouette_score': silhouette,
+                                          'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
 
     return kmeans_scores, dbscan_scores, optics_scores, agg_scores
