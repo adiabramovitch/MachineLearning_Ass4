@@ -1,3 +1,4 @@
+from matplotlib import pyplot as plt
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 import pandas as pd
 import numpy as np
@@ -67,6 +68,8 @@ def find_rows_and_cols_with_null(df):
     print("Columns with null/NaN values:")
     print(null_columns)
 
+from sklearn.cluster import KMeans, DBSCAN, OPTICS, AgglomerativeClustering
+from tqdm import tqdm
 
 def get_bic_score(X, labels):
     # n is number of observations
@@ -83,9 +86,16 @@ def get_bic_score(X, labels):
     bic = rss + np.log(n) * (k * n_features + k - 1)
     return bic
 
+def plot_elbow_method(x_label, y_label, x_values, y_values):
+    # Plot SSE curve
+    plt.plot( x_values, y_values, 'bo-')
+    plt.xlabel(x_label)
+    plt.ylabel(y_label)
+    plt.title(f'Elbow Method')
+    plt.show()
 
 def calc_scores(X, model):
-    elbow = 0
+    sse = np.nan
     labels = model.fit_predict(X)
     n_clusters = len(np.unique(labels))
 
@@ -99,15 +109,32 @@ def calc_scores(X, model):
         davies = np.nan
 
     if isinstance(model, KMeans):
-        elbow = model.inertia_
+        sse = model.inertia_
+    else:
+        kmeans = KMeans(n_clusters=n_clusters)
+        labels = kmeans.fit_predict(X)
+        sse = kmeans.inertia_
 
     bic = get_bic_score(X, labels)
 
-    return elbow, davies, silhouette, calinski_harabasz, bic
+    return sse, davies, silhouette, calinski_harabasz, bic, n_clusters
 
+def create_rows(algo, dataset, hyper_param, hyper_param_value, n_clusters, silhouette, davies, calinski_harabasz, bic, sse):
+  return [{'Algorithm': algo, 'Dataset': dataset, 'Hyper-parameter name': hyper_param, 'Hyper-parameter value': hyper_param_value,
+       'Metric name': 'Silhouette', 'Metric value': silhouette, 'Num clusters': n_clusters},
+                {'Algorithm': algo, 'Dataset': dataset, 'Hyper-parameter name': hyper_param, 'Hyper-parameter value': hyper_param_value,
+       'Metric name': 'DB', 'Metric value': davies, 'Num clusters': n_clusters},
+                {'Algorithm': algo, 'Dataset': dataset, 'Hyper-parameter name': hyper_param, 'Hyper-parameter value': hyper_param_value,
+       'Metric name': 'CH', 'Metric value': calinski_harabasz, 'Num clusters': n_clusters},
+                {'Algorithm': algo, 'Dataset': dataset, 'Hyper-parameter name': hyper_param, 'Hyper-parameter value': hyper_param_value,
+       'Metric name': 'BIC', 'Metric value': bic, 'Num clusters': n_clusters},
+                {'Algorithm': algo, 'Dataset': dataset, 'Hyper-parameter name': hyper_param, 'Hyper-parameter value': hyper_param_value,
+       'Metric name': 'SSE-Elbow', 'Metric value': sse, 'Num clusters': n_clusters}]
 
-def calc_scores_for_all(X):
-    kmeans_scores, dbscan_scores, optics_scores, agg_scores = {}, {}, {}, {}
+def calc_scores_for_all(X, dataset):
+    table = pd.DataFrame(columns=['Algorithm', 'Dataset', 'Hyper-parameter name', 'Hyper-parameter value',
+                           'Metric name', 'Metric value', 'Num clusters'])
+    sse_arr = []
 
     print("Working on KMeans")
     # For each K in [1-30 (all numbers), 35-95 (increments of 5), 100-1000 (increments of 25)] (80 different k values)
@@ -115,35 +142,44 @@ def calc_scores_for_all(X):
     k_values = list(range(1, 31)) + list(range(35, 96, 5)) + list(range(100, 1001, 25))
     for i in tqdm(range(len(k_values))):
         kmeans = KMeans(n_clusters=k_values[i], n_init='auto')
-        elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, kmeans)
-        kmeans_scores[k_values[i]] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies,
-                                      'silhouette_score': silhouette,
-                                      'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
+        sse, davies, silhouette, calinski_harabasz, bic, _ = calc_scores(X, kmeans)
+        sse_arr.append(sse)
+        rows = create_rows('K-Means', dataset, 'n_clusters', k_values[i], k_values[i], silhouette, davies, calinski_harabasz, bic, sse)
+        table = pd.concat([table, pd.DataFrame(rows)])
+    plot_elbow_method('Clusters', 'SSE', k_values, sse_arr)
+    print(table.shape)
+
     print("Working on DBSCAN")
+    sse_arr.clear()
     eps_values = np.arange(0.1, 2.1, 0.1)
     for i in tqdm(range(len(eps_values))):
         dbscan = DBSCAN(eps=eps_values[i], n_jobs=-1)
-        elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, dbscan)
-        dbscan_scores[eps_values[i]] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies,
-                                        'silhouette_score': silhouette,
-                                        'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
+        sse, davies, silhouette, calinski_harabasz, bic, k = calc_scores(X, dbscan)
+        sse_arr.append(sse)
+        rows = create_rows('DBSCAN', dataset, 'eps', eps_values[i], k, silhouette, davies, calinski_harabasz, bic, sse)
+        table = pd.concat([table, pd.DataFrame(rows)])
+    plot_elbow_method('Epsilons', 'SSE', eps_values, sse_arr)
 
     print("Working on OPTICS")
+    sse_arr.clear()
     min_samples_values = [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 18, 20, 25, 30, 35, 40, 45, 50]
     for i in tqdm(range(len(min_samples_values))):
         optics = OPTICS(min_samples=min_samples_values[i], n_jobs=-1)
-        elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, optics)
-        optics_scores[min_samples_values[i]] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies,
-                                                'silhouette_score': silhouette,
-                                                'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
+        sse, davies, silhouette, calinski_harabasz, bic, k = calc_scores(X, optics)
+        sse_arr.append(sse)
+        rows = create_rows('OPTICS', dataset, 'min_samples', min_samples_values[i], k ,silhouette, davies, calinski_harabasz, bic, sse)
+        table = pd.concat([table, pd.DataFrame(rows)])
+    plot_elbow_method('Min Sampels', 'SSE', min_samples_values, sse_arr)
 
     print("Working on AgglomerativeClustering")
+    sse_arr.clear()
     n_clusters_values = [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 18, 20, 25, 30, 35, 40, 45, 50]
     for i in tqdm(range(len(n_clusters_values))):
         agg = AgglomerativeClustering(n_clusters=n_clusters_values[i])
-        elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, agg)
-        agg_scores[n_clusters_values[i]] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies,
-                                            'silhouette_score': silhouette,
-                                            'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
+        sse, davies, silhouette, calinski_harabasz, bic, k_values = calc_scores(X, agg)
+        sse_arr.append(sse)
+        rows = create_rows('AgglomerativeClustering', dataset, 'n_clusters', n_clusters_values[i], k, silhouette, davies, calinski_harabasz, bic, sse)
+        table = pd.concat([table, pd.DataFrame(rows)])
+    plot_elbow_method('Clusters', 'SSE', n_clusters_values, sse_arr)
 
-    return kmeans_scores, dbscan_scores, optics_scores, agg_scores
+    return table
