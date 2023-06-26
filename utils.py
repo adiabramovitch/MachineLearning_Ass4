@@ -108,14 +108,14 @@ def calc_scores_for_all(X):
                           'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
 
     for epsilon in np.arange(0.1, 2.1, 0.1):
-      dbscan = DBSCAN(eps=epsilon)
+      dbscan = DBSCAN(eps=epsilon, n_jobs=-1)
       elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, dbscan)
       dbscan_scores[epsilon] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette,
                                 'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
 
     min_samples_values = [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 18, 20, 25, 30, 35, 40, 45, 50]
     for min_sample in min_samples_values:
-      optics = OPTICS(min_samples=min_sample)
+      optics = OPTICS(min_samples=min_sample, n_jobs=-1)
       elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, optics)
       optics_scores[min_sample] = {'Elbow-Method': elbow, 'davies_bouldin_score': davies, 'silhouette_score': silhouette,
                                    'calinski_harabasz_score': calinski_harabasz, 'bic_score': bic}
