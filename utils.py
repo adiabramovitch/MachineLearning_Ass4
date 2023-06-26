@@ -176,7 +176,7 @@ def calc_scores_for_all(X, dataset):
     n_clusters_values = [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 18, 20, 25, 30, 35, 40, 45, 50]
     for i in tqdm(range(len(n_clusters_values))):
         agg = AgglomerativeClustering(n_clusters=n_clusters_values[i])
-        sse, davies, silhouette, calinski_harabasz, bic, k_values = calc_scores(X, agg)
+        sse, davies, silhouette, calinski_harabasz, bic, k = calc_scores(X, agg)
         sse_arr.append(sse)
         rows = create_rows('AgglomerativeClustering', dataset, 'n_clusters', n_clusters_values[i], k, silhouette, davies, calinski_harabasz, bic, sse)
         table = pd.concat([table, pd.DataFrame(rows)])
