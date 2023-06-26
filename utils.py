@@ -1,7 +1,6 @@
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 import pandas as pd
 import numpy as np
-from urllib.request import urlretrieve
 from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bouldin_score
 from sklearn.cluster import KMeans, DBSCAN, OPTICS, AgglomerativeClustering
 from tqdm import tqdm
@@ -113,7 +112,7 @@ def calc_scores_for_all(X):
     print("Working on KMeans")
     # For each K in [1-30 (all numbers), 35-95 (increments of 5), 100-1000 (increments of 25)] (80 different k values)
     # Run k-means and Measure the values of all of 5 of the clustering validation metrics
-    k_values = list(range(2, 31)) + list(range(35, 96, 5)) + list(range(100, 1001, 25))
+    k_values = list(range(1, 31)) + list(range(35, 96, 5)) + list(range(100, 1001, 25))
     for i in tqdm(range(len(k_values))):
         kmeans = KMeans(n_clusters=k_values[i], n_init='auto')
         elbow, davies, silhouette, calinski_harabasz, bic = calc_scores(X, kmeans)
