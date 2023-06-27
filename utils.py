@@ -172,13 +172,17 @@ def calc_scores_for_all(X, dataset):
     k_values = list(range(1, 31)) + list(range(35, 96, 5)) + list(range(100, 1001, 25))
     for i in tqdm(range(len(k_values))):
         kmeans = KMeans(n_clusters=k_values[i], n_init='auto')
-        sse, davies, silhouette, calinski_harabasz, bic, _ = calc_scores(X, kmeans)
+        # If number of samples is smalller than number of clusters
+        if  X.shape[0] < k_values[i]:
+            sse, davies, silhouette, calinski_harabasz, bic, k = np.nan, np.nan, np.nan, np.nan,np.nan, k_values[i]
+        else:
+            sse, davies, silhouette, calinski_harabasz, bic, k = calc_scores(X, kmeans)
         sse_arr.append(sse)
         davis_arr.append(davies)
         silhouette_arr.append(silhouette)
         vrc_arr.append(calinski_harabasz)
         bic_arr.append(bic)
-        log_rows('K-Means', dataset, 'n_clusters', k_values[i], k_values[i], silhouette, davies, calinski_harabasz, bic, sse)
+        log_rows('K-Means', dataset, 'n_clusters', k_values[i], k, silhouette, davies, calinski_harabasz, bic, sse)
     plot_elbow_method('n_clusters (k)', 'SSE-Elbow', k_values, sse_arr, 'K-Means', dataset)
     plot_elbow_method('n_clusters (k)', 'VRC', k_values, vrc_arr, 'K-Means', dataset)
     plot_elbow_method('n_clusters (k)', 'DB', k_values, davis_arr, 'K-Means', dataset)
