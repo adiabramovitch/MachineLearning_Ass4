@@ -179,11 +179,11 @@ def calc_scores_for_all(X, dataset):
         vrc_arr.append(calinski_harabasz)
         bic_arr.append(bic)
         log_rows('K-Means', dataset, 'n_clusters', k_values[i], k_values[i], silhouette, davies, calinski_harabasz, bic, sse)
-    plot_elbow_method('n_clusters (k)', 'SSE-Elbow', k_values, sse_arr, dataset)
-    plot_elbow_method('n_clusters (k)', 'VRC', k_values, vrc_arr, dataset)
-    plot_elbow_method('n_clusters (k)', 'DB', k_values, davis_arr, dataset)
-    plot_elbow_method('n_clusters (k)', 'Silhouette', k_values, silhouette_arr, dataset)
-    plot_elbow_method('n_clusters (k)', 'BIC', k_values, bic_arr, dataset)
+    plot_elbow_method('n_clusters (k)', 'SSE-Elbow', k_values, sse_arr, 'K-Means', dataset)
+    plot_elbow_method('n_clusters (k)', 'VRC', k_values, vrc_arr, 'K-Means', dataset)
+    plot_elbow_method('n_clusters (k)', 'DB', k_values, davis_arr, 'K-Means', dataset)
+    plot_elbow_method('n_clusters (k)', 'Silhouette', k_values, silhouette_arr, 'K-Means', dataset)
+    plot_elbow_method('n_clusters (k)', 'BIC', k_values, bic_arr, 'K-Means', dataset)
 
     sse_arr.clear()
     davis_arr.clear()
@@ -197,7 +197,7 @@ def calc_scores_for_all(X, dataset):
         sse, davies, silhouette, calinski_harabasz, bic, k = calc_scores(X, dbscan)
         sse_arr.append(sse)
         log_rows('dbscan', dataset, 'eps', eps_values[i], k, silhouette, davies, calinski_harabasz, bic, sse)
-    plot_elbow_method('Epsilons', 'SSE-Elbow', eps_values, sse_arr, dataset)
+    plot_elbow_method('Epsilons', 'SSE-Elbow', eps_values, sse_arr, 'dbscan', dataset)
 
     print("Working on OPTICS")
     sse_arr.clear()
@@ -207,7 +207,7 @@ def calc_scores_for_all(X, dataset):
         sse, davies, silhouette, calinski_harabasz, bic, k = calc_scores(X, optics)
         sse_arr.append(sse)
         log_rows('OPTICS', dataset, 'min_samples', min_samples_values[i], k, silhouette, davies, calinski_harabasz, bic, sse)
-    plot_elbow_method('Min Samples', 'SSE-Elbow', min_samples_values, sse_arr, dataset)
+    plot_elbow_method('Min Samples', 'SSE-Elbow', min_samples_values, sse_arr, 'OPTICS', dataset)
 
     print("Working on AgglomerativeClustering")
     sse_arr.clear()
@@ -217,7 +217,7 @@ def calc_scores_for_all(X, dataset):
         sse, davies, silhouette, calinski_harabasz, bic, k = calc_scores(X, agg)
         sse_arr.append(sse)
         log_rows('Agglomerative', dataset, 'n_clusters', n_clusters_values[i], k, silhouette, davies, calinski_harabasz, bic, sse)
-    plot_elbow_method('Clusters', 'SSE-Elbow', n_clusters_values, sse_arr, dataset)
+    plot_elbow_method('Clusters', 'SSE-Elbow', n_clusters_values, sse_arr, 'Agglomerative', dataset)
 
 # def calc_kmeans(X, dataset):
 #     table = pd.DataFrame(columns=['Algorithm', 'Dataset', 'Hyper-parameter name', 'Hyper-parameter value',
