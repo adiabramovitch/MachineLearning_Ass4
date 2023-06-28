@@ -128,7 +128,7 @@ def calc_scores(X, model):
     if isinstance(model, KMeans):
         sse = model.inertia_
     else:
-        kmeans = KMeans(n_clusters=n_clusters, n_init='auto')
+        kmeans = KMeans(n_clusters=n_clusters, n_init='auto', random_state=C.SEED)
         labels = kmeans.fit_predict(X)
         sse = kmeans.inertia_
 
@@ -171,7 +171,7 @@ def calc_kmeans(X, dataset):
     # Run k-means and Measure the values of all of 5 of the clustering validation metrics
     k_values = C.K_VALUES
     for i in tqdm(range(len(k_values))):
-        kmeans = KMeans(n_clusters=k_values[i], n_init='auto')
+        kmeans = KMeans(n_clusters=k_values[i], n_init='auto', random_state=C.SEED)
         # If number of samples is smaller than number of clusters
         if X.shape[0] < k_values[i]:
             sse, davies, silhouette, calinski_harabasz, bic, k = np.nan, np.nan, np.nan, np.nan, np.nan, k_values[i]
