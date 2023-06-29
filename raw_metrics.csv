@@ -1,0 +1,2101 @@
+Dataset,Algorithm,Hyper-parameter name,Hyper-parameter value,Metric name,Metric value,Num clusters
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,2.0,VRC,23787.541798119903,2
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,2.0,Silhouette,0.3117111223753001,2
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,2.0,SSE-Elbow,2283654.598912714,2
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,2.0,DB,1.4651934942782816,2
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,2.0,BIC,2283885.6376625453,2
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,7.0,VRC,12453.574346886891,7
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,7.0,Silhouette,0.15268045094989025,7
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,7.0,SSE-Elbow,1357051.7046256035,7
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,7.0,DB,1.6006882606469262,7
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,7.0,BIC,1357891.7658397078,7
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,12.0,VRC,9677.3523255671,12
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,12.0,Silhouette,0.14448650065030416,12
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,12.0,SSE-Elbow,1103293.0276936728,12
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,12.0,DB,1.5137409036683669,12
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,12.0,BIC,1104740.9681330142,12
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,17.0,VRC,8052.565250381696,17
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,17.0,Silhouette,0.13012768820243176,17
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,17.0,SSE-Elbow,943494.5062569844,17
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,17.0,DB,1.7236432662547168,17
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,17.0,BIC,945552.9529124642,17
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,22.0,VRC,7023.623017185206,22
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,22.0,Silhouette,0.08615868440261075,22
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,22.0,SSE-Elbow,855214.0869726522,22
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,22.0,DB,1.7806880502611642,22
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,22.0,BIC,857882.915394624,22
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,27.0,VRC,6282.510728075718,27
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,27.0,Silhouette,0.08749371405373609,27
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,27.0,SSE-Elbow,799688.9706754826,27
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,27.0,DB,1.7991102042797007,27
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,27.0,BIC,802966.3792891527,27
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,32.0,VRC,5741.426217014021,32
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,32.0,Silhouette,0.08761380444020175,32
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,32.0,SSE-Elbow,750916.2839515816,32
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,32.0,DB,1.7883836527137165,32
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,32.0,BIC,754803.941601262,32
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,37.0,VRC,5247.823144131402,37
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,37.0,Silhouette,0.0851616544471681,37
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,37.0,SSE-Elbow,706227.0851142157,37
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,37.0,DB,1.8103333128825752,37
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,37.0,BIC,710723.8832609656,37
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,42.0,VRC,4851.816229261176,42
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,42.0,Silhouette,0.08248895550407061,42
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,42.0,SSE-Elbow,678777.6032106648,42
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,42.0,DB,1.78006632933842,42
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,42.0,BIC,683884.2720021209,42
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,47.0,VRC,4533.071896588393,47
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,47.0,Silhouette,0.0809611622658524,47
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,47.0,SSE-Elbow,652773.1782656445,47
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,47.0,DB,1.7970979811869854,47
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,47.0,BIC,658489.5968245087,47
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,52.0,VRC,4267.383018261378,52
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,52.0,Silhouette,0.08323900523143614,52
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,52.0,SSE-Elbow,630375.1395275671,52
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,52.0,DB,1.7586362123855446,52
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,52.0,BIC,636701.2222600715,52
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,57.0,VRC,4042.355211198545,57
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,57.0,Silhouette,0.07604622828120627,57
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,57.0,SSE-Elbow,614128.7185530862,57
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,57.0,DB,1.7729344057343566,57
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,57.0,BIC,621063.8857879334,57
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,62.0,VRC,3851.653323567944,62
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,62.0,Silhouette,0.07446310504012334,62
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,62.0,SSE-Elbow,591258.9821166781,62
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,62.0,DB,1.8013877750600764,62
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,62.0,BIC,598803.2022238576,62
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,67.0,VRC,3690.586407741971,67
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,67.0,Silhouette,0.07216388703511399,67
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,67.0,SSE-Elbow,576110.8619011808,67
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,67.0,DB,1.8060750461916129,67
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,67.0,BIC,584264.3015290818,67
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,72.0,VRC,3543.0085665210777,72
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,72.0,Silhouette,0.07453820335115782,72
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,72.0,SSE-Elbow,565180.3696403848,72
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,72.0,DB,1.8132462899794195,72
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,72.0,BIC,573943.8512593083,72
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,77.0,VRC,3397.3343502741823,77
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,77.0,Silhouette,0.07510019673984367,77
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,77.0,SSE-Elbow,551842.8637256187,77
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,77.0,DB,1.8142220510070508,77
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,77.0,BIC,561215.779416431,77
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,82.0,VRC,3266.4312176932845,82
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,82.0,Silhouette,0.07171118778803458,82
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,82.0,SSE-Elbow,539848.0462410741,82
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,82.0,DB,1.8232869951694983,82
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,82.0,BIC,549830.7731222215,82
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,87.0,VRC,3148.001255834198,87
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,87.0,Silhouette,0.07116298854229423,87
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,87.0,SSE-Elbow,529267.2647310254,87
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,87.0,DB,1.8206409982732228,87
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,87.0,BIC,539859.4516337366,87
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,92.0,VRC,3040.609282607986,92
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,92.0,Silhouette,0.07173615415789164,92
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,92.0,SSE-Elbow,520770.60612544464,92
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,92.0,DB,1.852377988525308,92
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,92.0,BIC,531971.8653548594,92
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,97.0,VRC,2943.3036572337087,97
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,97.0,Silhouette,0.0731561640031559,97
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,97.0,SSE-Elbow,511299.4709264029,97
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,97.0,DB,1.8483774631188157,97
+TV News Channel Commercial Detection Dataset,Agglomerative,n_clusters,97.0,BIC,523109.96077814774,97
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,1.0,VRC,NaN,1
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,1.0,Silhouette,NaN,1
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,1.0,SSE-Elbow,3244083.0288845794,1
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,1.0,DB,NaN,1
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,1.0,BIC,3244193.8259727852,1
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,2.0,VRC,27269.592363346284,2
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,2.0,Silhouette,0.3430301022879895,2
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,2.0,SSE-Elbow,2283654.598912714,2
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,2.0,DB,1.351904187584549,2
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,2.0,BIC,2283885.6376625453,2
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,3.0,VRC,20495.173883077456,3
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,3.0,Silhouette,0.23527882873964975,3
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,3.0,SSE-Elbow,1987573.7893076795,3
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,3.0,DB,1.5837272095707329,3
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,3.0,BIC,1987923.253974568,3
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,4.0,VRC,16574.155846885795,4
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,4.0,Silhouette,0.1643649305958262,4
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,4.0,SSE-Elbow,1836065.089634576,4
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,4.0,DB,1.775919855750332,4
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,4.0,BIC,1836536.107946012,4
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,5.0,VRC,17595.78020947769,5
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,5.0,Silhouette,0.2868649787960297,5
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,5.0,SSE-Elbow,1555514.4203544916,5
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,5.0,DB,1.1954552099922795,5
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,5.0,BIC,1556110.9753226642,5
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,6.0,VRC,16557.262772054346,6
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,6.0,Silhouette,0.21857602555311095,6
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,6.0,SSE-Elbow,1424809.050545033,6
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,6.0,DB,1.354209029788383,6
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,6.0,BIC,1425527.5950788264,6
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,7.0,VRC,15025.95479038792,7
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,7.0,Silhouette,0.19541080196069527,7
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,7.0,SSE-Elbow,1357051.7046256035,7
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,7.0,DB,1.461086272783093,7
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,7.0,BIC,1357891.7658397078,7
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,8.0,VRC,14112.717642933248,8
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,8.0,Silhouette,0.19320694118723303,8
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,8.0,SSE-Elbow,1285438.6852955543,8
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,8.0,DB,1.4671828231289985,8
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,8.0,BIC,1286399.655111815,8
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,9.0,VRC,13449.330221936783,9
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,9.0,Silhouette,0.19207424747077056,9
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,9.0,SSE-Elbow,1219780.4426813447,9
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,9.0,DB,1.4625736786376085,9
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,9.0,BIC,1220864.9190713083,9
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,10.0,VRC,12654.180462844752,10
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,10.0,Silhouette,0.18391844181758865,10
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,10.0,SSE-Elbow,1176818.6679573422,10
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,10.0,DB,1.4873148015808326,10
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,10.0,BIC,1178025.2420727685,10
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,11.0,VRC,12171.211363753348,11
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,11.0,Silhouette,0.19647697309912132,11
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,11.0,SSE-Elbow,1127446.199951762,11
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,11.0,DB,1.460800236249285,11
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,11.0,BIC,1128774.8121356491,11
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,12.0,VRC,11435.854445723871,12
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,12.0,Silhouette,0.1959297257276315,12
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,12.0,SSE-Elbow,1103293.0276936728,12
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,12.0,DB,1.3827009971238855,12
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,12.0,BIC,1104740.9681330142,12
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,13.0,VRC,11162.217778013455,13
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,13.0,Silhouette,0.19514651325422097,13
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,13.0,SSE-Elbow,1058032.1621060614,13
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,13.0,DB,1.352474510697043,13
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,13.0,BIC,1059603.8041320876,13
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,14.0,VRC,10797.77161577372,14
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,14.0,Silhouette,0.1861160538840024,14
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,14.0,SSE-Elbow,1024897.2935692626,14
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,14.0,DB,1.3855919530693974,14
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,14.0,BIC,1026589.9698860988,14
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,15.0,VRC,10509.780867293695,15
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,15.0,Silhouette,0.18360164049078345,15
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,15.0,SSE-Elbow,992171.1187671165,15
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,15.0,DB,1.3995068599941738,15
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,15.0,BIC,993986.6757643094,15
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,16.0,VRC,10141.261333616098,16
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,16.0,Silhouette,0.1745698257768587,16
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,16.0,SSE-Elbow,969375.9774182796,16
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,16.0,DB,1.452491731754135,16
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,16.0,BIC,971313.693685506,16
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,17.0,VRC,9879.242823735703,17
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,17.0,Silhouette,0.16283840899756552,17
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,17.0,SSE-Elbow,943494.5062569844,17
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,17.0,DB,1.463839017522958,17
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,17.0,BIC,945552.9529124642,17
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,18.0,VRC,9663.810317185123,18
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,18.0,Silhouette,0.16082964260390284,18
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,18.0,SSE-Elbow,917881.3830144204,18
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,18.0,DB,1.4634167502332585,18
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,18.0,BIC,920063.0322080412,18
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,19.0,VRC,9390.564281035127,19
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,19.0,Silhouette,0.15603550031275554,19
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,19.0,SSE-Elbow,899245.8517108134,19
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,19.0,DB,1.5011296233604456,19
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,19.0,BIC,901549.2029684904,19
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,20.0,VRC,9159.610219331213,20
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,20.0,Silhouette,0.1600102155267427,20
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,20.0,SSE-Elbow,880402.6029731977,20
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,20.0,DB,1.4901953231766254,20
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,20.0,BIC,882827.9860053756,20
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,21.0,VRC,8848.524734068269,21
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,21.0,Silhouette,0.15637281650958323,21
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,21.0,SSE-Elbow,869695.8027725664,21
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,21.0,DB,1.5420169437207127,21
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,21.0,BIC,872242.7211313392,21
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,22.0,VRC,8622.00286543095,22
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,22.0,Silhouette,0.15720115405804885,22
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,22.0,SSE-Elbow,855214.0869726522,22
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,22.0,DB,1.5597140185048963,22
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,22.0,BIC,857882.915394624,22
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,23.0,VRC,8396.18356618607,23
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,23.0,Silhouette,0.15696755520672018,23
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,23.0,SSE-Elbow,842680.9572147115,23
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,23.0,DB,1.5240187875332485,23
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,23.0,BIC,845472.2134309718,23
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,24.0,VRC,8119.7784069237505,24
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,24.0,Silhouette,0.15646750545764784,24
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,24.0,SSE-Elbow,835841.7930841123,24
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,24.0,DB,1.515616320811912,24
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,24.0,BIC,838755.0693514976,24
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,25.0,VRC,7961.330744114611,25
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,25.0,Silhouette,0.15609675131020737,25
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,25.0,SSE-Elbow,821731.0668546438,25
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,25.0,DB,1.5197019264220963,25
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,25.0,BIC,824766.2809413899,25
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,26.0,VRC,7723.074281133947,26
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,26.0,Silhouette,0.15435181300158596,26
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,26.0,SSE-Elbow,815333.1829642709,26
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,26.0,DB,1.550624394845594,26
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,26.0,BIC,818490.4409328751,26
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,27.0,VRC,7619.980597087241,27
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,27.0,Silhouette,0.15240964695135872,27
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,27.0,SSE-Elbow,799688.9706754825,27
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,27.0,DB,1.5465853674257914,27
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,27.0,BIC,802966.3792891527,27
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,28.0,VRC,7446.5018823916125,28
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,28.0,Silhouette,0.1446583393554952,28
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,28.0,SSE-Elbow,790848.0568999976,28
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,28.0,DB,1.559388607669186,28
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,28.0,BIC,794247.9469419327,28
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,29.0,VRC,7339.969287935625,29
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,29.0,Silhouette,0.14714857957036853,29
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,29.0,SSE-Elbow,777779.5539949755,29
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,29.0,DB,1.5320415065715025,29
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,29.0,BIC,781302.6869341477,29
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,30.0,VRC,7211.961982485781,30
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,30.0,Silhouette,0.14713566844587145,30
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,30.0,SSE-Elbow,767471.8343295302,30
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,30.0,DB,1.5267228517042548,30
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,30.0,BIC,771116.2251178492,30
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,35.0,VRC,6706.010558203047,35
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,35.0,Silhouette,0.1470818355313649,35
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,35.0,SSE-Elbow,718002.8859481981,35
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,35.0,DB,1.519925216530026,35
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,35.0,BIC,722257.1118675178,35
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,40.0,VRC,6168.317053745539,40
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,40.0,Silhouette,0.14660511110645125,40
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,40.0,SSE-Elbow,688430.1294616954,40
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,40.0,DB,1.5562415107765726,40
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,40.0,BIC,693293.0153609231,40
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,45.0,VRC,5729.883079287703,45
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,45.0,Silhouette,0.14297434655998367,45
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,45.0,SSE-Elbow,663298.4940722146,45
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,45.0,DB,1.5687324894492387,45
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,45.0,BIC,668770.8968465191,45
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,50.0,VRC,5412.126168790608,50
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,50.0,Silhouette,0.14589730469461068,50
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,50.0,SSE-Elbow,636968.2871685785,50
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,50.0,DB,1.5472896120729482,50
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,50.0,BIC,643050.7269861171,50
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,55.0,VRC,5074.318934972988,55
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,55.0,Silhouette,0.13507923622545023,55
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,55.0,SSE-Elbow,620349.8671123027,55
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,55.0,DB,1.6100367552590082,55
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,55.0,BIC,627041.2266889431,55
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,60.0,VRC,4846.717498393769,60
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,60.0,Silhouette,0.13951711420833135,60
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,60.0,SSE-Elbow,599188.4765109286,60
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,60.0,DB,1.5873587971679253,60
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,60.0,BIC,606489.4906488312,60
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,65.0,VRC,4627.751464047312,65
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,65.0,Silhouette,0.13994275668022296,65
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,65.0,SSE-Elbow,582187.1230540195,65
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,65.0,DB,1.567993597357718,65
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,65.0,BIC,590097.2682488287,65
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,70.0,VRC,4416.6286205920605,70
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,70.0,Silhouette,0.13630243548005655,70
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,70.0,SSE-Elbow,568646.2614541795,70
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,70.0,DB,1.5933822216443436,70
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,70.0,BIC,577166.3814169003,70
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,75.0,VRC,4224.527646937972,75
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,75.0,Silhouette,0.13743782285409695,75
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,75.0,SSE-Elbow,556756.038507802,75
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,75.0,DB,1.5902018528866104,75
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,75.0,BIC,565885.1691786075,75
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,80.0,VRC,4057.054611645095,80
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,80.0,Silhouette,0.13641112199403443,80
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,80.0,SSE-Elbow,545316.0007199938,80
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,80.0,DB,1.5939180160721098,80
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,80.0,BIC,555054.502650941,80
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,85.0,VRC,3929.624668005824,85
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,85.0,Silhouette,0.13696989706222493,85
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,85.0,SSE-Elbow,532049.3558352761,85
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,85.0,DB,1.5808453387777992,85
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,85.0,BIC,542397.3115533387,85
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,90.0,VRC,3777.979638605193,90
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,90.0,Silhouette,0.13686558635428467,90
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,90.0,SSE-Elbow,523853.264172578,90
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,90.0,DB,1.6008931353357638,90
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,90.0,BIC,534810.5918990128,90
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,95.0,VRC,3648.2949121128354,95
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,95.0,Silhouette,0.1375034796310584,95
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,95.0,SSE-Elbow,515211.50127872336,95
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,95.0,DB,1.5813175502365815,95
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,95.0,BIC,526778.1185748031,95
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,100.0,VRC,3533.891811676405,100
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,100.0,Silhouette,0.13561566570752015,100
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,100.0,SSE-Elbow,506584.9529866488,100
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,100.0,DB,1.5941867378136552,100
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,100.0,BIC,518760.76937486103,100
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,125.0,VRC,3088.330051567471,125
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,125.0,Silhouette,0.13628706248762495,125
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,125.0,SSE-Elbow,468978.77417375194,125
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,125.0,DB,1.585239376946899,125
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,125.0,BIC,484201.4632699627,125
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,150.0,VRC,2759.9112399166565,150
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,150.0,Silhouette,0.13577158435103717,150
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,150.0,SSE-Elbow,440971.1878716048,150
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,150.0,DB,1.584693254332369,150
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,150.0,BIC,459241.1063540844,150
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,175.0,VRC,2495.6877962535777,175
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,175.0,Silhouette,0.1329590699045606,175
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,175.0,SSE-Elbow,420481.5449497873,175
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,175.0,DB,1.6048796486303296,175
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,175.0,BIC,441798.6286678035,175
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,200.0,VRC,2294.725798757724,200
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,200.0,Silhouette,0.1340724124893528,200
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,200.0,SSE-Elbow,402277.3762821999,200
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,200.0,DB,1.589164175083529,200
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,200.0,BIC,426641.3923009592,200
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,225.0,VRC,2130.9265038334784,225
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,225.0,Silhouette,0.13571852648072263,225
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,225.0,SSE-Elbow,386797.9561168774,225
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,225.0,DB,1.6111107895563852,225
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,225.0,BIC,414208.9230430715,225
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,250.0,VRC,2000.4230819992972,250
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,250.0,Silhouette,0.13704915875703802,250
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,250.0,SSE-Elbow,372388.3312381545,250
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,250.0,DB,1.5982699216693317,250
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,250.0,BIC,402846.2460658908,250
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,275.0,VRC,1884.0733993474184,275
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,275.0,Silhouette,0.13798439737311305,275
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,275.0,SSE-Elbow,360640.2188630176,275
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,275.0,DB,1.5961860879674552,275
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,275.0,BIC,394144.8239493923,275
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,300.0,VRC,1785.4809513984153,300
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,300.0,Silhouette,0.13994456343995984,300
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,300.0,SSE-Elbow,349898.9564490122,300
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,300.0,DB,1.591218369721119,300
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,300.0,BIC,386450.5646261936,300
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,325.0,VRC,1691.058752690103,325
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,325.0,Silhouette,0.1385044907938369,325
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,325.0,SSE-Elbow,341756.7366925572,325
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,325.0,DB,1.595743580042175,325
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,325.0,BIC,381355.34141790913,325
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,350.0,VRC,1616.6852654850009,350
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,350.0,Silhouette,0.13988942459940448,350
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,350.0,SSE-Elbow,332769.8348390425,350
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,350.0,DB,1.5880167805859284,350
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,350.0,BIC,375415.5760747785,350
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,375.0,VRC,1547.466246090171,375
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,375.0,Silhouette,0.14084246065951073,375
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,375.0,SSE-Elbow,325139.97792524856,375
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,375.0,DB,1.5958428218877183,375
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,375.0,BIC,370832.6456367252,375
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,400.0,VRC,1486.796710690252,400
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,400.0,Silhouette,0.1413089248324515,400
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,400.0,SSE-Elbow,317870.6670590089,400
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,400.0,DB,1.5950003795807113,400
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,400.0,BIC,366610.2471642224,400
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,425.0,VRC,1433.4698495562209,425
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,425.0,Silhouette,0.14210750678635165,425
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,425.0,SSE-Elbow,310877.04732038116,425
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,425.0,DB,1.5841243858949112,425
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,425.0,BIC,362663.5930052814,425
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,450.0,VRC,1388.4052450421334,450
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,450.0,Silhouette,0.14276076196478352,450
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,450.0,SSE-Elbow,303718.1363454966,450
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,450.0,DB,1.5701856248169748,450
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,450.0,BIC,358551.5076070457,450
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,475.0,VRC,1340.246462382168,475
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,475.0,Silhouette,0.1431025797131675,475
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,475.0,SSE-Elbow,298454.6059113412,475
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,475.0,DB,1.57574563036252,475
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,475.0,BIC,356334.96305136115,475
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,500.0,VRC,1297.0515868151808,500
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,500.0,Silhouette,0.1439078548425118,500
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,500.0,SSE-Elbow,293338.13197400875,500
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,500.0,DB,1.5728434342164836,500
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,500.0,BIC,354265.39185413794,500
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,525.0,VRC,1258.9300979885782,525
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,525.0,Silhouette,0.14438580181204752,525
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,525.0,SSE-Elbow,288191.6214315542,525
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,525.0,DB,1.5680956348493562,525
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,525.0,BIC,352165.86016130133,525
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,550.0,VRC,1221.730653405031,550
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,550.0,Silhouette,0.1455611580374184,550
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,550.0,SSE-Elbow,283758.49779487227,550
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,550.0,DB,1.5678683357295975,550
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,550.0,BIC,350779.39931739727,550
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,575.0,VRC,1189.0212687247613,575
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,575.0,Silhouette,0.14615512163837557,575
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,575.0,SSE-Elbow,279187.5733768289,575
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,575.0,DB,1.5607913589029452,575
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,575.0,BIC,349255.54167463735,575
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,600.0,VRC,1157.4179158125978,600
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,600.0,Silhouette,0.14683960526349982,600
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,600.0,SSE-Elbow,275111.2497016428,600
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,600.0,DB,1.5593893276041133,600
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,600.0,BIC,348226.1032378647,600
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,625.0,VRC,1127.4900039268175,625
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,625.0,Silhouette,0.14755872745505422,625
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,625.0,SSE-Elbow,271337.9834660659,625
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,625.0,DB,1.5658771068929536,625
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,625.0,BIC,347499.783918395,625
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,650.0,VRC,1101.5599003657023,650
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,650.0,Silhouette,0.14813604391938626,650
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,650.0,SSE-Elbow,267286.67695640045,650
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,650.0,DB,1.560957709555145,650
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,650.0,BIC,346495.4617965798,650
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,675.0,VRC,1075.978316989703,675
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,675.0,Silhouette,0.14936883637242357,675
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,675.0,SSE-Elbow,263705.7806073134,675
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,675.0,DB,1.5724773612887597,675
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,675.0,BIC,345961.4878928881,675
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,700.0,VRC,1053.3766667276152,700
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,700.0,Silhouette,0.14946716249685696,700
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,700.0,SSE-Elbow,259955.56133952568,700
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,700.0,DB,1.5673406445656006,700
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,700.0,BIC,345258.1761536135,700
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,725.0,VRC,1030.8751868146503,725
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,725.0,Silhouette,0.15022557306081943,725
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,725.0,SSE-Elbow,256642.10544662052,725
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,725.0,DB,1.5607642234552703,725
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,725.0,BIC,344991.6805440527,725
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,750.0,VRC,1010.1999030316488,750
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,750.0,Silhouette,0.15154891999185705,750
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,750.0,SSE-Elbow,253334.71934412903,750
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,750.0,DB,1.556081078757037,750
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,750.0,BIC,344731.1492845335,750
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,775.0,VRC,988.9280901480812,775
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,775.0,Silhouette,0.15084071488788123,775
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,775.0,SSE-Elbow,250559.77511260175,775
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,775.0,DB,1.555894798914609,775
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,775.0,BIC,345003.2130988098,775
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,800.0,VRC,971.2787224191154,800
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,800.0,Silhouette,0.15234047299907091,800
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,800.0,SSE-Elbow,247302.91424892232,800
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,800.0,DB,1.551070235620168,800
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,800.0,BIC,344793.20702319127,800
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,825.0,VRC,953.4859377574128,825
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,825.0,Silhouette,0.15265677533436542,825
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,825.0,SSE-Elbow,244414.5591943117,825
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,825.0,DB,1.5451106066735514,825
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,825.0,BIC,344951.8370318122,825
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,850.0,VRC,936.6356205284942,850
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,850.0,Silhouette,0.15375972778933938,850
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,850.0,SSE-Elbow,241615.93830078235,850
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,850.0,DB,1.5400802637443696,850
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,850.0,BIC,345200.13606392883,850
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,875.0,VRC,920.6016403408146,875
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,875.0,Silhouette,0.14911346012874474,875
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,875.0,SSE-Elbow,238914.0565618921,875
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,875.0,DB,1.5374388895176945,875
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,875.0,BIC,345545.17425068474,875
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,900.0,VRC,905.882851303767,900
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,900.0,Silhouette,0.14978902656313703,900
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,900.0,SSE-Elbow,236167.49473941725,900
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,900.0,DB,1.5324686800373837,900
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,900.0,BIC,345845.5323538559,900
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,925.0,VRC,891.8522204747155,925
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,925.0,Silhouette,0.1500471916602505,925
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,925.0,SSE-Elbow,233507.60311792535,925
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,925.0,DB,1.5280937243420398,925
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,925.0,BIC,346232.5606580096,925
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,950.0,VRC,876.4411518996338,950
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,950.0,Silhouette,0.1505284729460013,950
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,950.0,SSE-Elbow,231423.5875503451,950
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,950.0,DB,1.5304999757763902,950
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,950.0,BIC,347195.42963834124,950
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,975.0,VRC,861.8577156109144,975
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,975.0,Silhouette,0.15058147623345494,975
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,975.0,SSE-Elbow,229365.7792479669,975
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,975.0,DB,1.5312763568727243,975
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,975.0,BIC,348184.5515879474,975
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,1000.0,VRC,848.5150659740617,1000
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,1000.0,Silhouette,0.1508462453187894,1000
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,1000.0,SSE-Elbow,227215.47927565343,1000
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,1000.0,DB,1.5307330119340632,1000
+TV News Channel Commercial Detection Dataset,K-Means,n_clusters,1000.0,BIC,349081.0830135023,1000
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,2.0,VRC,7.311651977741,18016
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,2.0,Silhouette,0.1578419048851113,18016
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,2.0,SSE-Elbow,29859.021503736207,18016
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,2.0,DB,1.245371935016007,18016
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,2.0,BIC,2225580.3168975743,18016
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,7.0,VRC,21.934733831016075,962
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,7.0,Silhouette,-0.5298287690581378,962
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,7.0,SSE-Elbow,230466.9003322732,962
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,7.0,DB,1.275346854445217,962
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,7.0,BIC,347701.28344089247,962
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,12.0,VRC,57.447396931781874,284
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,12.0,Silhouette,-0.5532101036396743,284
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,12.0,SSE-Elbow,357782.9124803693,284
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,12.0,DB,1.1932479430228726,284
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,12.0,BIC,392384.7009352167,284
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,17.0,VRC,89.38504070176853,148
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,17.0,Silhouette,-0.5279328422253227,148
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,17.0,SSE-Elbow,442443.0161619374,148
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,17.0,DB,1.18337319700864,148
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,17.0,BIC,460469.6419883599,148
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,22.0,VRC,166.6131184823441,104
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,22.0,Silhouette,-0.4728508722116579,104
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,22.0,SSE-Elbow,498349.29978991055,104
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,22.0,DB,1.2131590065944065,104
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,22.0,BIC,511013.19227703527,104
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,27.0,VRC,191.03206207821069,81
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,27.0,Silhouette,-0.4328492981918965,81
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,27.0,SSE-Elbow,542282.0034004586,81
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,27.0,DB,1.1879698377367005,81
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,27.0,BIC,552142.3407087299,81
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,32.0,VRC,224.74428877690852,59
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,32.0,Silhouette,-0.4228676744029335,59
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,32.0,SSE-Elbow,603691.035656418,59
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,32.0,DB,1.1967482125216358,59
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,32.0,BIC,610870.1236882964,59
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,37.0,VRC,278.35293736409653,37
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,37.0,Silhouette,-0.3936349650033119,37
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,37.0,SSE-Elbow,706227.0851142158,37
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,37.0,DB,1.0868306344837648,37
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,37.0,BIC,710723.8832609656,37
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,42.0,VRC,327.1765050099443,28
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,42.0,Silhouette,-0.37629477214351487,28
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,42.0,SSE-Elbow,790848.0568999978,28
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,42.0,DB,1.0679468791475946,28
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,42.0,BIC,794247.9469419327,28
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,47.0,VRC,514.8584208241397,17
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,47.0,Silhouette,-0.22527173454291616,17
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,47.0,SSE-Elbow,943494.5062569844,17
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,47.0,DB,0.8235649602282359,17
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,47.0,BIC,945552.9529124642,17
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,52.0,VRC,664.9874252966029,13
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,52.0,Silhouette,-0.25891364083687934,13
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,52.0,SSE-Elbow,1058032.1621060614,13
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,52.0,DB,0.9409666560919856,13
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,52.0,BIC,1059603.8041320876,13
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,57.0,VRC,988.8302281650692,6
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,57.0,Silhouette,-1.4222356419358491e-05,6
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,57.0,SSE-Elbow,1424809.0505450333,6
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,57.0,DB,0.8217489645674888,6
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,57.0,BIC,1425527.5950788264,6
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,62.0,VRC,1513.9919394027008,4
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,62.0,Silhouette,0.21669162297691283,4
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,62.0,SSE-Elbow,1836065.089634576,4
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,62.0,DB,0.573920171057833,4
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,62.0,BIC,1836536.107946012,4
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,67.0,VRC,3704.543481429235,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,67.0,Silhouette,0.3213081252252922,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,67.0,SSE-Elbow,2283654.598912714,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,67.0,DB,0.5778892494380244,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,67.0,BIC,2283885.6376625453,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,72.0,VRC,4373.37249444165,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,72.0,Silhouette,0.3303522631550111,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,72.0,SSE-Elbow,2283654.598912714,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,72.0,DB,0.5775517716314005,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,72.0,BIC,2283885.6376625453,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,77.0,VRC,4793.914404773689,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,77.0,Silhouette,0.33596504975886304,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,77.0,SSE-Elbow,2283654.598912714,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,77.0,DB,0.5841683002235942,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,77.0,BIC,2283885.6376625453,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,82.0,VRC,4793.914404773689,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,82.0,Silhouette,0.33596504975886304,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,82.0,SSE-Elbow,2283654.598912714,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,82.0,DB,0.5841683002235942,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,82.0,BIC,2283885.6376625453,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,87.0,VRC,4793.914404773689,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,87.0,Silhouette,0.33596504975886304,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,87.0,SSE-Elbow,2283654.598912714,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,87.0,DB,0.5841683002235942,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,87.0,BIC,2283885.6376625453,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,92.0,VRC,4070.454597882386,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,92.0,Silhouette,0.32629425245977656,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,92.0,SSE-Elbow,2283654.598912714,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,92.0,DB,0.5771800088657202,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,92.0,BIC,2283885.6376625453,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,97.0,VRC,4338.571489822804,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,97.0,Silhouette,0.329889679448205,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,97.0,SSE-Elbow,2283654.598912714,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,97.0,DB,0.5774222178966769,2
+TV News Channel Commercial Detection Dataset,OPTICS,min_samples,97.0,BIC,2283885.6376625453,2
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.1,VRC,1595.088085093003,4
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.1,Silhouette,0.2538963336661285,4
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.1,SSE-Elbow,1836065.089634576,4
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.1,DB,0.5486002676463239,4
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.1,BIC,1836536.107946012,4
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.2,VRC,321.4426991755195,16
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.2,Silhouette,-0.4258191123424709,16
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.2,SSE-Elbow,969375.9774182796,16
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.2,DB,1.4905554904166256,16
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.2,BIC,971313.693685506,16
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.30000000000000004,VRC,89.40431953590888,57
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.30000000000000004,Silhouette,-0.5491890242150843,57
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.30000000000000004,SSE-Elbow,614128.7185530863,57
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.30000000000000004,DB,1.4758985252275167,57
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.30000000000000004,BIC,621063.8857879334,57
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.4,VRC,41.08690480883196,138
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.4,Silhouette,-0.5850059871964058,138
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.4,SSE-Elbow,452757.56927180703,138
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.4,DB,1.4121349993840453,138
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.4,BIC,469564.9269884029,138
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.5,VRC,24.797137415399817,300
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.5,Silhouette,-0.5863500141345005,300
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.5,SSE-Elbow,349898.9564490122,300
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.5,DB,1.2961095063189292,300
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.5,BIC,386450.5646261936,300
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.6,VRC,19.9756460125194,478
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.6,Silhouette,-0.5712315667965382,478
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.6,SSE-Elbow,297618.2112910605,478
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.6,DB,1.300921028258426,478
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.6,BIC,355864.1683175422,478
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.7000000000000001,VRC,19.3870503726867,706
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.7000000000000001,Silhouette,-0.5316391606405066,706
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.7000000000000001,SSE-Elbow,259148.4178097233,706
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.7000000000000001,DB,1.3419729482522282,706
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.7000000000000001,BIC,345182.3118620147,706
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.8,VRC,22.253133360688537,823
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.8,Silhouette,-0.49746425451023446,823
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.8,SSE-Elbow,244436.95308559804,823
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.8,DB,1.3785231962219018,823
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.8,BIC,344730.4773290468,823
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.9,VRC,26.175950129343725,955
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.9,Silhouette,-0.4598956294224367,955
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.9,SSE-Elbow,231027.1732523284,955
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.9,DB,1.3947578503969078,955
+TV News Channel Commercial Detection Dataset,dbscan,eps,0.9,BIC,347408.3946658265,955
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.0,VRC,31.246031324457903,979
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.0,Silhouette,-0.43785584026873525,979
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.0,SSE-Elbow,229151.17178845347,979
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.0,DB,1.4309727890159956,979
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.0,BIC,348457.4763679337,979
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.1,VRC,39.757625682551506,919
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.1,Silhouette,-0.415421587264506,919
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.1,SSE-Elbow,234274.3042999582,919
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.1,DB,1.4404089291195477,919
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.1,BIC,346268.0010578877,919
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.2000000000000002,VRC,50.30824912501828,848
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.2000000000000002,Silhouette,-0.3911413629681408,848
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.2000000000000002,SSE-Elbow,241564.24132303463,848
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.2000000000000002,DB,1.4614764682799326,848
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.2000000000000002,BIC,344904.58842027705,848
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.3000000000000005,VRC,60.756640370434674,777
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.3000000000000005,Silhouette,-0.3700814929438693,777
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.3000000000000005,SSE-Elbow,250213.60127600064,777
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.3000000000000005,DB,1.453695855851929,777
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.3000000000000005,BIC,344900.79285626044,777
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.4,VRC,70.49850545422879,675
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.4,Silhouette,-0.35644333242144105,675
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.4,SSE-Elbow,263705.7806073133,675
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.4,DB,1.4448041226230577,675
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.4,BIC,345961.4878928881,675
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.5000000000000002,VRC,81.64696574997288,592
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.5000000000000002,Silhouette,-0.3448684666591973,592
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.5000000000000002,SSE-Elbow,276591.12435711623,592
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.5000000000000002,DB,1.446685455716394,592
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.5000000000000002,BIC,348731.0620755461,592
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.6,VRC,91.96115896539187,501
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.6,Silhouette,-0.3224054854346591,501
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.6,SSE-Elbow,293275.04016540473,501
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.6,DB,1.4335667444223743,501
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.6,BIC,354324.1182966295,501
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.7000000000000002,VRC,105.39931058486629,417
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.7000000000000002,Silhouette,-0.31966438143302967,417
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.7000000000000002,SSE-Elbow,312681.87701181386,417
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.7000000000000002,DB,1.3829438968655396,417
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.7000000000000002,BIC,363493.2058849414,417
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.8000000000000005,VRC,110.20335939817735,357
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.8000000000000005,Silhouette,-0.29760291333728234,357
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.8000000000000005,SSE-Elbow,331034.34679542197,357
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.8000000000000005,DB,1.359130650259491,357
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.8000000000000005,BIC,374533.20232002746,357
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.9,VRC,120.4124445112208,317
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.9,Silhouette,-0.27188012736018957,317
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.9,SSE-Elbow,345040.1139308347,317
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.9,DB,1.3924782253807817,317
+TV News Channel Commercial Detection Dataset,dbscan,eps,1.9,BIC,383663.81268779986,317
+TV News Channel Commercial Detection Dataset,dbscan,eps,2.0,VRC,129.51717245449032,274
+TV News Channel Commercial Detection Dataset,dbscan,eps,2.0,Silhouette,-0.22644580508455933,274
+TV News Channel Commercial Detection Dataset,dbscan,eps,2.0,SSE-Elbow,360664.50461359613,274
+TV News Channel Commercial Detection Dataset,dbscan,eps,2.0,DB,1.3776107051291702,274
+TV News Channel Commercial Detection Dataset,dbscan,eps,2.0,BIC,394047.4283988958,274
+Heart Failure,Agglomerative,n_clusters,2.0,VRC,32.56895407225739,2
+Heart Failure,Agglomerative,n_clusters,2.0,Silhouette,0.1490423726218516,2
+Heart Failure,Agglomerative,n_clusters,2.0,SSE-Elbow,3230.121337644992,2
+Heart Failure,Agglomerative,n_clusters,2.0,DB,2.7137532774083724,2
+Heart Failure,Agglomerative,n_clusters,2.0,BIC,3366.92048646229,2
+Heart Failure,Agglomerative,n_clusters,7.0,VRC,23.87398104729851,7
+Heart Failure,Agglomerative,n_clusters,7.0,Silhouette,0.08142078593408963,7
+Heart Failure,Agglomerative,n_clusters,7.0,SSE-Elbow,2407.28737754917,7
+Heart Failure,Agglomerative,n_clusters,7.0,DB,1.934972384418687,7
+Heart Failure,Agglomerative,n_clusters,7.0,BIC,2894.6318359073566,7
+Heart Failure,Agglomerative,n_clusters,12.0,VRC,20.631139444841896,12
+Heart Failure,Agglomerative,n_clusters,12.0,Silhouette,0.10234570605189956,12
+Heart Failure,Agglomerative,n_clusters,12.0,SSE-Elbow,1971.5851666762956,12
+Heart Failure,Agglomerative,n_clusters,12.0,DB,1.9310622119456913,12
+Heart Failure,Agglomerative,n_clusters,12.0,BIC,2840.1748911382724,12
+Heart Failure,Agglomerative,n_clusters,17.0,VRC,18.81862426875857,17
+Heart Failure,Agglomerative,n_clusters,17.0,Silhouette,0.10948073526906596,17
+Heart Failure,Agglomerative,n_clusters,17.0,SSE-Elbow,1768.064241987461,17
+Heart Failure,Agglomerative,n_clusters,17.0,DB,1.77306355896119,17
+Heart Failure,Agglomerative,n_clusters,17.0,BIC,3007.312979237526,17
+Heart Failure,Agglomerative,n_clusters,22.0,VRC,17.75866027075842,22
+Heart Failure,Agglomerative,n_clusters,22.0,Silhouette,0.12667615292233284,22
+Heart Failure,Agglomerative,n_clusters,22.0,SSE-Elbow,1576.205692244812,22
+Heart Failure,Agglomerative,n_clusters,22.0,DB,1.6466969610238409,22
+Heart Failure,Agglomerative,n_clusters,22.0,BIC,3186.64608389352,22
+Heart Failure,Agglomerative,n_clusters,27.0,VRC,16.862870271773723,27
+Heart Failure,Agglomerative,n_clusters,27.0,Silhouette,0.13961729185168872,27
+Heart Failure,Agglomerative,n_clusters,27.0,SSE-Elbow,1527.4449343450392,27
+Heart Failure,Agglomerative,n_clusters,27.0,DB,1.5255200700821534,27
+Heart Failure,Agglomerative,n_clusters,27.0,BIC,3512.249438490848,27
+Heart Failure,Agglomerative,n_clusters,32.0,VRC,16.021112181926988,32
+Heart Failure,Agglomerative,n_clusters,32.0,Silhouette,0.14719146077911782,32
+Heart Failure,Agglomerative,n_clusters,32.0,SSE-Elbow,1318.12968463804,32
+Heart Failure,Agglomerative,n_clusters,32.0,DB,1.462811961358719,32
+Heart Failure,Agglomerative,n_clusters,32.0,BIC,3677.399397663746,32
+Heart Failure,Agglomerative,n_clusters,37.0,VRC,15.34007501906471,37
+Heart Failure,Agglomerative,n_clusters,37.0,Silhouette,0.14737928038900497,37
+Heart Failure,Agglomerative,n_clusters,37.0,SSE-Elbow,1197.4672893351703,37
+Heart Failure,Agglomerative,n_clusters,37.0,DB,1.3866055765869356,37
+Heart Failure,Agglomerative,n_clusters,37.0,BIC,3928.483334546307,37
+Heart Failure,Agglomerative,n_clusters,42.0,VRC,14.89116767185828,42
+Heart Failure,Agglomerative,n_clusters,42.0,Silhouette,0.15584156988772369,42
+Heart Failure,Agglomerative,n_clusters,42.0,SSE-Elbow,1115.6754365116092,42
+Heart Failure,Agglomerative,n_clusters,42.0,DB,1.3375437734967437,42
+Heart Failure,Agglomerative,n_clusters,42.0,BIC,4214.394312723253,42
+Heart Failure,Agglomerative,n_clusters,47.0,VRC,14.648859799219585,47
+Heart Failure,Agglomerative,n_clusters,47.0,Silhouette,0.1630011863543171,47
+Heart Failure,Agglomerative,n_clusters,47.0,SSE-Elbow,1069.9575777436307,47
+Heart Failure,Agglomerative,n_clusters,47.0,DB,1.3281326388204575,47
+Heart Failure,Agglomerative,n_clusters,47.0,BIC,4533.0387224747,47
+Heart Failure,Agglomerative,n_clusters,52.0,VRC,14.454062148311596,52
+Heart Failure,Agglomerative,n_clusters,52.0,Silhouette,0.1679745981862788,52
+Heart Failure,Agglomerative,n_clusters,52.0,SSE-Elbow,962.7170038795756,52
+Heart Failure,Agglomerative,n_clusters,52.0,DB,1.259793212064459,52
+Heart Failure,Agglomerative,n_clusters,52.0,BIC,4805.023423479714,52
+Heart Failure,Agglomerative,n_clusters,57.0,VRC,14.276021454907792,57
+Heart Failure,Agglomerative,n_clusters,57.0,Silhouette,0.1758408799715789,57
+Heart Failure,Agglomerative,n_clusters,57.0,SSE-Elbow,939.6203122634016,57
+Heart Failure,Agglomerative,n_clusters,57.0,DB,1.2078537159303813,57
+Heart Failure,Agglomerative,n_clusters,57.0,BIC,5146.960955040435,57
+Heart Failure,Agglomerative,n_clusters,62.0,VRC,14.148759317612685,62
+Heart Failure,Agglomerative,n_clusters,62.0,Silhouette,0.1865083947964069,62
+Heart Failure,Agglomerative,n_clusters,62.0,SSE-Elbow,874.7545512285105,62
+Heart Failure,Agglomerative,n_clusters,62.0,DB,1.1671910429024517,62
+Heart Failure,Agglomerative,n_clusters,62.0,BIC,5453.873815882128,62
+Heart Failure,Agglomerative,n_clusters,67.0,VRC,14.037093803997934,67
+Heart Failure,Agglomerative,n_clusters,67.0,Silhouette,0.19255355014896744,67
+Heart Failure,Agglomerative,n_clusters,67.0,SSE-Elbow,828.4087529051384,67
+Heart Failure,Agglomerative,n_clusters,67.0,DB,1.0922949913775026,67
+Heart Failure,Agglomerative,n_clusters,67.0,BIC,5782.26218820355,67
+Heart Failure,Agglomerative,n_clusters,72.0,VRC,13.959335911992994,72
+Heart Failure,Agglomerative,n_clusters,72.0,Silhouette,0.19542733468345505,72
+Heart Failure,Agglomerative,n_clusters,72.0,SSE-Elbow,761.4502666402091,72
+Heart Failure,Agglomerative,n_clusters,72.0,DB,1.0525058388379525,72
+Heart Failure,Agglomerative,n_clusters,72.0,BIC,6086.546747873651,72
+Heart Failure,Agglomerative,n_clusters,77.0,VRC,13.88779418046197,77
+Heart Failure,Agglomerative,n_clusters,77.0,Silhouette,0.2023633061186942,77
+Heart Failure,Agglomerative,n_clusters,77.0,SSE-Elbow,722.928853586381,77
+Heart Failure,Agglomerative,n_clusters,77.0,DB,1.0281175053540643,77
+Heart Failure,Agglomerative,n_clusters,77.0,BIC,6415.249047945404,77
+Heart Failure,Agglomerative,n_clusters,82.0,VRC,13.794407303548326,82
+Heart Failure,Agglomerative,n_clusters,82.0,Silhouette,0.20154057618152824,82
+Heart Failure,Agglomerative,n_clusters,82.0,SSE-Elbow,695.5487855545708,82
+Heart Failure,Agglomerative,n_clusters,82.0,DB,1.002188633282764,82
+Heart Failure,Agglomerative,n_clusters,82.0,BIC,6757.358579838026,82
+Heart Failure,Agglomerative,n_clusters,87.0,VRC,13.7349997712816,87
+Heart Failure,Agglomerative,n_clusters,87.0,Silhouette,0.20566236032427967,87
+Heart Failure,Agglomerative,n_clusters,87.0,SSE-Elbow,675.7803855614352,87
+Heart Failure,Agglomerative,n_clusters,87.0,DB,0.9673853629859578,87
+Heart Failure,Agglomerative,n_clusters,87.0,BIC,7109.616415792542,87
+Heart Failure,Agglomerative,n_clusters,92.0,VRC,13.680105709188748,92
+Heart Failure,Agglomerative,n_clusters,92.0,Silhouette,0.20443981853248333,92
+Heart Failure,Agglomerative,n_clusters,92.0,SSE-Elbow,581.8573355630731,92
+Heart Failure,Agglomerative,n_clusters,92.0,DB,0.9409023212181103,92
+Heart Failure,Agglomerative,n_clusters,92.0,BIC,7384.181689088608,92
+Heart Failure,Agglomerative,n_clusters,97.0,VRC,13.67553491719869,97
+Heart Failure,Agglomerative,n_clusters,97.0,Silhouette,0.2072485901438638,97
+Heart Failure,Agglomerative,n_clusters,97.0,SSE-Elbow,605.7338039779347,97
+Heart Failure,Agglomerative,n_clusters,97.0,DB,0.9339761446738516,97
+Heart Failure,Agglomerative,n_clusters,97.0,BIC,7784.054093752657,97
+Heart Failure,K-Means,n_clusters,1.0,VRC,NaN,1
+Heart Failure,K-Means,n_clusters,1.0,Silhouette,NaN,1
+Heart Failure,K-Means,n_clusters,1.0,SSE-Elbow,3588.000000000001,1
+Heart Failure,K-Means,n_clusters,1.0,DB,NaN,1
+Heart Failure,K-Means,n_clusters,1.0,BIC,3656.405322880688,1
+Heart Failure,K-Means,n_clusters,2.0,VRC,33.92923233326583,2
+Heart Failure,K-Means,n_clusters,2.0,Silhouette,0.1078479259415144,2
+Heart Failure,K-Means,n_clusters,2.0,SSE-Elbow,3220.1325718087055,2
+Heart Failure,K-Means,n_clusters,2.0,DB,2.8294543900533866,2
+Heart Failure,K-Means,n_clusters,2.0,BIC,3362.6436611434733,2
+Heart Failure,K-Means,n_clusters,3.0,VRC,37.06198277572221,3
+Heart Failure,K-Means,n_clusters,3.0,Silhouette,0.1138474479305296,3
+Heart Failure,K-Means,n_clusters,3.0,SSE-Elbow,2869.438617457976,3
+Heart Failure,K-Means,n_clusters,3.0,DB,2.241686450132168,3
+Heart Failure,K-Means,n_clusters,3.0,BIC,3086.0554732468217,3
+Heart Failure,K-Means,n_clusters,4.0,VRC,30.279514652159847,4
+Heart Failure,K-Means,n_clusters,4.0,Silhouette,0.1150093999026835,4
+Heart Failure,K-Means,n_clusters,4.0,SSE-Elbow,2743.271807804117,4
+Heart Failure,K-Means,n_clusters,4.0,DB,2.4678624856471805,4
+Heart Failure,K-Means,n_clusters,4.0,BIC,3033.994430047042,4
+Heart Failure,K-Means,n_clusters,5.0,VRC,27.128360000446666,5
+Heart Failure,K-Means,n_clusters,5.0,Silhouette,0.09838954505833744,5
+Heart Failure,K-Means,n_clusters,5.0,SSE-Elbow,2620.712490979973,5
+Heart Failure,K-Means,n_clusters,5.0,DB,2.55960903491149,5
+Heart Failure,K-Means,n_clusters,5.0,BIC,2985.540879676976,5
+Heart Failure,K-Means,n_clusters,6.0,VRC,24.184899494561943,6
+Heart Failure,K-Means,n_clusters,6.0,Silhouette,0.10038698690595373,6
+Heart Failure,K-Means,n_clusters,6.0,SSE-Elbow,2539.7965242901764,6
+Heart Failure,K-Means,n_clusters,6.0,DB,2.4507249743014854,6
+Heart Failure,K-Means,n_clusters,6.0,BIC,2978.7306794412593,6
+Heart Failure,K-Means,n_clusters,7.0,VRC,25.336346585888545,7
+Heart Failure,K-Means,n_clusters,7.0,Silhouette,0.1096006798009158,7
+Heart Failure,K-Means,n_clusters,7.0,SSE-Elbow,2359.5795944696993,7
+Heart Failure,K-Means,n_clusters,7.0,DB,2.0529099378387214,7
+Heart Failure,K-Means,n_clusters,7.0,BIC,2872.619516074861,7
+Heart Failure,K-Means,n_clusters,8.0,VRC,20.99130503192563,8
+Heart Failure,K-Means,n_clusters,8.0,Silhouette,0.09499087150087072,8
+Heart Failure,K-Means,n_clusters,8.0,SSE-Elbow,2384.139520819928,8
+Heart Failure,K-Means,n_clusters,8.0,DB,2.2581958343044817,8
+Heart Failure,K-Means,n_clusters,8.0,BIC,2971.285208879169,8
+Heart Failure,K-Means,n_clusters,9.0,VRC,24.53179085664971,9
+Heart Failure,K-Means,n_clusters,9.0,Silhouette,0.11745837197270688,9
+Heart Failure,K-Means,n_clusters,9.0,SSE-Elbow,2139.8678480328213,9
+Heart Failure,K-Means,n_clusters,9.0,DB,1.9967097606399236,9
+Heart Failure,K-Means,n_clusters,9.0,BIC,2801.1193025461407,9
+Heart Failure,K-Means,n_clusters,10.0,VRC,23.428634250488585,10
+Heart Failure,K-Means,n_clusters,10.0,Silhouette,0.11312772366151357,10
+Heart Failure,K-Means,n_clusters,10.0,SSE-Elbow,2074.454355462825,10
+Heart Failure,K-Means,n_clusters,10.0,DB,1.820691362039544,10
+Heart Failure,K-Means,n_clusters,10.0,BIC,2809.8115764302224,10
+Heart Failure,K-Means,n_clusters,11.0,VRC,23.67730994632857,11
+Heart Failure,K-Means,n_clusters,11.0,Silhouette,0.12942953975237567,11
+Heart Failure,K-Means,n_clusters,11.0,SSE-Elbow,1969.1253249392128,11
+Heart Failure,K-Means,n_clusters,11.0,DB,1.8736959641085895,11
+Heart Failure,K-Means,n_clusters,11.0,BIC,2778.5883123606905,11
+Heart Failure,K-Means,n_clusters,12.0,VRC,23.10236742617584,12
+Heart Failure,K-Means,n_clusters,12.0,Silhouette,0.122344849181082,12
+Heart Failure,K-Means,n_clusters,12.0,SSE-Elbow,1902.9873276619303,12
+Heart Failure,K-Means,n_clusters,12.0,DB,1.8136762876433068,12
+Heart Failure,K-Means,n_clusters,12.0,BIC,2786.5560815374865,12
+Heart Failure,K-Means,n_clusters,13.0,VRC,21.59747077773345,13
+Heart Failure,K-Means,n_clusters,13.0,Silhouette,0.11437121798400236,13
+Heart Failure,K-Means,n_clusters,13.0,SSE-Elbow,1882.29113864989,13
+Heart Failure,K-Means,n_clusters,13.0,DB,1.8560017445997248,13
+Heart Failure,K-Means,n_clusters,13.0,BIC,2839.9656589795254,13
+Heart Failure,K-Means,n_clusters,14.0,VRC,19.93750905377189,14
+Heart Failure,K-Means,n_clusters,14.0,Silhouette,0.1179482163489752,14
+Heart Failure,K-Means,n_clusters,14.0,SSE-Elbow,1879.09457463169,14
+Heart Failure,K-Means,n_clusters,14.0,DB,1.8574028817764563,14
+Heart Failure,K-Means,n_clusters,14.0,BIC,2910.8748614154047,14
+Heart Failure,K-Means,n_clusters,15.0,VRC,20.08751320953925,15
+Heart Failure,K-Means,n_clusters,15.0,Silhouette,0.11889111729885908,15
+Heart Failure,K-Means,n_clusters,15.0,SSE-Elbow,1802.807141581629,15
+Heart Failure,K-Means,n_clusters,15.0,DB,1.7769779226744409,15
+Heart Failure,K-Means,n_clusters,15.0,BIC,2908.693194819422,15
+Heart Failure,K-Means,n_clusters,16.0,VRC,18.956403090502103,16
+Heart Failure,K-Means,n_clusters,16.0,Silhouette,0.11461754890972972,16
+Heart Failure,K-Means,n_clusters,16.0,SSE-Elbow,1789.7436785169907,16
+Heart Failure,K-Means,n_clusters,16.0,DB,1.8310076974398748,16
+Heart Failure,K-Means,n_clusters,16.0,BIC,2969.7354982088636,16
+Heart Failure,K-Means,n_clusters,17.0,VRC,19.05084816759532,17
+Heart Failure,K-Means,n_clusters,17.0,Silhouette,0.12855549822501294,17
+Heart Failure,K-Means,n_clusters,17.0,SSE-Elbow,1724.2546024027313,17
+Heart Failure,K-Means,n_clusters,17.0,DB,1.7751017648437115,17
+Heart Failure,K-Means,n_clusters,17.0,BIC,2978.352188548682,17
+Heart Failure,K-Means,n_clusters,18.0,VRC,18.623207709452355,18
+Heart Failure,K-Means,n_clusters,18.0,Silhouette,0.11004695556016413,18
+Heart Failure,K-Means,n_clusters,18.0,SSE-Elbow,1687.143953962335,18
+Heart Failure,K-Means,n_clusters,18.0,DB,1.7592161226896244,18
+Heart Failure,K-Means,n_clusters,18.0,BIC,3015.3473065623652,18
+Heart Failure,K-Means,n_clusters,19.0,VRC,18.140432042033204,19
+Heart Failure,K-Means,n_clusters,19.0,Silhouette,0.1183248620714339,19
+Heart Failure,K-Means,n_clusters,19.0,SSE-Elbow,1656.3792104828308,19
+Heart Failure,K-Means,n_clusters,19.0,DB,1.75626838619136,19
+Heart Failure,K-Means,n_clusters,19.0,BIC,3058.68832953694,19
+Heart Failure,K-Means,n_clusters,20.0,VRC,17.597229386683136,20
+Heart Failure,K-Means,n_clusters,20.0,Silhouette,0.11770911372896724,20
+Heart Failure,K-Means,n_clusters,20.0,SSE-Elbow,1632.112678691428,20
+Heart Failure,K-Means,n_clusters,20.0,DB,1.698729714874517,20
+Heart Failure,K-Means,n_clusters,20.0,BIC,3108.527564199616,20
+Heart Failure,K-Means,n_clusters,21.0,VRC,17.323832137537856,21
+Heart Failure,K-Means,n_clusters,21.0,Silhouette,0.11974913207357528,21
+Heart Failure,K-Means,n_clusters,21.0,SSE-Elbow,1597.2799168376753,21
+Heart Failure,K-Means,n_clusters,21.0,DB,1.7588272195082952,21
+Heart Failure,K-Means,n_clusters,21.0,BIC,3147.800568799942,21
+Heart Failure,K-Means,n_clusters,22.0,VRC,17.408520214714404,22
+Heart Failure,K-Means,n_clusters,22.0,Silhouette,0.13009872709332584,22
+Heart Failure,K-Means,n_clusters,22.0,SSE-Elbow,1546.6987199423406,22
+Heart Failure,K-Means,n_clusters,22.0,DB,1.663240865235305,22
+Heart Failure,K-Means,n_clusters,22.0,BIC,3171.3251383586867,22
+Heart Failure,K-Means,n_clusters,23.0,VRC,16.483060930298898,23
+Heart Failure,K-Means,n_clusters,23.0,Silhouette,0.11300837709217436,23
+Heart Failure,K-Means,n_clusters,23.0,SSE-Elbow,1550.6508056427772,23
+Heart Failure,K-Means,n_clusters,23.0,DB,1.7169395623607957,23
+Heart Failure,K-Means,n_clusters,23.0,BIC,3249.382990513202,23
+Heart Failure,K-Means,n_clusters,24.0,VRC,16.158401498337323,24
+Heart Failure,K-Means,n_clusters,24.0,Silhouette,0.1207714223053542,24
+Heart Failure,K-Means,n_clusters,24.0,SSE-Elbow,1525.8800330931972,24
+Heart Failure,K-Means,n_clusters,24.0,DB,1.7334090487454354,24
+Heart Failure,K-Means,n_clusters,24.0,BIC,3298.7179844177012,24
+Heart Failure,K-Means,n_clusters,25.0,VRC,16.883279146317697,25
+Heart Failure,K-Means,n_clusters,25.0,Silhouette,0.1411825301970072,25
+Heart Failure,K-Means,n_clusters,25.0,SSE-Elbow,1447.4586018891127,25
+Heart Failure,K-Means,n_clusters,25.0,DB,1.6026729758635825,25
+Heart Failure,K-Means,n_clusters,25.0,BIC,3294.402319667696,25
+Heart Failure,K-Means,n_clusters,26.0,VRC,16.028679078647496,26
+Heart Failure,K-Means,n_clusters,26.0,Silhouette,0.11770326106682708,26
+Heart Failure,K-Means,n_clusters,26.0,SSE-Elbow,1453.9102226737568,26
+Heart Failure,K-Means,n_clusters,26.0,DB,1.636440901820639,26
+Heart Failure,K-Means,n_clusters,26.0,BIC,3374.959706906419,26
+Heart Failure,K-Means,n_clusters,27.0,VRC,16.387228172508273,27
+Heart Failure,K-Means,n_clusters,27.0,Silhouette,0.13664023942904988,27
+Heart Failure,K-Means,n_clusters,27.0,SSE-Elbow,1398.0530469656985,27
+Heart Failure,K-Means,n_clusters,27.0,DB,1.512615383994306,27
+Heart Failure,K-Means,n_clusters,27.0,BIC,3393.208297652438,27
+Heart Failure,K-Means,n_clusters,28.0,VRC,15.439197032495269,28
+Heart Failure,K-Means,n_clusters,28.0,Silhouette,0.12385929052324676,28
+Heart Failure,K-Means,n_clusters,28.0,SSE-Elbow,1413.5876123056055,28
+Heart Failure,K-Means,n_clusters,28.0,DB,1.6354456541766595,28
+Heart Failure,K-Means,n_clusters,28.0,BIC,3482.8486294464246,28
+Heart Failure,K-Means,n_clusters,29.0,VRC,15.770408094285653,29
+Heart Failure,K-Means,n_clusters,29.0,Silhouette,0.14352249654053975,29
+Heart Failure,K-Means,n_clusters,29.0,SSE-Elbow,1361.4374660523297,29
+Heart Failure,K-Means,n_clusters,29.0,DB,1.5257765034420168,29
+Heart Failure,K-Means,n_clusters,29.0,BIC,3504.804249647227,29
+Heart Failure,K-Means,n_clusters,30.0,VRC,15.192112751892816,30
+Heart Failure,K-Means,n_clusters,30.0,Silhouette,0.12772164634257024,30
+Heart Failure,K-Means,n_clusters,30.0,SSE-Elbow,1360.2185447353154,30
+Heart Failure,K-Means,n_clusters,30.0,DB,1.5898535420650568,30
+Heart Failure,K-Means,n_clusters,30.0,BIC,3577.691094784293,30
+Heart Failure,K-Means,n_clusters,35.0,VRC,14.447260051484893,35
+Heart Failure,K-Means,n_clusters,35.0,Silhouette,0.12532084045037323,35
+Heart Failure,K-Means,n_clusters,35.0,SSE-Elbow,1254.268297946587,35
+Heart Failure,K-Means,n_clusters,35.0,DB,1.5026473857474727,35
+Heart Failure,K-Means,n_clusters,35.0,BIC,3842.2696802659584,35
+Heart Failure,K-Means,n_clusters,40.0,VRC,13.97447179169461,40
+Heart Failure,K-Means,n_clusters,40.0,Silhouette,0.12970399028462568,40
+Heart Failure,K-Means,n_clusters,40.0,SSE-Elbow,1155.8294956386048,40
+Heart Failure,K-Means,n_clusters,40.0,DB,1.406403286964221,40
+Heart Failure,K-Means,n_clusters,40.0,BIC,4114.359710228371,40
+Heart Failure,K-Means,n_clusters,45.0,VRC,13.51908437418985,45
+Heart Failure,K-Means,n_clusters,45.0,Silhouette,0.14059075092567533,45
+Heart Failure,K-Means,n_clusters,45.0,SSE-Elbow,1073.6443955410157,45
+Heart Failure,K-Means,n_clusters,45.0,DB,1.3526195456386685,45
+Heart Failure,K-Means,n_clusters,45.0,BIC,4402.703442401177,45
+Heart Failure,K-Means,n_clusters,50.0,VRC,13.58268438093628,50
+Heart Failure,K-Means,n_clusters,50.0,Silhouette,0.15259042090233904,50
+Heart Failure,K-Means,n_clusters,50.0,SSE-Elbow,976.8853543353345,50
+Heart Failure,K-Means,n_clusters,50.0,DB,1.3512241475038378,50
+Heart Failure,K-Means,n_clusters,50.0,BIC,4676.47323346589,50
+Heart Failure,K-Means,n_clusters,55.0,VRC,13.147020158876291,55
+Heart Failure,K-Means,n_clusters,55.0,Silhouette,0.15175562046522215,55
+Heart Failure,K-Means,n_clusters,55.0,SSE-Elbow,917.744131130868,55
+Heart Failure,K-Means,n_clusters,55.0,DB,1.2477989821211632,55
+Heart Failure,K-Means,n_clusters,55.0,BIC,4987.860842531818,55
+Heart Failure,K-Means,n_clusters,60.0,VRC,12.930204181812917,60
+Heart Failure,K-Means,n_clusters,60.0,Silhouette,0.150369978463642,60
+Heart Failure,K-Means,n_clusters,60.0,SSE-Elbow,855.9211164642206,60
+Heart Failure,K-Means,n_clusters,60.0,DB,1.2094547509662483,60
+Heart Failure,K-Means,n_clusters,60.0,BIC,5296.566660135566,60
+Heart Failure,K-Means,n_clusters,65.0,VRC,12.977763295897258,65
+Heart Failure,K-Means,n_clusters,65.0,Silhouette,0.16266086975534194,65
+Heart Failure,K-Means,n_clusters,65.0,SSE-Elbow,788.6626496346299,65
+Heart Failure,K-Means,n_clusters,65.0,DB,1.168506167548054,65
+Heart Failure,K-Means,n_clusters,65.0,BIC,5599.83702557637,65
+Heart Failure,K-Means,n_clusters,70.0,VRC,12.237448334367016,70
+Heart Failure,K-Means,n_clusters,70.0,Silhouette,0.14559725693431724,70
+Heart Failure,K-Means,n_clusters,70.0,SSE-Elbow,765.4781976454702,70
+Heart Failure,K-Means,n_clusters,70.0,DB,1.1317140295922257,70
+Heart Failure,K-Means,n_clusters,70.0,BIC,5947.181405857604,70
+Heart Failure,K-Means,n_clusters,75.0,VRC,12.02274502542688,75
+Heart Failure,K-Means,n_clusters,75.0,Silhouette,0.13880477808017647,75
+Heart Failure,K-Means,n_clusters,75.0,SSE-Elbow,721.670264181979,75
+Heart Failure,K-Means,n_clusters,75.0,DB,1.08792245148525,75
+Heart Failure,K-Means,n_clusters,75.0,BIC,6273.902304664508,75
+Heart Failure,K-Means,n_clusters,80.0,VRC,12.2666300109357,80
+Heart Failure,K-Means,n_clusters,80.0,Silhouette,0.15462595048684813,80
+Heart Failure,K-Means,n_clusters,80.0,SSE-Elbow,661.3887396201067,80
+Heart Failure,K-Means,n_clusters,80.0,DB,1.065498773289695,80
+Heart Failure,K-Means,n_clusters,80.0,BIC,6584.14961237303,80
+Heart Failure,K-Means,n_clusters,85.0,VRC,12.430918298049336,85
+Heart Failure,K-Means,n_clusters,85.0,Silhouette,0.16668982256964754,85
+Heart Failure,K-Means,n_clusters,85.0,SSE-Elbow,610.2636680677352,85
+Heart Failure,K-Means,n_clusters,85.0,DB,1.051234825140315,85
+Heart Failure,K-Means,n_clusters,85.0,BIC,6903.553373091054,85
+Heart Failure,K-Means,n_clusters,90.0,VRC,12.514786167849756,90
+Heart Failure,K-Means,n_clusters,90.0,Silhouette,0.1744906497264234,90
+Heart Failure,K-Means,n_clusters,90.0,SSE-Elbow,566.8906466268936,90
+Heart Failure,K-Means,n_clusters,90.0,DB,0.9847015458564828,90
+Heart Failure,K-Means,n_clusters,90.0,BIC,7230.709183920607,90
+Heart Failure,K-Means,n_clusters,95.0,VRC,11.62925806559256,95
+Heart Failure,K-Means,n_clusters,95.0,Silhouette,0.14783351241290696,95
+Heart Failure,K-Means,n_clusters,95.0,SSE-Elbow,564.2769566534666,95
+Heart Failure,K-Means,n_clusters,95.0,DB,0.9620725163504278,95
+Heart Failure,K-Means,n_clusters,95.0,BIC,7598.624326217574,95
+Heart Failure,K-Means,n_clusters,100.0,VRC,11.87424266374046,100
+Heart Failure,K-Means,n_clusters,100.0,Silhouette,0.16323164765291495,100
+Heart Failure,K-Means,n_clusters,100.0,SSE-Elbow,519.4514478801409,100
+Heart Failure,K-Means,n_clusters,100.0,DB,0.9201490986124914,100
+Heart Failure,K-Means,n_clusters,100.0,BIC,7924.3276497146435,100
+Heart Failure,K-Means,n_clusters,125.0,VRC,11.918173882774347,125
+Heart Failure,K-Means,n_clusters,125.0,Silhouette,0.15618040801753597,125
+Heart Failure,K-Means,n_clusters,125.0,SSE-Elbow,377.9463352954115,125
+Heart Failure,K-Means,n_clusters,125.0,DB,0.8109981277144709,125
+Heart Failure,K-Means,n_clusters,125.0,BIC,9635.466698481889,125
+Heart Failure,K-Means,n_clusters,150.0,VRC,12.977726793975952,150
+Heart Failure,K-Means,n_clusters,150.0,Silhouette,0.1691407743934267,150
+Heart Failure,K-Means,n_clusters,150.0,SSE-Elbow,256.6941000410979,150
+Heart Failure,K-Means,n_clusters,150.0,DB,0.6888405459793865,150
+Heart Failure,K-Means,n_clusters,150.0,BIC,11366.858624579543,150
+Heart Failure,K-Means,n_clusters,175.0,VRC,13.085465225563848,175
+Heart Failure,K-Means,n_clusters,175.0,Silhouette,0.15195100160449684,175
+Heart Failure,K-Means,n_clusters,175.0,SSE-Elbow,185.3127508329154,175
+Heart Failure,K-Means,n_clusters,175.0,DB,0.5831312329464273,175
+Heart Failure,K-Means,n_clusters,175.0,BIC,13148.12143672334,175
+Heart Failure,K-Means,n_clusters,200.0,VRC,15.220512095182873,200
+Heart Failure,K-Means,n_clusters,200.0,Silhouette,0.143675251332098,200
+Heart Failure,K-Means,n_clusters,200.0,SSE-Elbow,113.56311093833624,200
+Heart Failure,K-Means,n_clusters,200.0,DB,0.47925046969120255,200
+Heart Failure,K-Means,n_clusters,200.0,BIC,14929.015958180731,200
+Heart Failure,K-Means,n_clusters,225.0,VRC,18.571162099315817,225
+Heart Failure,K-Means,n_clusters,225.0,Silhouette,0.12623364392307002,225
+Heart Failure,K-Means,n_clusters,225.0,SSE-Elbow,62.71037864124417,225
+Heart Failure,K-Means,n_clusters,225.0,DB,0.3860397247226373,225
+Heart Failure,K-Means,n_clusters,225.0,BIC,16730.807387235614,225
+Heart Failure,K-Means,n_clusters,250.0,VRC,21.94001221697701,250
+Heart Failure,K-Means,n_clusters,250.0,Silhouette,0.08905417182883608,250
+Heart Failure,K-Means,n_clusters,250.0,SSE-Elbow,31.895861614699207,250
+Heart Failure,K-Means,n_clusters,250.0,DB,0.3184622646763294,250
+Heart Failure,K-Means,n_clusters,250.0,BIC,18552.63703156104,250
+Heart Failure,K-Means,n_clusters,275.0,VRC,31.141759917144466,275
+Heart Failure,K-Means,n_clusters,275.0,Silhouette,0.05518233523550741,275
+Heart Failure,K-Means,n_clusters,275.0,SSE-Elbow,10.06352551714993,275
+Heart Failure,K-Means,n_clusters,275.0,DB,0.21440694242857403,275
+Heart Failure,K-Means,n_clusters,275.0,BIC,20383.448856815467,275
+Heart Failure,K-Means,n_clusters,300.0,VRC,NaN,300
+Heart Failure,K-Means,n_clusters,300.0,Silhouette,NaN,300
+Heart Failure,K-Means,n_clusters,300.0,SSE-Elbow,NaN,300
+Heart Failure,K-Means,n_clusters,300.0,DB,NaN,300
+Heart Failure,K-Means,n_clusters,300.0,BIC,NaN,300
+Heart Failure,K-Means,n_clusters,325.0,VRC,NaN,325
+Heart Failure,K-Means,n_clusters,325.0,Silhouette,NaN,325
+Heart Failure,K-Means,n_clusters,325.0,SSE-Elbow,NaN,325
+Heart Failure,K-Means,n_clusters,325.0,DB,NaN,325
+Heart Failure,K-Means,n_clusters,325.0,BIC,NaN,325
+Heart Failure,K-Means,n_clusters,350.0,VRC,NaN,350
+Heart Failure,K-Means,n_clusters,350.0,Silhouette,NaN,350
+Heart Failure,K-Means,n_clusters,350.0,SSE-Elbow,NaN,350
+Heart Failure,K-Means,n_clusters,350.0,DB,NaN,350
+Heart Failure,K-Means,n_clusters,350.0,BIC,NaN,350
+Heart Failure,K-Means,n_clusters,375.0,VRC,NaN,375
+Heart Failure,K-Means,n_clusters,375.0,Silhouette,NaN,375
+Heart Failure,K-Means,n_clusters,375.0,SSE-Elbow,NaN,375
+Heart Failure,K-Means,n_clusters,375.0,DB,NaN,375
+Heart Failure,K-Means,n_clusters,375.0,BIC,NaN,375
+Heart Failure,K-Means,n_clusters,400.0,VRC,NaN,400
+Heart Failure,K-Means,n_clusters,400.0,Silhouette,NaN,400
+Heart Failure,K-Means,n_clusters,400.0,SSE-Elbow,NaN,400
+Heart Failure,K-Means,n_clusters,400.0,DB,NaN,400
+Heart Failure,K-Means,n_clusters,400.0,BIC,NaN,400
+Heart Failure,K-Means,n_clusters,425.0,VRC,NaN,425
+Heart Failure,K-Means,n_clusters,425.0,Silhouette,NaN,425
+Heart Failure,K-Means,n_clusters,425.0,SSE-Elbow,NaN,425
+Heart Failure,K-Means,n_clusters,425.0,DB,NaN,425
+Heart Failure,K-Means,n_clusters,425.0,BIC,NaN,425
+Heart Failure,K-Means,n_clusters,450.0,VRC,NaN,450
+Heart Failure,K-Means,n_clusters,450.0,Silhouette,NaN,450
+Heart Failure,K-Means,n_clusters,450.0,SSE-Elbow,NaN,450
+Heart Failure,K-Means,n_clusters,450.0,DB,NaN,450
+Heart Failure,K-Means,n_clusters,450.0,BIC,NaN,450
+Heart Failure,K-Means,n_clusters,475.0,VRC,NaN,475
+Heart Failure,K-Means,n_clusters,475.0,Silhouette,NaN,475
+Heart Failure,K-Means,n_clusters,475.0,SSE-Elbow,NaN,475
+Heart Failure,K-Means,n_clusters,475.0,DB,NaN,475
+Heart Failure,K-Means,n_clusters,475.0,BIC,NaN,475
+Heart Failure,K-Means,n_clusters,500.0,VRC,NaN,500
+Heart Failure,K-Means,n_clusters,500.0,Silhouette,NaN,500
+Heart Failure,K-Means,n_clusters,500.0,SSE-Elbow,NaN,500
+Heart Failure,K-Means,n_clusters,500.0,DB,NaN,500
+Heart Failure,K-Means,n_clusters,500.0,BIC,NaN,500
+Heart Failure,K-Means,n_clusters,525.0,VRC,NaN,525
+Heart Failure,K-Means,n_clusters,525.0,Silhouette,NaN,525
+Heart Failure,K-Means,n_clusters,525.0,SSE-Elbow,NaN,525
+Heart Failure,K-Means,n_clusters,525.0,DB,NaN,525
+Heart Failure,K-Means,n_clusters,525.0,BIC,NaN,525
+Heart Failure,K-Means,n_clusters,550.0,VRC,NaN,550
+Heart Failure,K-Means,n_clusters,550.0,Silhouette,NaN,550
+Heart Failure,K-Means,n_clusters,550.0,SSE-Elbow,NaN,550
+Heart Failure,K-Means,n_clusters,550.0,DB,NaN,550
+Heart Failure,K-Means,n_clusters,550.0,BIC,NaN,550
+Heart Failure,K-Means,n_clusters,575.0,VRC,NaN,575
+Heart Failure,K-Means,n_clusters,575.0,Silhouette,NaN,575
+Heart Failure,K-Means,n_clusters,575.0,SSE-Elbow,NaN,575
+Heart Failure,K-Means,n_clusters,575.0,DB,NaN,575
+Heart Failure,K-Means,n_clusters,575.0,BIC,NaN,575
+Heart Failure,K-Means,n_clusters,600.0,VRC,NaN,600
+Heart Failure,K-Means,n_clusters,600.0,Silhouette,NaN,600
+Heart Failure,K-Means,n_clusters,600.0,SSE-Elbow,NaN,600
+Heart Failure,K-Means,n_clusters,600.0,DB,NaN,600
+Heart Failure,K-Means,n_clusters,600.0,BIC,NaN,600
+Heart Failure,K-Means,n_clusters,625.0,VRC,NaN,625
+Heart Failure,K-Means,n_clusters,625.0,Silhouette,NaN,625
+Heart Failure,K-Means,n_clusters,625.0,SSE-Elbow,NaN,625
+Heart Failure,K-Means,n_clusters,625.0,DB,NaN,625
+Heart Failure,K-Means,n_clusters,625.0,BIC,NaN,625
+Heart Failure,K-Means,n_clusters,650.0,VRC,NaN,650
+Heart Failure,K-Means,n_clusters,650.0,Silhouette,NaN,650
+Heart Failure,K-Means,n_clusters,650.0,SSE-Elbow,NaN,650
+Heart Failure,K-Means,n_clusters,650.0,DB,NaN,650
+Heart Failure,K-Means,n_clusters,650.0,BIC,NaN,650
+Heart Failure,K-Means,n_clusters,675.0,VRC,NaN,675
+Heart Failure,K-Means,n_clusters,675.0,Silhouette,NaN,675
+Heart Failure,K-Means,n_clusters,675.0,SSE-Elbow,NaN,675
+Heart Failure,K-Means,n_clusters,675.0,DB,NaN,675
+Heart Failure,K-Means,n_clusters,675.0,BIC,NaN,675
+Heart Failure,K-Means,n_clusters,700.0,VRC,NaN,700
+Heart Failure,K-Means,n_clusters,700.0,Silhouette,NaN,700
+Heart Failure,K-Means,n_clusters,700.0,SSE-Elbow,NaN,700
+Heart Failure,K-Means,n_clusters,700.0,DB,NaN,700
+Heart Failure,K-Means,n_clusters,700.0,BIC,NaN,700
+Heart Failure,K-Means,n_clusters,725.0,VRC,NaN,725
+Heart Failure,K-Means,n_clusters,725.0,Silhouette,NaN,725
+Heart Failure,K-Means,n_clusters,725.0,SSE-Elbow,NaN,725
+Heart Failure,K-Means,n_clusters,725.0,DB,NaN,725
+Heart Failure,K-Means,n_clusters,725.0,BIC,NaN,725
+Heart Failure,K-Means,n_clusters,750.0,VRC,NaN,750
+Heart Failure,K-Means,n_clusters,750.0,Silhouette,NaN,750
+Heart Failure,K-Means,n_clusters,750.0,SSE-Elbow,NaN,750
+Heart Failure,K-Means,n_clusters,750.0,DB,NaN,750
+Heart Failure,K-Means,n_clusters,750.0,BIC,NaN,750
+Heart Failure,K-Means,n_clusters,775.0,VRC,NaN,775
+Heart Failure,K-Means,n_clusters,775.0,Silhouette,NaN,775
+Heart Failure,K-Means,n_clusters,775.0,SSE-Elbow,NaN,775
+Heart Failure,K-Means,n_clusters,775.0,DB,NaN,775
+Heart Failure,K-Means,n_clusters,775.0,BIC,NaN,775
+Heart Failure,K-Means,n_clusters,800.0,VRC,NaN,800
+Heart Failure,K-Means,n_clusters,800.0,Silhouette,NaN,800
+Heart Failure,K-Means,n_clusters,800.0,SSE-Elbow,NaN,800
+Heart Failure,K-Means,n_clusters,800.0,DB,NaN,800
+Heart Failure,K-Means,n_clusters,800.0,BIC,NaN,800
+Heart Failure,K-Means,n_clusters,825.0,VRC,NaN,825
+Heart Failure,K-Means,n_clusters,825.0,Silhouette,NaN,825
+Heart Failure,K-Means,n_clusters,825.0,SSE-Elbow,NaN,825
+Heart Failure,K-Means,n_clusters,825.0,DB,NaN,825
+Heart Failure,K-Means,n_clusters,825.0,BIC,NaN,825
+Heart Failure,K-Means,n_clusters,850.0,VRC,NaN,850
+Heart Failure,K-Means,n_clusters,850.0,Silhouette,NaN,850
+Heart Failure,K-Means,n_clusters,850.0,SSE-Elbow,NaN,850
+Heart Failure,K-Means,n_clusters,850.0,DB,NaN,850
+Heart Failure,K-Means,n_clusters,850.0,BIC,NaN,850
+Heart Failure,K-Means,n_clusters,875.0,VRC,NaN,875
+Heart Failure,K-Means,n_clusters,875.0,Silhouette,NaN,875
+Heart Failure,K-Means,n_clusters,875.0,SSE-Elbow,NaN,875
+Heart Failure,K-Means,n_clusters,875.0,DB,NaN,875
+Heart Failure,K-Means,n_clusters,875.0,BIC,NaN,875
+Heart Failure,K-Means,n_clusters,900.0,VRC,NaN,900
+Heart Failure,K-Means,n_clusters,900.0,Silhouette,NaN,900
+Heart Failure,K-Means,n_clusters,900.0,SSE-Elbow,NaN,900
+Heart Failure,K-Means,n_clusters,900.0,DB,NaN,900
+Heart Failure,K-Means,n_clusters,900.0,BIC,NaN,900
+Heart Failure,K-Means,n_clusters,925.0,VRC,NaN,925
+Heart Failure,K-Means,n_clusters,925.0,Silhouette,NaN,925
+Heart Failure,K-Means,n_clusters,925.0,SSE-Elbow,NaN,925
+Heart Failure,K-Means,n_clusters,925.0,DB,NaN,925
+Heart Failure,K-Means,n_clusters,925.0,BIC,NaN,925
+Heart Failure,K-Means,n_clusters,950.0,VRC,NaN,950
+Heart Failure,K-Means,n_clusters,950.0,Silhouette,NaN,950
+Heart Failure,K-Means,n_clusters,950.0,SSE-Elbow,NaN,950
+Heart Failure,K-Means,n_clusters,950.0,DB,NaN,950
+Heart Failure,K-Means,n_clusters,950.0,BIC,NaN,950
+Heart Failure,K-Means,n_clusters,975.0,VRC,NaN,975
+Heart Failure,K-Means,n_clusters,975.0,Silhouette,NaN,975
+Heart Failure,K-Means,n_clusters,975.0,SSE-Elbow,NaN,975
+Heart Failure,K-Means,n_clusters,975.0,DB,NaN,975
+Heart Failure,K-Means,n_clusters,975.0,BIC,NaN,975
+Heart Failure,K-Means,n_clusters,1000.0,VRC,NaN,1000
+Heart Failure,K-Means,n_clusters,1000.0,Silhouette,NaN,1000
+Heart Failure,K-Means,n_clusters,1000.0,SSE-Elbow,NaN,1000
+Heart Failure,K-Means,n_clusters,1000.0,DB,NaN,1000
+Heart Failure,K-Means,n_clusters,1000.0,BIC,NaN,1000
+Heart Failure,OPTICS,min_samples,2.0,VRC,2.6989537265270096,63
+Heart Failure,OPTICS,min_samples,2.0,Silhouette,-0.00898116522310625,63
+Heart Failure,OPTICS,min_samples,2.0,SSE-Elbow,844.5039743785755,63
+Heart Failure,OPTICS,min_samples,2.0,DB,1.5528590417005967,63
+Heart Failure,OPTICS,min_samples,2.0,BIC,5494.436522466724,63
+Heart Failure,OPTICS,min_samples,7.0,VRC,5.649451407288811,8
+Heart Failure,OPTICS,min_samples,7.0,Silhouette,-0.1174467253189016,8
+Heart Failure,OPTICS,min_samples,7.0,SSE-Elbow,2250.3455231678136,8
+Heart Failure,OPTICS,min_samples,7.0,DB,1.8678013666688087,8
+Heart Failure,OPTICS,min_samples,7.0,BIC,2824.9044107934637,8
+Heart Failure,OPTICS,min_samples,12.0,VRC,8.349439174240024,2
+Heart Failure,OPTICS,min_samples,12.0,Silhouette,-0.04775542683914659,2
+Heart Failure,OPTICS,min_samples,12.0,SSE-Elbow,3225.749507154522,2
+Heart Failure,OPTICS,min_samples,12.0,DB,1.9658082399243733,2
+Heart Failure,OPTICS,min_samples,12.0,BIC,3362.5304312756743,2
+Heart Failure,OPTICS,min_samples,17.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,17.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,17.0,SSE-Elbow,3588.5247560090875,1
+Heart Failure,OPTICS,min_samples,17.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,17.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,22.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,22.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,22.0,SSE-Elbow,3588.733146329945,1
+Heart Failure,OPTICS,min_samples,22.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,22.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,27.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,27.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,27.0,SSE-Elbow,3588.407333635805,1
+Heart Failure,OPTICS,min_samples,27.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,27.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,32.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,32.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,32.0,SSE-Elbow,3589.305316497725,1
+Heart Failure,OPTICS,min_samples,32.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,32.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,37.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,37.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,37.0,SSE-Elbow,3588.620220460181,1
+Heart Failure,OPTICS,min_samples,37.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,37.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,42.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,42.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,42.0,SSE-Elbow,3588.473174146741,1
+Heart Failure,OPTICS,min_samples,42.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,42.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,47.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,47.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,47.0,SSE-Elbow,3588.364213105023,1
+Heart Failure,OPTICS,min_samples,47.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,47.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,52.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,52.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,52.0,SSE-Elbow,3588.5030622400527,1
+Heart Failure,OPTICS,min_samples,52.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,52.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,57.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,57.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,57.0,SSE-Elbow,3588.542375222803,1
+Heart Failure,OPTICS,min_samples,57.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,57.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,62.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,62.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,62.0,SSE-Elbow,3588.7600293081196,1
+Heart Failure,OPTICS,min_samples,62.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,62.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,67.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,67.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,67.0,SSE-Elbow,3588.335844878535,1
+Heart Failure,OPTICS,min_samples,67.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,67.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,72.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,72.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,72.0,SSE-Elbow,3589.869334620293,1
+Heart Failure,OPTICS,min_samples,72.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,72.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,77.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,77.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,77.0,SSE-Elbow,3588.5300696433515,1
+Heart Failure,OPTICS,min_samples,77.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,77.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,82.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,82.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,82.0,SSE-Elbow,3589.1917896333175,1
+Heart Failure,OPTICS,min_samples,82.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,82.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,87.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,87.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,87.0,SSE-Elbow,3588.945596803227,1
+Heart Failure,OPTICS,min_samples,87.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,87.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,92.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,92.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,92.0,SSE-Elbow,3588.596959833779,1
+Heart Failure,OPTICS,min_samples,92.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,92.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,97.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,97.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,97.0,SSE-Elbow,3588.2652376392593,1
+Heart Failure,OPTICS,min_samples,97.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,97.0,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.1,VRC,NaN,1
+Heart Failure,dbscan,eps,0.1,Silhouette,NaN,1
+Heart Failure,dbscan,eps,0.1,SSE-Elbow,3588.746387736901,1
+Heart Failure,dbscan,eps,0.1,DB,NaN,1
+Heart Failure,dbscan,eps,0.1,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.2,VRC,NaN,1
+Heart Failure,dbscan,eps,0.2,Silhouette,NaN,1
+Heart Failure,dbscan,eps,0.2,SSE-Elbow,3589.585747719929,1
+Heart Failure,dbscan,eps,0.2,DB,NaN,1
+Heart Failure,dbscan,eps,0.2,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.30000000000000004,VRC,NaN,1
+Heart Failure,dbscan,eps,0.30000000000000004,Silhouette,NaN,1
+Heart Failure,dbscan,eps,0.30000000000000004,SSE-Elbow,3588.9302252473904,1
+Heart Failure,dbscan,eps,0.30000000000000004,DB,NaN,1
+Heart Failure,dbscan,eps,0.30000000000000004,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.4,VRC,NaN,1
+Heart Failure,dbscan,eps,0.4,Silhouette,NaN,1
+Heart Failure,dbscan,eps,0.4,SSE-Elbow,3589.3130823429933,1
+Heart Failure,dbscan,eps,0.4,DB,NaN,1
+Heart Failure,dbscan,eps,0.4,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.5,VRC,NaN,1
+Heart Failure,dbscan,eps,0.5,Silhouette,NaN,1
+Heart Failure,dbscan,eps,0.5,SSE-Elbow,3588.5661894010864,1
+Heart Failure,dbscan,eps,0.5,DB,NaN,1
+Heart Failure,dbscan,eps,0.5,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.6,VRC,NaN,1
+Heart Failure,dbscan,eps,0.6,Silhouette,NaN,1
+Heart Failure,dbscan,eps,0.6,SSE-Elbow,3588.2140433249424,1
+Heart Failure,dbscan,eps,0.6,DB,NaN,1
+Heart Failure,dbscan,eps,0.6,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.7000000000000001,VRC,NaN,1
+Heart Failure,dbscan,eps,0.7000000000000001,Silhouette,NaN,1
+Heart Failure,dbscan,eps,0.7000000000000001,SSE-Elbow,3588.461494733519,1
+Heart Failure,dbscan,eps,0.7000000000000001,DB,NaN,1
+Heart Failure,dbscan,eps,0.7000000000000001,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.8,VRC,NaN,1
+Heart Failure,dbscan,eps,0.8,Silhouette,NaN,1
+Heart Failure,dbscan,eps,0.8,SSE-Elbow,3588.6404268262913,1
+Heart Failure,dbscan,eps,0.8,DB,NaN,1
+Heart Failure,dbscan,eps,0.8,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.9,VRC,NaN,1
+Heart Failure,dbscan,eps,0.9,Silhouette,NaN,1
+Heart Failure,dbscan,eps,0.9,SSE-Elbow,3588.565781768313,1
+Heart Failure,dbscan,eps,0.9,DB,NaN,1
+Heart Failure,dbscan,eps,0.9,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,1.0,VRC,NaN,1
+Heart Failure,dbscan,eps,1.0,Silhouette,NaN,1
+Heart Failure,dbscan,eps,1.0,SSE-Elbow,3588.2295453765237,1
+Heart Failure,dbscan,eps,1.0,DB,NaN,1
+Heart Failure,dbscan,eps,1.0,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,1.1,VRC,3.1896771492487925,2
+Heart Failure,dbscan,eps,1.1,Silhouette,-0.074305364966237,2
+Heart Failure,dbscan,eps,1.1,SSE-Elbow,3143.516916369702,2
+Heart Failure,dbscan,eps,1.1,DB,1.4506762013668504,2
+Heart Failure,dbscan,eps,1.1,BIC,3284.139730013409,2
+Heart Failure,dbscan,eps,1.2000000000000002,VRC,3.758667076287682,2
+Heart Failure,dbscan,eps,1.2000000000000002,Silhouette,-0.07399820054348452,2
+Heart Failure,dbscan,eps,1.2000000000000002,SSE-Elbow,3206.762476531281,2
+Heart Failure,dbscan,eps,1.2000000000000002,DB,1.4683570639216843,2
+Heart Failure,dbscan,eps,1.2000000000000002,BIC,3348.279235217141,2
+Heart Failure,dbscan,eps,1.3000000000000005,VRC,3.2308323662714766,4
+Heart Failure,dbscan,eps,1.3000000000000005,Silhouette,-0.15333138883621736,4
+Heart Failure,dbscan,eps,1.3000000000000005,SSE-Elbow,2724.528438330425,4
+Heart Failure,dbscan,eps,1.3000000000000005,DB,1.5993895463824852,4
+Heart Failure,dbscan,eps,1.3000000000000005,BIC,3002.107860111283,4
+Heart Failure,dbscan,eps,1.4,VRC,3.9139830124167014,4
+Heart Failure,dbscan,eps,1.4,Silhouette,-0.13770504042218867,4
+Heart Failure,dbscan,eps,1.4,SSE-Elbow,2777.2753756999773,4
+Heart Failure,dbscan,eps,1.4,DB,1.6664757116551163,4
+Heart Failure,dbscan,eps,1.4,BIC,3059.45723537167,4
+Heart Failure,dbscan,eps,1.5000000000000002,VRC,4.315638883028117,5
+Heart Failure,dbscan,eps,1.5000000000000002,Silhouette,-0.14842034699740286,5
+Heart Failure,dbscan,eps,1.5000000000000002,SSE-Elbow,2666.3925475433043,5
+Heart Failure,dbscan,eps,1.5000000000000002,DB,1.755024852436915,5
+Heart Failure,dbscan,eps,1.5000000000000002,BIC,2997.6585564465563,5
+Heart Failure,dbscan,eps,1.6,VRC,4.684224342381669,6
+Heart Failure,dbscan,eps,1.6,Silhouette,-0.1520558946503131,6
+Heart Failure,dbscan,eps,1.6,SSE-Elbow,2537.060326299664,6
+Heart Failure,dbscan,eps,1.6,DB,1.7731799661179295,6
+Heart Failure,dbscan,eps,1.6,BIC,2971.0468547111836,6
+Heart Failure,dbscan,eps,1.7000000000000002,VRC,5.0082757971024865,9
+Heart Failure,dbscan,eps,1.7000000000000002,Silhouette,-0.14122017560705,9
+Heart Failure,dbscan,eps,1.7000000000000002,SSE-Elbow,2218.1832537692385,9
+Heart Failure,dbscan,eps,1.7000000000000002,DB,1.7344880735568395,9
+Heart Failure,dbscan,eps,1.7000000000000002,BIC,2858.4919389360066,9
+Heart Failure,dbscan,eps,1.8000000000000005,VRC,5.096662747959633,10
+Heart Failure,dbscan,eps,1.8000000000000005,Silhouette,-0.13004195651322376,10
+Heart Failure,dbscan,eps,1.8000000000000005,SSE-Elbow,2061.814595029552,10
+Heart Failure,dbscan,eps,1.8000000000000005,DB,1.8180518031057005,10
+Heart Failure,dbscan,eps,1.8000000000000005,BIC,2787.6575157193756,10
+Heart Failure,dbscan,eps,1.9,VRC,5.471513198165548,11
+Heart Failure,dbscan,eps,1.9,Silhouette,-0.11139404132982418,11
+Heart Failure,dbscan,eps,1.9,SSE-Elbow,2135.231507378913,11
+Heart Failure,dbscan,eps,1.9,DB,1.8440109245753376,11
+Heart Failure,dbscan,eps,1.9,BIC,2927.6819551540534,11
+Heart Failure,dbscan,eps,2.0,VRC,5.642571083293685,13
+Heart Failure,dbscan,eps,2.0,Silhouette,-0.08451641169433245,13
+Heart Failure,dbscan,eps,2.0,SSE-Elbow,2031.991077471768,13
+Heart Failure,dbscan,eps,2.0,DB,1.8860610432477247,13
+Heart Failure,dbscan,eps,2.0,BIC,2963.6411660053946,13
+Apartments for Rent,Agglomerative,n_clusters,2.0,VRC,3304.688583982094,2
+Apartments for Rent,Agglomerative,n_clusters,2.0,Silhouette,0.30724840665936953,2
+Apartments for Rent,Agglomerative,n_clusters,2.0,SSE-Elbow,64487.364196266746,2
+Apartments for Rent,Agglomerative,n_clusters,2.0,DB,1.3246706780316082,2
+Apartments for Rent,Agglomerative,n_clusters,2.0,BIC,64643.18906651498,2
+Apartments for Rent,Agglomerative,n_clusters,7.0,VRC,2253.3611066495014,7
+Apartments for Rent,Agglomerative,n_clusters,7.0,Silhouette,0.22707107205045057,7
+Apartments for Rent,Agglomerative,n_clusters,7.0,SSE-Elbow,36506.38866338192,7
+Apartments for Rent,Agglomerative,n_clusters,7.0,DB,1.4421325888544545,7
+Apartments for Rent,Agglomerative,n_clusters,7.0,BIC,36830.975456470034,7
+Apartments for Rent,Agglomerative,n_clusters,12.0,VRC,1867.1115180744157,12
+Apartments for Rent,Agglomerative,n_clusters,12.0,Silhouette,0.24543211244313645,12
+Apartments for Rent,Agglomerative,n_clusters,12.0,SSE-Elbow,30425.364221339503,12
+Apartments for Rent,Agglomerative,n_clusters,12.0,DB,1.3373962537496729,12
+Apartments for Rent,Agglomerative,n_clusters,12.0,BIC,31524.250699765133,12
+Apartments for Rent,Agglomerative,n_clusters,17.0,VRC,1629.5202598716928,17
+Apartments for Rent,Agglomerative,n_clusters,17.0,Silhouette,0.2222142515295193,17
+Apartments for Rent,Agglomerative,n_clusters,17.0,SSE-Elbow,23786.120384793056,17
+Apartments for Rent,Agglomerative,n_clusters,17.0,DB,1.4366343771532195,17
+Apartments for Rent,Agglomerative,n_clusters,17.0,BIC,25369.435636186085,17
+Apartments for Rent,Agglomerative,n_clusters,22.0,VRC,1459.199814673653,22
+Apartments for Rent,Agglomerative,n_clusters,22.0,Silhouette,0.2027979457288382,22
+Apartments for Rent,Agglomerative,n_clusters,22.0,SSE-Elbow,22713.66498196922,22
+Apartments for Rent,Agglomerative,n_clusters,22.0,DB,1.4416244377079386,22
+Apartments for Rent,Agglomerative,n_clusters,22.0,BIC,24777.558830389946,22
+Apartments for Rent,Agglomerative,n_clusters,27.0,VRC,1338.2517991138957,27
+Apartments for Rent,Agglomerative,n_clusters,27.0,Silhouette,0.2102314887188253,27
+Apartments for Rent,Agglomerative,n_clusters,27.0,SSE-Elbow,20571.023186070903,27
+Apartments for Rent,Agglomerative,n_clusters,27.0,DB,1.4119630891075312,27
+Apartments for Rent,Agglomerative,n_clusters,27.0,BIC,23194.555346038716,27
+Apartments for Rent,Agglomerative,n_clusters,32.0,VRC,1224.841371970521,32
+Apartments for Rent,Agglomerative,n_clusters,32.0,Silhouette,0.2131905785017082,32
+Apartments for Rent,Agglomerative,n_clusters,32.0,SSE-Elbow,18298.20738757756,32
+Apartments for Rent,Agglomerative,n_clusters,32.0,DB,1.404930070554712,32
+Apartments for Rent,Agglomerative,n_clusters,32.0,BIC,21382.226689610783,32
+Apartments for Rent,Agglomerative,n_clusters,37.0,VRC,1144.584330486505,37
+Apartments for Rent,Agglomerative,n_clusters,37.0,Silhouette,0.20445438466613608,37
+Apartments for Rent,Agglomerative,n_clusters,37.0,SSE-Elbow,17683.56458955202,37
+Apartments for Rent,Agglomerative,n_clusters,37.0,DB,1.475874270248402,37
+Apartments for Rent,Agglomerative,n_clusters,37.0,BIC,21243.1425314188,37
+Apartments for Rent,Agglomerative,n_clusters,42.0,VRC,1085.3566125703535,42
+Apartments for Rent,Agglomerative,n_clusters,42.0,Silhouette,0.20386598181896423,42
+Apartments for Rent,Agglomerative,n_clusters,42.0,SSE-Elbow,16380.648172432127,42
+Apartments for Rent,Agglomerative,n_clusters,42.0,DB,1.4375634019444172,42
+Apartments for Rent,Agglomerative,n_clusters,42.0,BIC,20297.370906053704,42
+Apartments for Rent,Agglomerative,n_clusters,47.0,VRC,1038.2049696511588,47
+Apartments for Rent,Agglomerative,n_clusters,47.0,Silhouette,0.2084187213332077,47
+Apartments for Rent,Agglomerative,n_clusters,47.0,SSE-Elbow,15736.307766999247,47
+Apartments for Rent,Agglomerative,n_clusters,47.0,DB,1.4105112058533844,47
+Apartments for Rent,Agglomerative,n_clusters,47.0,BIC,20199.010146591485,47
+Apartments for Rent,Agglomerative,n_clusters,52.0,VRC,998.2386548009972,52
+Apartments for Rent,Agglomerative,n_clusters,52.0,Silhouette,0.2169022689236866,52
+Apartments for Rent,Agglomerative,n_clusters,52.0,SSE-Elbow,14939.4195506303,52
+Apartments for Rent,Agglomerative,n_clusters,52.0,DB,1.4068673353481906,52
+Apartments for Rent,Agglomerative,n_clusters,52.0,BIC,19707.568826881474,52
+Apartments for Rent,Agglomerative,n_clusters,57.0,VRC,963.5063864817744,57
+Apartments for Rent,Agglomerative,n_clusters,57.0,Silhouette,0.21548879232492735,57
+Apartments for Rent,Agglomerative,n_clusters,57.0,SSE-Elbow,14559.29926459261,57
+Apartments for Rent,Agglomerative,n_clusters,57.0,DB,1.4338830031158154,57
+Apartments for Rent,Agglomerative,n_clusters,57.0,BIC,19901.70238169205,57
+Apartments for Rent,Agglomerative,n_clusters,62.0,VRC,932.2785104694284,62
+Apartments for Rent,Agglomerative,n_clusters,62.0,Silhouette,0.22015863601042357,62
+Apartments for Rent,Agglomerative,n_clusters,62.0,SSE-Elbow,14080.168552245366,62
+Apartments for Rent,Agglomerative,n_clusters,62.0,DB,1.4130741957248694,62
+Apartments for Rent,Agglomerative,n_clusters,62.0,BIC,20146.086626769636,62
+Apartments for Rent,Agglomerative,n_clusters,67.0,VRC,904.8733449766024,67
+Apartments for Rent,Agglomerative,n_clusters,67.0,Silhouette,0.22588070366242535,67
+Apartments for Rent,Agglomerative,n_clusters,67.0,SSE-Elbow,13149.481344375949,67
+Apartments for Rent,Agglomerative,n_clusters,67.0,DB,1.4173043851201148,67
+Apartments for Rent,Agglomerative,n_clusters,67.0,BIC,19683.908345344887,67
+Apartments for Rent,Agglomerative,n_clusters,72.0,VRC,880.7126186468249,72
+Apartments for Rent,Agglomerative,n_clusters,72.0,Silhouette,0.2355332816735257,72
+Apartments for Rent,Agglomerative,n_clusters,72.0,SSE-Elbow,12931.813396422218,72
+Apartments for Rent,Agglomerative,n_clusters,72.0,DB,1.387612678764028,72
+Apartments for Rent,Agglomerative,n_clusters,72.0,BIC,19772.11957179007,72
+Apartments for Rent,Agglomerative,n_clusters,77.0,VRC,859.2034193643052,77
+Apartments for Rent,Agglomerative,n_clusters,77.0,Silhouette,0.2370501625662321,77
+Apartments for Rent,Agglomerative,n_clusters,77.0,SSE-Elbow,12982.266771345136,77
+Apartments for Rent,Agglomerative,n_clusters,77.0,DB,1.365007689801387,77
+Apartments for Rent,Agglomerative,n_clusters,77.0,BIC,20490.999053643427,77
+Apartments for Rent,Agglomerative,n_clusters,82.0,VRC,839.0714404206957,82
+Apartments for Rent,Agglomerative,n_clusters,82.0,Silhouette,0.2397303765182859,82
+Apartments for Rent,Agglomerative,n_clusters,82.0,SSE-Elbow,12323.95112991591,82
+Apartments for Rent,Agglomerative,n_clusters,82.0,DB,1.351191100927699,82
+Apartments for Rent,Agglomerative,n_clusters,82.0,BIC,20300.076819601316,82
+Apartments for Rent,Agglomerative,n_clusters,87.0,VRC,820.2620243234962,87
+Apartments for Rent,Agglomerative,n_clusters,87.0,Silhouette,0.24405631393233695,87
+Apartments for Rent,Agglomerative,n_clusters,87.0,SSE-Elbow,11964.514518006205,87
+Apartments for Rent,Agglomerative,n_clusters,87.0,DB,1.353588246433131,87
+Apartments for Rent,Agglomerative,n_clusters,87.0,BIC,20469.199671866205,87
+Apartments for Rent,Agglomerative,n_clusters,92.0,VRC,802.3863949641062,92
+Apartments for Rent,Agglomerative,n_clusters,92.0,Silhouette,0.2451929729281201,92
+Apartments for Rent,Agglomerative,n_clusters,92.0,SSE-Elbow,11300.384855500666,92
+Apartments for Rent,Agglomerative,n_clusters,92.0,DB,1.34510617840824,92
+Apartments for Rent,Agglomerative,n_clusters,92.0,BIC,20291.29806286469,92
+Apartments for Rent,Agglomerative,n_clusters,97.0,VRC,785.5850100375584,97
+Apartments for Rent,Agglomerative,n_clusters,97.0,Silhouette,0.2483476557407389,97
+Apartments for Rent,Agglomerative,n_clusters,97.0,SSE-Elbow,10936.18107178352,97
+Apartments for Rent,Agglomerative,n_clusters,97.0,DB,1.3446985379261915,97
+Apartments for Rent,Agglomerative,n_clusters,97.0,BIC,20394.94005177712,97
+Apartments for Rent,K-Means,n_clusters,1.0,VRC,NaN,1
+Apartments for Rent,K-Means,n_clusters,1.0,Silhouette,NaN,1
+Apartments for Rent,K-Means,n_clusters,1.0,SSE-Elbow,85963.6500070063,1
+Apartments for Rent,K-Means,n_clusters,1.0,DB,NaN,1
+Apartments for Rent,K-Means,n_clusters,1.0,BIC,86055.70328530773,1
+Apartments for Rent,K-Means,n_clusters,2.0,VRC,3320.7047308671813,2
+Apartments for Rent,K-Means,n_clusters,2.0,Silhouette,0.30890123551306103,2
+Apartments for Rent,K-Means,n_clusters,2.0,SSE-Elbow,64449.877182081655,2
+Apartments for Rent,K-Means,n_clusters,2.0,DB,1.3271671219456078,2
+Apartments for Rent,K-Means,n_clusters,2.0,BIC,64643.18906651498,2
+Apartments for Rent,K-Means,n_clusters,3.0,VRC,3560.6787959443964,3
+Apartments for Rent,K-Means,n_clusters,3.0,Silhouette,0.33730301922738454,3
+Apartments for Rent,K-Means,n_clusters,3.0,SSE-Elbow,50097.509437158806,3
+Apartments for Rent,K-Means,n_clusters,3.0,DB,1.279847859064222,3
+Apartments for Rent,K-Means,n_clusters,3.0,BIC,50391.97570464598,3
+Apartments for Rent,K-Means,n_clusters,4.0,VRC,3102.838542660159,4
+Apartments for Rent,K-Means,n_clusters,4.0,Silhouette,0.2621219355681497,4
+Apartments for Rent,K-Means,n_clusters,4.0,SSE-Elbow,44404.92732104691,4
+Apartments for Rent,K-Means,n_clusters,4.0,DB,1.381009186817154,4
+Apartments for Rent,K-Means,n_clusters,4.0,BIC,44800.70946290081,4
+Apartments for Rent,K-Means,n_clusters,5.0,VRC,2629.828030054553,5
+Apartments for Rent,K-Means,n_clusters,5.0,Silhouette,0.2727586688116305,5
+Apartments for Rent,K-Means,n_clusters,5.0,SSE-Elbow,41775.57956981355,5
+Apartments for Rent,K-Means,n_clusters,5.0,DB,1.4254613325346734,5
+Apartments for Rent,K-Means,n_clusters,5.0,BIC,42272.66727264183,5
+Apartments for Rent,K-Means,n_clusters,6.0,VRC,2513.6652868839524,6
+Apartments for Rent,K-Means,n_clusters,6.0,Silhouette,0.26005870486722116,6
+Apartments for Rent,K-Means,n_clusters,6.0,SSE-Elbow,37971.31043563344,6
+Apartments for Rent,K-Means,n_clusters,6.0,DB,1.414453594767456,6
+Apartments for Rent,K-Means,n_clusters,6.0,BIC,38569.65674459335,6
+Apartments for Rent,K-Means,n_clusters,7.0,VRC,2463.7525837422,7
+Apartments for Rent,K-Means,n_clusters,7.0,Silhouette,0.2654391640846678,7
+Apartments for Rent,K-Means,n_clusters,7.0,SSE-Elbow,34569.009165243,7
+Apartments for Rent,K-Means,n_clusters,7.0,DB,1.3890389900309137,7
+Apartments for Rent,K-Means,n_clusters,7.0,BIC,35268.614080334606,7
+Apartments for Rent,K-Means,n_clusters,8.0,VRC,2289.711042573659,8
+Apartments for Rent,K-Means,n_clusters,8.0,Silhouette,0.24851399787217948,8
+Apartments for Rent,K-Means,n_clusters,8.0,SSE-Elbow,32909.17810832897,8
+Apartments for Rent,K-Means,n_clusters,8.0,DB,1.5118832431136846,8
+Apartments for Rent,K-Means,n_clusters,8.0,BIC,33710.041629552245,8
+Apartments for Rent,K-Means,n_clusters,9.0,VRC,2128.127339457568,9
+Apartments for Rent,K-Means,n_clusters,9.0,Silhouette,0.23037729539889576,9
+Apartments for Rent,K-Means,n_clusters,9.0,SSE-Elbow,31690.43856395537,9
+Apartments for Rent,K-Means,n_clusters,9.0,DB,1.3761954095959317,9
+Apartments for Rent,K-Means,n_clusters,9.0,BIC,32592.549020938604,9
+Apartments for Rent,K-Means,n_clusters,10.0,VRC,2080.532845111448,10
+Apartments for Rent,K-Means,n_clusters,10.0,Silhouette,0.25910645001110993,10
+Apartments for Rent,K-Means,n_clusters,10.0,SSE-Elbow,29809.38125561386,10
+Apartments for Rent,K-Means,n_clusters,10.0,DB,1.3589029713085738,10
+Apartments for Rent,K-Means,n_clusters,10.0,BIC,30812.722227297792,10
+Apartments for Rent,K-Means,n_clusters,11.0,VRC,2036.094080364041,11
+Apartments for Rent,K-Means,n_clusters,11.0,Silhouette,0.2221765254836118,11
+Apartments for Rent,K-Means,n_clusters,11.0,SSE-Elbow,28197.834542204226,11
+Apartments for Rent,K-Means,n_clusters,11.0,DB,1.4080579297586595,11
+Apartments for Rent,K-Means,n_clusters,11.0,BIC,29302.47388182255,11
+Apartments for Rent,K-Means,n_clusters,12.0,VRC,1901.5169315459707,12
+Apartments for Rent,K-Means,n_clusters,12.0,Silhouette,0.21949551627461772,12
+Apartments for Rent,K-Means,n_clusters,12.0,SSE-Elbow,27688.071333168555,12
+Apartments for Rent,K-Means,n_clusters,12.0,DB,1.4716770490534443,12
+Apartments for Rent,K-Means,n_clusters,12.0,BIC,28893.969278918543,12
+Apartments for Rent,K-Means,n_clusters,13.0,VRC,1893.3981083994777,13
+Apartments for Rent,K-Means,n_clusters,13.0,Silhouette,0.23508647396301963,13
+Apartments for Rent,K-Means,n_clusters,13.0,SSE-Elbow,26156.753290167144,13
+Apartments for Rent,K-Means,n_clusters,13.0,DB,1.435758984009449,13
+Apartments for Rent,K-Means,n_clusters,13.0,BIC,27463.89043648868,13
+Apartments for Rent,K-Means,n_clusters,14.0,VRC,1911.374836134236,14
+Apartments for Rent,K-Means,n_clusters,14.0,Silhouette,0.2508781412265918,14
+Apartments for Rent,K-Means,n_clusters,14.0,SSE-Elbow,24555.48379181596,14
+Apartments for Rent,K-Means,n_clusters,14.0,DB,1.36893437220846,14
+Apartments for Rent,K-Means,n_clusters,14.0,BIC,25963.898949829367,14
+Apartments for Rent,K-Means,n_clusters,15.0,VRC,1862.3215997579784,15
+Apartments for Rent,K-Means,n_clusters,15.0,Silhouette,0.23563945405872527,15
+Apartments for Rent,K-Means,n_clusters,15.0,SSE-Elbow,23718.63656113993,15
+Apartments for Rent,K-Means,n_clusters,15.0,DB,1.3866349283172217,15
+Apartments for Rent,K-Means,n_clusters,15.0,BIC,25228.310325284932,15
+Apartments for Rent,K-Means,n_clusters,16.0,VRC,1744.4401022526845,16
+Apartments for Rent,K-Means,n_clusters,16.0,Silhouette,0.2389771541059677,16
+Apartments for Rent,K-Means,n_clusters,16.0,SSE-Elbow,23655.09938440348,16
+Apartments for Rent,K-Means,n_clusters,16.0,DB,1.409377885328404,16
+Apartments for Rent,K-Means,n_clusters,16.0,BIC,25266.020177339647,16
+Apartments for Rent,K-Means,n_clusters,17.0,VRC,1757.4951281074607,17
+Apartments for Rent,K-Means,n_clusters,17.0,Silhouette,0.22988574863560715,17
+Apartments for Rent,K-Means,n_clusters,17.0,SSE-Elbow,22439.19766286108,17
+Apartments for Rent,K-Means,n_clusters,17.0,DB,1.3693170363927187,17
+Apartments for Rent,K-Means,n_clusters,17.0,BIC,24151.385906141517,17
+Apartments for Rent,K-Means,n_clusters,18.0,VRC,1685.691746638022,18
+Apartments for Rent,K-Means,n_clusters,18.0,Silhouette,0.2608873690476789,18
+Apartments for Rent,K-Means,n_clusters,18.0,SSE-Elbow,22125.37999835904,18
+Apartments for Rent,K-Means,n_clusters,18.0,DB,1.3283225061237456,18
+Apartments for Rent,K-Means,n_clusters,18.0,BIC,23938.82958089909,18
+Apartments for Rent,K-Means,n_clusters,19.0,VRC,1691.2234283659295,19
+Apartments for Rent,K-Means,n_clusters,19.0,Silhouette,0.23352745866302885,19
+Apartments for Rent,K-Means,n_clusters,19.0,SSE-Elbow,21145.432569782555,19
+Apartments for Rent,K-Means,n_clusters,19.0,DB,1.422543804201371,19
+Apartments for Rent,K-Means,n_clusters,19.0,BIC,23060.140758454298,19
+Apartments for Rent,K-Means,n_clusters,20.0,VRC,1587.5899289102258,20
+Apartments for Rent,K-Means,n_clusters,20.0,Silhouette,0.21130525803851455,20
+Apartments for Rent,K-Means,n_clusters,20.0,SSE-Elbow,21290.40029812683,20
+Apartments for Rent,K-Means,n_clusters,20.0,DB,1.486974180166317,20
+Apartments for Rent,K-Means,n_clusters,20.0,BIC,23306.299571694297,20
+Apartments for Rent,K-Means,n_clusters,21.0,VRC,1633.8211489590526,21
+Apartments for Rent,K-Means,n_clusters,21.0,Silhouette,0.2320869140004299,21
+Apartments for Rent,K-Means,n_clusters,21.0,SSE-Elbow,20033.47225929077,21
+Apartments for Rent,K-Means,n_clusters,21.0,DB,1.423120491174367,21
+Apartments for Rent,K-Means,n_clusters,21.0,BIC,22150.66295973225,21
+Apartments for Rent,K-Means,n_clusters,22.0,VRC,1598.2485983315394,22
+Apartments for Rent,K-Means,n_clusters,22.0,Silhouette,0.2329171404927045,22
+Apartments for Rent,K-Means,n_clusters,22.0,SSE-Elbow,19623.434481328815,22
+Apartments for Rent,K-Means,n_clusters,22.0,DB,1.3658899659052954,22
+Apartments for Rent,K-Means,n_clusters,22.0,BIC,21841.91848839557,22
+Apartments for Rent,K-Means,n_clusters,23.0,VRC,1503.4367087841556,23
+Apartments for Rent,K-Means,n_clusters,23.0,Silhouette,0.23197922608384092,23
+Apartments for Rent,K-Means,n_clusters,23.0,SSE-Elbow,19844.43099589082,23
+Apartments for Rent,K-Means,n_clusters,23.0,DB,1.4032064007048408,23
+Apartments for Rent,K-Means,n_clusters,23.0,BIC,22164.14743839498,23
+Apartments for Rent,K-Means,n_clusters,24.0,VRC,1511.1349690216705,24
+Apartments for Rent,K-Means,n_clusters,24.0,Silhouette,0.2348542110889592,24
+Apartments for Rent,K-Means,n_clusters,24.0,SSE-Elbow,19096.593389173813,24
+Apartments for Rent,K-Means,n_clusters,24.0,DB,1.3221206992610417,24
+Apartments for Rent,K-Means,n_clusters,24.0,BIC,21517.57698665096,24
+Apartments for Rent,K-Means,n_clusters,25.0,VRC,1494.6269893052552,25
+Apartments for Rent,K-Means,n_clusters,25.0,Silhouette,0.22966167527047987,25
+Apartments for Rent,K-Means,n_clusters,25.0,SSE-Elbow,18630.193397941646,25
+Apartments for Rent,K-Means,n_clusters,25.0,DB,1.4344327036105415,25
+Apartments for Rent,K-Means,n_clusters,25.0,BIC,21152.45322340351,25
+Apartments for Rent,K-Means,n_clusters,26.0,VRC,1442.192548745497,26
+Apartments for Rent,K-Means,n_clusters,26.0,Silhouette,0.20962104324706815,26
+Apartments for Rent,K-Means,n_clusters,26.0,SSE-Elbow,18554.291062836182,26
+Apartments for Rent,K-Means,n_clusters,26.0,DB,1.5090672840666255,26
+Apartments for Rent,K-Means,n_clusters,26.0,BIC,21177.787097375236,26
+Apartments for Rent,K-Means,n_clusters,27.0,VRC,1412.882896386404,27
+Apartments for Rent,K-Means,n_clusters,27.0,Silhouette,0.2248012461040262,27
+Apartments for Rent,K-Means,n_clusters,27.0,SSE-Elbow,18282.414400201906,27
+Apartments for Rent,K-Means,n_clusters,27.0,DB,1.4179192531814495,27
+Apartments for Rent,K-Means,n_clusters,27.0,BIC,21007.13196357377,27
+Apartments for Rent,K-Means,n_clusters,28.0,VRC,1400.2736275543643,28
+Apartments for Rent,K-Means,n_clusters,28.0,Silhouette,0.22895599817845208,28
+Apartments for Rent,K-Means,n_clusters,28.0,SSE-Elbow,17870.150280804315,28
+Apartments for Rent,K-Means,n_clusters,28.0,DB,1.411629503964775,28
+Apartments for Rent,K-Means,n_clusters,28.0,BIC,20696.18592466119,28
+Apartments for Rent,K-Means,n_clusters,29.0,VRC,1412.920317111499,29
+Apartments for Rent,K-Means,n_clusters,29.0,Silhouette,0.22779281167157445,29
+Apartments for Rent,K-Means,n_clusters,29.0,SSE-Elbow,17235.199060967392,29
+Apartments for Rent,K-Means,n_clusters,29.0,DB,1.420097345068099,29
+Apartments for Rent,K-Means,n_clusters,29.0,BIC,20162.493310955917,29
+Apartments for Rent,K-Means,n_clusters,30.0,VRC,1377.2289304535825,30
+Apartments for Rent,K-Means,n_clusters,30.0,Silhouette,0.21965994746287895,30
+Apartments for Rent,K-Means,n_clusters,30.0,SSE-Elbow,17103.212305017616,30
+Apartments for Rent,K-Means,n_clusters,30.0,DB,1.400235218084702,30
+Apartments for Rent,K-Means,n_clusters,30.0,BIC,20131.753470100277,30
+Apartments for Rent,K-Means,n_clusters,35.0,VRC,1255.375930162378,35
+Apartments for Rent,K-Means,n_clusters,35.0,Silhouette,0.22087598754093765,35
+Apartments for Rent,K-Means,n_clusters,35.0,SSE-Elbow,16204.699934536688,35
+Apartments for Rent,K-Means,n_clusters,35.0,DB,1.4139661406482396,35
+Apartments for Rent,K-Means,n_clusters,35.0,BIC,19739.51390657794,35
+Apartments for Rent,K-Means,n_clusters,40.0,VRC,1212.032132548826,40
+Apartments for Rent,K-Means,n_clusters,40.0,Silhouette,0.228690318886006,40
+Apartments for Rent,K-Means,n_clusters,40.0,SSE-Elbow,14898.75653054646,40
+Apartments for Rent,K-Means,n_clusters,40.0,DB,1.417808094088581,40
+Apartments for Rent,K-Means,n_clusters,40.0,BIC,18939.895447983483,40
+Apartments for Rent,K-Means,n_clusters,45.0,VRC,1165.9277598069673,45
+Apartments for Rent,K-Means,n_clusters,45.0,Silhouette,0.24035821147893852,45
+Apartments for Rent,K-Means,n_clusters,45.0,SSE-Elbow,13911.584444173272,45
+Apartments for Rent,K-Means,n_clusters,45.0,DB,1.406244723582566,45
+Apartments for Rent,K-Means,n_clusters,45.0,BIC,18459.016392268724,45
+Apartments for Rent,K-Means,n_clusters,50.0,VRC,1112.0644915350624,50
+Apartments for Rent,K-Means,n_clusters,50.0,Silhouette,0.2296150004887285,50
+Apartments for Rent,K-Means,n_clusters,50.0,SSE-Elbow,13216.723133160793,50
+Apartments for Rent,K-Means,n_clusters,50.0,DB,1.359223065321874,50
+Apartments for Rent,K-Means,n_clusters,50.0,BIC,18270.44811191459,50
+Apartments for Rent,K-Means,n_clusters,55.0,VRC,1051.9582379067697,55
+Apartments for Rent,K-Means,n_clusters,55.0,Silhouette,0.2365361899369279,55
+Apartments for Rent,K-Means,n_clusters,55.0,SSE-Elbow,12752.63595288054,55
+Apartments for Rent,K-Means,n_clusters,55.0,DB,1.3855184904134676,55
+Apartments for Rent,K-Means,n_clusters,55.0,BIC,18312.653962292763,55
+Apartments for Rent,K-Means,n_clusters,60.0,VRC,1029.3384110765649,60
+Apartments for Rent,K-Means,n_clusters,60.0,Silhouette,0.24581523679945852,60
+Apartments for Rent,K-Means,n_clusters,60.0,SSE-Elbow,12038.692490005084,60
+Apartments for Rent,K-Means,n_clusters,60.0,DB,1.365553997389907,60
+Apartments for Rent,K-Means,n_clusters,60.0,BIC,18104.952589058845,60
+Apartments for Rent,K-Means,n_clusters,65.0,VRC,1007.5343722632068,65
+Apartments for Rent,K-Means,n_clusters,65.0,Silhouette,0.24877467810216872,65
+Apartments for Rent,K-Means,n_clusters,65.0,SSE-Elbow,11426.417591635132,65
+Apartments for Rent,K-Means,n_clusters,65.0,DB,1.3307226041289255,65
+Apartments for Rent,K-Means,n_clusters,65.0,BIC,17999.021662364114,65
+Apartments for Rent,K-Means,n_clusters,70.0,VRC,957.355056860308,70
+Apartments for Rent,K-Means,n_clusters,70.0,Silhouette,0.25011610605662205,70
+Apartments for Rent,K-Means,n_clusters,70.0,SSE-Elbow,11184.472416274672,70
+Apartments for Rent,K-Means,n_clusters,70.0,DB,1.37280081987812,70
+Apartments for Rent,K-Means,n_clusters,70.0,BIC,18263.36951766205,70
+Apartments for Rent,K-Means,n_clusters,75.0,VRC,938.4406175184272,75
+Apartments for Rent,K-Means,n_clusters,75.0,Silhouette,0.25966675245014376,75
+Apartments for Rent,K-Means,n_clusters,75.0,SSE-Elbow,10702.159149261925,75
+Apartments for Rent,K-Means,n_clusters,75.0,DB,1.321872695683491,75
+Apartments for Rent,K-Means,n_clusters,75.0,BIC,18287.349281307692,75
+Apartments for Rent,K-Means,n_clusters,80.0,VRC,901.691776206076,80
+Apartments for Rent,K-Means,n_clusters,80.0,Silhouette,0.25036726243270774,80
+Apartments for Rent,K-Means,n_clusters,80.0,SSE-Elbow,10461.456604321776,80
+Apartments for Rent,K-Means,n_clusters,80.0,DB,1.3557096457688584,80
+Apartments for Rent,K-Means,n_clusters,80.0,BIC,18552.926294037465,80
+Apartments for Rent,K-Means,n_clusters,85.0,VRC,893.4238563412847,85
+Apartments for Rent,K-Means,n_clusters,85.0,Silhouette,0.25865995970822714,85
+Apartments for Rent,K-Means,n_clusters,85.0,SSE-Elbow,9987.108721710743,85
+Apartments for Rent,K-Means,n_clusters,85.0,DB,1.3208140065677092,85
+Apartments for Rent,K-Means,n_clusters,85.0,BIC,18584.88491507329,85
+Apartments for Rent,K-Means,n_clusters,90.0,VRC,859.6617391361651,90
+Apartments for Rent,K-Means,n_clusters,90.0,Silhouette,0.2644333784360692,90
+Apartments for Rent,K-Means,n_clusters,90.0,SSE-Elbow,9813.62303609923,90
+Apartments for Rent,K-Means,n_clusters,90.0,DB,1.3380527248383305,90
+Apartments for Rent,K-Means,n_clusters,90.0,BIC,18917.692260120195,90
+Apartments for Rent,K-Means,n_clusters,95.0,VRC,823.2097685219012,95
+Apartments for Rent,K-Means,n_clusters,95.0,Silhouette,0.2566286345845236,95
+Apartments for Rent,K-Means,n_clusters,95.0,SSE-Elbow,9711.183408780706,95
+Apartments for Rent,K-Means,n_clusters,95.0,DB,1.3428906405502503,95
+Apartments for Rent,K-Means,n_clusters,95.0,BIC,19321.545663460056,95
+Apartments for Rent,K-Means,n_clusters,100.0,VRC,827.0384014591592,100
+Apartments for Rent,K-Means,n_clusters,100.0,Silhouette,0.24879681287768865,100
+Apartments for Rent,K-Means,n_clusters,100.0,SSE-Elbow,9231.129140727757,100
+Apartments for Rent,K-Means,n_clusters,100.0,DB,1.3247849070597777,100
+Apartments for Rent,K-Means,n_clusters,100.0,BIC,19347.78442606549,100
+Apartments for Rent,K-Means,n_clusters,125.0,VRC,751.7273890660798,125
+Apartments for Rent,K-Means,n_clusters,125.0,Silhouette,0.2777098711129607,125
+Apartments for Rent,K-Means,n_clusters,125.0,SSE-Elbow,8196.811428121244,125
+Apartments for Rent,K-Means,n_clusters,125.0,DB,1.305087841374289,125
+Apartments for Rent,K-Means,n_clusters,125.0,BIC,20844.93186675096,125
+Apartments for Rent,K-Means,n_clusters,150.0,VRC,704.9344822623333,150
+Apartments for Rent,K-Means,n_clusters,150.0,Silhouette,0.27327703032295436,150
+Apartments for Rent,K-Means,n_clusters,150.0,SSE-Elbow,7336.108548119024,150
+Apartments for Rent,K-Means,n_clusters,150.0,DB,1.2776215458253637,150
+Apartments for Rent,K-Means,n_clusters,150.0,BIC,22515.69414004071,150
+Apartments for Rent,K-Means,n_clusters,175.0,VRC,652.3822203707284,175
+Apartments for Rent,K-Means,n_clusters,175.0,Silhouette,0.2574998818702919,175
+Apartments for Rent,K-Means,n_clusters,175.0,SSE-Elbow,6815.622056839593,175
+Apartments for Rent,K-Means,n_clusters,175.0,DB,1.3084883355214565,175
+Apartments for Rent,K-Means,n_clusters,175.0,BIC,24526.672802053276,175
+Apartments for Rent,K-Means,n_clusters,200.0,VRC,621.3074370739447,200
+Apartments for Rent,K-Means,n_clusters,200.0,Silhouette,0.3032978066080397,200
+Apartments for Rent,K-Means,n_clusters,200.0,SSE-Elbow,6283.412974690762,200
+Apartments for Rent,K-Means,n_clusters,200.0,DB,1.2521629217573729,200
+Apartments for Rent,K-Means,n_clusters,200.0,BIC,26525.928873196415,200
+Apartments for Rent,K-Means,n_clusters,225.0,VRC,594.7137513019333,225
+Apartments for Rent,K-Means,n_clusters,225.0,Silhouette,0.2768877164212196,225
+Apartments for Rent,K-Means,n_clusters,225.0,SSE-Elbow,5848.547277815168,225
+Apartments for Rent,K-Means,n_clusters,225.0,DB,1.2508886638759615,225
+Apartments for Rent,K-Means,n_clusters,225.0,BIC,28622.528329612796,225
+Apartments for Rent,K-Means,n_clusters,250.0,VRC,574.370211783363,250
+Apartments for Rent,K-Means,n_clusters,250.0,Silhouette,0.2796577360317639,250
+Apartments for Rent,K-Means,n_clusters,250.0,SSE-Elbow,5460.042500118709,250
+Apartments for Rent,K-Means,n_clusters,250.0,DB,1.2445275767849542,250
+Apartments for Rent,K-Means,n_clusters,250.0,BIC,30765.48632696572,250
+Apartments for Rent,K-Means,n_clusters,275.0,VRC,549.45124636008,275
+Apartments for Rent,K-Means,n_clusters,275.0,Silhouette,0.2908030095927044,275
+Apartments for Rent,K-Means,n_clusters,275.0,SSE-Elbow,5190.826492215731,275
+Apartments for Rent,K-Means,n_clusters,275.0,DB,1.2079436194387347,275
+Apartments for Rent,K-Means,n_clusters,275.0,BIC,33027.73785059731,275
+Apartments for Rent,K-Means,n_clusters,300.0,VRC,537.1273793437606,300
+Apartments for Rent,K-Means,n_clusters,300.0,Silhouette,0.2932423547597347,300
+Apartments for Rent,K-Means,n_clusters,300.0,SSE-Elbow,4872.504722247216,300
+Apartments for Rent,K-Means,n_clusters,300.0,DB,1.2086220122902631,300
+Apartments for Rent,K-Means,n_clusters,300.0,BIC,35240.88123392078,300
+Apartments for Rent,K-Means,n_clusters,325.0,VRC,519.0068203212354,325
+Apartments for Rent,K-Means,n_clusters,325.0,Silhouette,0.2941097200633565,325
+Apartments for Rent,K-Means,n_clusters,325.0,SSE-Elbow,4653.991872714619,325
+Apartments for Rent,K-Means,n_clusters,325.0,DB,1.20273616223957,325
+Apartments for Rent,K-Means,n_clusters,325.0,BIC,37553.82520099417,325
+Apartments for Rent,K-Means,n_clusters,350.0,VRC,507.9792368553741,350
+Apartments for Rent,K-Means,n_clusters,350.0,Silhouette,0.2955796721772376,350
+Apartments for Rent,K-Means,n_clusters,350.0,SSE-Elbow,4415.841749417815,350
+Apartments for Rent,K-Means,n_clusters,350.0,DB,1.173472131547791,350
+Apartments for Rent,K-Means,n_clusters,350.0,BIC,39847.13541793819,350
+Apartments for Rent,K-Means,n_clusters,375.0,VRC,500.93373301065736,375
+Apartments for Rent,K-Means,n_clusters,375.0,Silhouette,0.29678812390793463,375
+Apartments for Rent,K-Means,n_clusters,375.0,SSE-Elbow,4179.790403263026,375
+Apartments for Rent,K-Means,n_clusters,375.0,DB,1.158860871759705,375
+Apartments for Rent,K-Means,n_clusters,375.0,BIC,42142.5623748125,375
+Apartments for Rent,K-Means,n_clusters,400.0,VRC,486.8210865547457,400
+Apartments for Rent,K-Means,n_clusters,400.0,Silhouette,0.30313887149004165,400
+Apartments for Rent,K-Means,n_clusters,400.0,SSE-Elbow,4028.3973814375618,400
+Apartments for Rent,K-Means,n_clusters,400.0,DB,1.1495527636406926,400
+Apartments for Rent,K-Means,n_clusters,400.0,BIC,44522.63085177238,400
+Apartments for Rent,K-Means,n_clusters,425.0,VRC,480.8248602718175,425
+Apartments for Rent,K-Means,n_clusters,425.0,Silhouette,0.30528314932868955,425
+Apartments for Rent,K-Means,n_clusters,425.0,SSE-Elbow,3837.0381735688834,425
+Apartments for Rent,K-Means,n_clusters,425.0,DB,1.1395117551582137,425
+Apartments for Rent,K-Means,n_clusters,425.0,BIC,46862.74045170232,425
+Apartments for Rent,K-Means,n_clusters,450.0,VRC,469.9927859512335,450
+Apartments for Rent,K-Means,n_clusters,450.0,Silhouette,0.2986753992411066,450
+Apartments for Rent,K-Means,n_clusters,450.0,SSE-Elbow,3703.1998826941417,450
+Apartments for Rent,K-Means,n_clusters,450.0,DB,1.1421948820055887,450
+Apartments for Rent,K-Means,n_clusters,450.0,BIC,49260.367314119554,450
+Apartments for Rent,K-Means,n_clusters,475.0,VRC,468.18081328996175,475
+Apartments for Rent,K-Means,n_clusters,475.0,Silhouette,0.30969401614085745,475
+Apartments for Rent,K-Means,n_clusters,475.0,SSE-Elbow,3520.0140905839694,475
+Apartments for Rent,K-Means,n_clusters,475.0,DB,1.107848034947335,475
+Apartments for Rent,K-Means,n_clusters,475.0,BIC,51608.64667530136,475
+Apartments for Rent,K-Means,n_clusters,500.0,VRC,460.79075367585693,500
+Apartments for Rent,K-Means,n_clusters,500.0,Silhouette,0.31098848939509316,500
+Apartments for Rent,K-Means,n_clusters,500.0,SSE-Elbow,3393.520467856263,500
+Apartments for Rent,K-Means,n_clusters,500.0,DB,1.097044553263668,500
+Apartments for Rent,K-Means,n_clusters,500.0,BIC,54013.61820586562,500
+Apartments for Rent,K-Means,n_clusters,525.0,VRC,455.45095540099544,525
+Apartments for Rent,K-Means,n_clusters,525.0,Silhouette,0.31258486363499466,525
+Apartments for Rent,K-Means,n_clusters,525.0,SSE-Elbow,3265.8952085408378,525
+Apartments for Rent,K-Means,n_clusters,525.0,DB,1.0929928972854368,525
+Apartments for Rent,K-Means,n_clusters,525.0,BIC,56417.4575768666,525
+Apartments for Rent,K-Means,n_clusters,550.0,VRC,454.46500923384383,550
+Apartments for Rent,K-Means,n_clusters,550.0,Silhouette,0.3150076952171227,550
+Apartments for Rent,K-Means,n_clusters,550.0,SSE-Elbow,3121.105769111131,550
+Apartments for Rent,K-Means,n_clusters,550.0,DB,1.0670416255303177,550
+Apartments for Rent,K-Means,n_clusters,550.0,BIC,58804.13381370445,550
+Apartments for Rent,K-Means,n_clusters,575.0,VRC,444.4133687993556,575
+Apartments for Rent,K-Means,n_clusters,575.0,Silhouette,0.31583478922531055,575
+Apartments for Rent,K-Means,n_clusters,575.0,SSE-Elbow,3047.2871289658583,575
+Apartments for Rent,K-Means,n_clusters,575.0,DB,1.0678192332332728,575
+Apartments for Rent,K-Means,n_clusters,575.0,BIC,61261.77447502558,575
+Apartments for Rent,K-Means,n_clusters,600.0,VRC,444.7962590299044,600
+Apartments for Rent,K-Means,n_clusters,600.0,Silhouette,0.31208037806369854,600
+Apartments for Rent,K-Means,n_clusters,600.0,SSE-Elbow,2914.4662527983255,600
+Apartments for Rent,K-Means,n_clusters,600.0,DB,1.0644557783584925,600
+Apartments for Rent,K-Means,n_clusters,600.0,BIC,63660.42460397559,600
+Apartments for Rent,K-Means,n_clusters,625.0,VRC,436.0341650739606,625
+Apartments for Rent,K-Means,n_clusters,625.0,Silhouette,0.3138602529935479,625
+Apartments for Rent,K-Means,n_clusters,625.0,SSE-Elbow,2848.5488348343397,625
+Apartments for Rent,K-Means,n_clusters,625.0,DB,1.0524408395542169,625
+Apartments for Rent,K-Means,n_clusters,625.0,BIC,66125.97233930358,625
+Apartments for Rent,K-Means,n_clusters,650.0,VRC,433.22254178021507,650
+Apartments for Rent,K-Means,n_clusters,650.0,Silhouette,0.31965497119316155,650
+Apartments for Rent,K-Means,n_clusters,650.0,SSE-Elbow,2752.385905845868,650
+Apartments for Rent,K-Means,n_clusters,650.0,DB,1.0282293900188513,650
+Apartments for Rent,K-Means,n_clusters,650.0,BIC,68561.27456360709,650
+Apartments for Rent,K-Means,n_clusters,675.0,VRC,433.8296937606077,675
+Apartments for Rent,K-Means,n_clusters,675.0,Silhouette,0.3205227813882463,675
+Apartments for Rent,K-Means,n_clusters,675.0,SSE-Elbow,2642.942392820865,675
+Apartments for Rent,K-Means,n_clusters,675.0,DB,1.0362669499537227,675
+Apartments for Rent,K-Means,n_clusters,675.0,BIC,70983.29620387407,675
+Apartments for Rent,K-Means,n_clusters,700.0,VRC,429.2072503803128,700
+Apartments for Rent,K-Means,n_clusters,700.0,Silhouette,0.3142032676075712,700
+Apartments for Rent,K-Means,n_clusters,700.0,SSE-Elbow,2571.13850949447,700
+Apartments for Rent,K-Means,n_clusters,700.0,DB,1.0360343503677176,700
+Apartments for Rent,K-Means,n_clusters,700.0,BIC,73442.95223445463,700
+Apartments for Rent,K-Means,n_clusters,725.0,VRC,425.9110310499141,725
+Apartments for Rent,K-Means,n_clusters,725.0,Silhouette,0.3150754981027324,725
+Apartments for Rent,K-Means,n_clusters,725.0,SSE-Elbow,2497.01876310747,725
+Apartments for Rent,K-Means,n_clusters,725.0,DB,1.0100903157551802,725
+Apartments for Rent,K-Means,n_clusters,725.0,BIC,75900.30288074462,725
+Apartments for Rent,K-Means,n_clusters,750.0,VRC,422.19745162960066,750
+Apartments for Rent,K-Means,n_clusters,750.0,Silhouette,0.31913257333614453,750
+Apartments for Rent,K-Means,n_clusters,750.0,SSE-Elbow,2430.2478729539826,750
+Apartments for Rent,K-Means,n_clusters,750.0,DB,1.007208966846868,750
+Apartments for Rent,K-Means,n_clusters,750.0,BIC,78364.9971438831,750
+Apartments for Rent,K-Means,n_clusters,775.0,VRC,422.30752207595185,775
+Apartments for Rent,K-Means,n_clusters,775.0,Silhouette,0.31853396134948636,775
+Apartments for Rent,K-Means,n_clusters,775.0,SSE-Elbow,2347.0839480144996,775
+Apartments for Rent,K-Means,n_clusters,775.0,DB,1.0046588535931094,775
+Apartments for Rent,K-Means,n_clusters,775.0,BIC,80813.2983722356,775
+Apartments for Rent,K-Means,n_clusters,800.0,VRC,421.8075762846108,800
+Apartments for Rent,K-Means,n_clusters,800.0,Silhouette,0.32212118185063143,800
+Apartments for Rent,K-Means,n_clusters,800.0,SSE-Elbow,2272.1718606219956,800
+Apartments for Rent,K-Means,n_clusters,800.0,DB,0.9863997793627204,800
+Apartments for Rent,K-Means,n_clusters,800.0,BIC,83269.85143813507,800
+Apartments for Rent,K-Means,n_clusters,825.0,VRC,418.485840196505,825
+Apartments for Rent,K-Means,n_clusters,825.0,Silhouette,0.3181806768928013,825
+Apartments for Rent,K-Means,n_clusters,825.0,SSE-Elbow,2216.138033271515,825
+Apartments for Rent,K-Means,n_clusters,825.0,DB,0.9886882178271696,825
+Apartments for Rent,K-Means,n_clusters,825.0,BIC,85745.28276407656,825
+Apartments for Rent,K-Means,n_clusters,850.0,VRC,414.0449039739377,850
+Apartments for Rent,K-Means,n_clusters,850.0,Silhouette,0.31666640452211753,850
+Apartments for Rent,K-Means,n_clusters,850.0,SSE-Elbow,2169.2093349945612,850
+Apartments for Rent,K-Means,n_clusters,850.0,DB,0.978545248402739,850
+Apartments for Rent,K-Means,n_clusters,850.0,BIC,88229.81921909159,850
+Apartments for Rent,K-Means,n_clusters,875.0,VRC,416.19842061043255,875
+Apartments for Rent,K-Means,n_clusters,875.0,Silhouette,0.32852400637321355,875
+Apartments for Rent,K-Means,n_clusters,875.0,SSE-Elbow,2092.414937044002,875
+Apartments for Rent,K-Means,n_clusters,875.0,DB,0.9482372833484568,875
+Apartments for Rent,K-Means,n_clusters,875.0,BIC,90684.489974433,875
+Apartments for Rent,K-Means,n_clusters,900.0,VRC,414.0934266171784,900
+Apartments for Rent,K-Means,n_clusters,900.0,Silhouette,0.32586457537422914,900
+Apartments for Rent,K-Means,n_clusters,900.0,SSE-Elbow,2040.2052131713772,900
+Apartments for Rent,K-Means,n_clusters,900.0,DB,0.9486446354512276,900
+Apartments for Rent,K-Means,n_clusters,900.0,BIC,93163.74540385234,900
+Apartments for Rent,K-Means,n_clusters,925.0,VRC,414.0178594507983,925
+Apartments for Rent,K-Means,n_clusters,925.0,Silhouette,0.3216799786861417,925
+Apartments for Rent,K-Means,n_clusters,925.0,SSE-Elbow,1981.2730228067044,925
+Apartments for Rent,K-Means,n_clusters,925.0,DB,0.933543734555555,925
+Apartments for Rent,K-Means,n_clusters,925.0,BIC,95636.27836677966,925
+Apartments for Rent,K-Means,n_clusters,950.0,VRC,412.9980874290288,950
+Apartments for Rent,K-Means,n_clusters,950.0,Silhouette,0.3280748595852436,950
+Apartments for Rent,K-Means,n_clusters,950.0,SSE-Elbow,1929.6706277366477,950
+Apartments for Rent,K-Means,n_clusters,950.0,DB,0.9319375407486246,950
+Apartments for Rent,K-Means,n_clusters,950.0,BIC,98116.14112500157,950
+Apartments for Rent,K-Means,n_clusters,975.0,VRC,412.07440320068446,975
+Apartments for Rent,K-Means,n_clusters,975.0,Silhouette,0.3240117894265707,975
+Apartments for Rent,K-Means,n_clusters,975.0,SSE-Elbow,1880.226832996755,975
+Apartments for Rent,K-Means,n_clusters,975.0,DB,0.9263936583602944,975
+Apartments for Rent,K-Means,n_clusters,975.0,BIC,100598.16248355366,975
+Apartments for Rent,K-Means,n_clusters,1000.0,VRC,410.38534445351974,1000
+Apartments for Rent,K-Means,n_clusters,1000.0,Silhouette,0.31616947308237936,1000
+Apartments for Rent,K-Means,n_clusters,1000.0,SSE-Elbow,1836.5536014456084,1000
+Apartments for Rent,K-Means,n_clusters,1000.0,DB,0.9370138348979238,1000
+Apartments for Rent,K-Means,n_clusters,1000.0,BIC,103085.9461106717,1000
+Apartments for Rent,OPTICS,min_samples,2.0,VRC,5.47324855391523,2517
+Apartments for Rent,OPTICS,min_samples,2.0,Silhouette,0.100398332371141,2517
+Apartments for Rent,OPTICS,min_samples,2.0,SSE-Elbow,1702.518671175818,2517
+Apartments for Rent,OPTICS,min_samples,2.0,DB,1.1745592562744955,2517
+Apartments for Rent,OPTICS,min_samples,2.0,BIC,256429.6890679663,2517
+Apartments for Rent,OPTICS,min_samples,7.0,VRC,16.940036321988547,319
+Apartments for Rent,OPTICS,min_samples,7.0,Silhouette,-0.2190345997764488,319
+Apartments for Rent,OPTICS,min_samples,7.0,SSE-Elbow,6970.223147399125,319
+Apartments for Rent,OPTICS,min_samples,7.0,DB,1.2400014874325285,319
+Apartments for Rent,OPTICS,min_samples,7.0,BIC,38855.67117892128,319
+Apartments for Rent,OPTICS,min_samples,12.0,VRC,31.60011373278821,162
+Apartments for Rent,OPTICS,min_samples,12.0,Silhouette,-0.19569484139071025,162
+Apartments for Rent,OPTICS,min_samples,12.0,SSE-Elbow,9677.428147089984,162
+Apartments for Rent,OPTICS,min_samples,12.0,DB,1.2536025333912215,162
+Apartments for Rent,OPTICS,min_samples,12.0,BIC,25762.94159514764,162
+Apartments for Rent,OPTICS,min_samples,17.0,VRC,46.383937425138946,97
+Apartments for Rent,OPTICS,min_samples,17.0,Silhouette,-0.23294830732374244,97
+Apartments for Rent,OPTICS,min_samples,17.0,SSE-Elbow,11680.668300314188,97
+Apartments for Rent,OPTICS,min_samples,17.0,DB,1.2686519766712778,97
+Apartments for Rent,OPTICS,min_samples,17.0,BIC,21023.73733918686,97
+Apartments for Rent,OPTICS,min_samples,22.0,VRC,59.53024133785114,70
+Apartments for Rent,OPTICS,min_samples,22.0,Silhouette,-0.24476932326746437,70
+Apartments for Rent,OPTICS,min_samples,22.0,SSE-Elbow,12585.706902506843,70
+Apartments for Rent,OPTICS,min_samples,22.0,DB,1.2364299512998809,70
+Apartments for Rent,OPTICS,min_samples,22.0,BIC,19324.599233365523,70
+Apartments for Rent,OPTICS,min_samples,27.0,VRC,60.49121052862282,53
+Apartments for Rent,OPTICS,min_samples,27.0,Silhouette,-0.2736900133479805,53
+Apartments for Rent,OPTICS,min_samples,27.0,SSE-Elbow,15342.307763737448,53
+Apartments for Rent,OPTICS,min_samples,27.0,DB,1.2790606810548557,53
+Apartments for Rent,OPTICS,min_samples,27.0,BIC,20272.96292751047,53
+Apartments for Rent,OPTICS,min_samples,32.0,VRC,79.76030906640122,40
+Apartments for Rent,OPTICS,min_samples,32.0,Silhouette,-0.2548462499356341,40
+Apartments for Rent,OPTICS,min_samples,32.0,SSE-Elbow,16486.06624084057,40
+Apartments for Rent,OPTICS,min_samples,32.0,DB,1.212192459155544,40
+Apartments for Rent,OPTICS,min_samples,32.0,BIC,20100.76862216139,40
+Apartments for Rent,OPTICS,min_samples,37.0,VRC,122.50371880671877,31
+Apartments for Rent,OPTICS,min_samples,37.0,Silhouette,-0.21015584616887747,31
+Apartments for Rent,OPTICS,min_samples,37.0,SSE-Elbow,18964.26806569028,31
+Apartments for Rent,OPTICS,min_samples,37.0,DB,1.194149015205439,31
+Apartments for Rent,OPTICS,min_samples,37.0,BIC,21919.259910849345,31
+Apartments for Rent,OPTICS,min_samples,42.0,VRC,100.1868787124806,26
+Apartments for Rent,OPTICS,min_samples,42.0,Silhouette,-0.2923898646497063,26
+Apartments for Rent,OPTICS,min_samples,42.0,SSE-Elbow,20417.156785656327,26
+Apartments for Rent,OPTICS,min_samples,42.0,DB,1.2522566344488757,26
+Apartments for Rent,OPTICS,min_samples,42.0,BIC,22962.682714030103,26
+Apartments for Rent,OPTICS,min_samples,47.0,VRC,130.03754776387387,22
+Apartments for Rent,OPTICS,min_samples,47.0,Silhouette,-0.2576692579688899,22
+Apartments for Rent,OPTICS,min_samples,47.0,SSE-Elbow,22352.38723339919,22
+Apartments for Rent,OPTICS,min_samples,47.0,DB,1.2530545092370473,22
+Apartments for Rent,OPTICS,min_samples,47.0,BIC,24416.56647084142,22
+Apartments for Rent,OPTICS,min_samples,52.0,VRC,210.50141982217065,20
+Apartments for Rent,OPTICS,min_samples,52.0,Silhouette,-0.14971163943413,20
+Apartments for Rent,OPTICS,min_samples,52.0,SSE-Elbow,23114.57478426139,20
+Apartments for Rent,OPTICS,min_samples,52.0,DB,1.242194309760672,20
+Apartments for Rent,OPTICS,min_samples,52.0,BIC,24938.27067061186,20
+Apartments for Rent,OPTICS,min_samples,57.0,VRC,165.32861911189335,17
+Apartments for Rent,OPTICS,min_samples,57.0,Silhouette,-0.1837080913620121,17
+Apartments for Rent,OPTICS,min_samples,57.0,SSE-Elbow,24292.77748433647,17
+Apartments for Rent,OPTICS,min_samples,57.0,DB,1.1619226570326562,17
+Apartments for Rent,OPTICS,min_samples,57.0,BIC,25814.12249947303,17
+Apartments for Rent,OPTICS,min_samples,62.0,VRC,180.0376581468911,15
+Apartments for Rent,OPTICS,min_samples,62.0,Silhouette,-0.13063062377438903,15
+Apartments for Rent,OPTICS,min_samples,62.0,SSE-Elbow,24765.93059763109,15
+Apartments for Rent,OPTICS,min_samples,62.0,DB,1.1261930286674322,15
+Apartments for Rent,OPTICS,min_samples,62.0,BIC,26174.49619111343,15
+Apartments for Rent,OPTICS,min_samples,67.0,VRC,193.67441257072096,16
+Apartments for Rent,OPTICS,min_samples,67.0,Silhouette,-0.15903372360340112,16
+Apartments for Rent,OPTICS,min_samples,67.0,SSE-Elbow,26583.027135360047,16
+Apartments for Rent,OPTICS,min_samples,67.0,DB,1.1925086669764755,16
+Apartments for Rent,OPTICS,min_samples,67.0,BIC,27977.91228078269,16
+Apartments for Rent,OPTICS,min_samples,72.0,VRC,164.6200326208045,13
+Apartments for Rent,OPTICS,min_samples,72.0,Silhouette,-0.18420195429321728,13
+Apartments for Rent,OPTICS,min_samples,72.0,SSE-Elbow,27023.69796063006,13
+Apartments for Rent,OPTICS,min_samples,72.0,DB,1.1485075019220454,13
+Apartments for Rent,OPTICS,min_samples,72.0,BIC,28154.017664725096,13
+Apartments for Rent,OPTICS,min_samples,77.0,VRC,216.53267038335505,13
+Apartments for Rent,OPTICS,min_samples,77.0,Silhouette,-0.12740767366241865,13
+Apartments for Rent,OPTICS,min_samples,77.0,SSE-Elbow,26153.428651314593,13
+Apartments for Rent,OPTICS,min_samples,77.0,DB,1.1021793319555673,13
+Apartments for Rent,OPTICS,min_samples,77.0,BIC,27343.429804327938,13
+Apartments for Rent,OPTICS,min_samples,82.0,VRC,225.9778523035724,9
+Apartments for Rent,OPTICS,min_samples,82.0,Silhouette,-0.12141192274972004,9
+Apartments for Rent,OPTICS,min_samples,82.0,SSE-Elbow,31774.74857427559,9
+Apartments for Rent,OPTICS,min_samples,82.0,DB,1.1839219122779787,9
+Apartments for Rent,OPTICS,min_samples,82.0,BIC,32560.48723509483,9
+Apartments for Rent,OPTICS,min_samples,87.0,VRC,225.33698476252633,7
+Apartments for Rent,OPTICS,min_samples,87.0,Silhouette,-0.13569129218383758,7
+Apartments for Rent,OPTICS,min_samples,87.0,SSE-Elbow,37350.576814845255,7
+Apartments for Rent,OPTICS,min_samples,87.0,DB,1.2098395919079363,7
+Apartments for Rent,OPTICS,min_samples,87.0,BIC,37936.498370041656,7
+Apartments for Rent,OPTICS,min_samples,92.0,VRC,185.9602866169573,7
+Apartments for Rent,OPTICS,min_samples,92.0,Silhouette,-0.16906970730213616,7
+Apartments for Rent,OPTICS,min_samples,92.0,SSE-Elbow,37531.04739008202,7
+Apartments for Rent,OPTICS,min_samples,92.0,DB,1.236854757283376,7
+Apartments for Rent,OPTICS,min_samples,92.0,BIC,38208.8796184084,7
+Apartments for Rent,OPTICS,min_samples,97.0,VRC,230.83642213048583,6
+Apartments for Rent,OPTICS,min_samples,97.0,Silhouette,-0.15574633023923298,6
+Apartments for Rent,OPTICS,min_samples,97.0,SSE-Elbow,38371.34569050421,6
+Apartments for Rent,OPTICS,min_samples,97.0,DB,1.2093869274613758,6
+Apartments for Rent,OPTICS,min_samples,97.0,BIC,38871.74937356073,6
+Apartments for Rent,dbscan,eps,0.1,VRC,12.386948033076107,122
+Apartments for Rent,dbscan,eps,0.1,Silhouette,-0.49942608714685127,122
+Apartments for Rent,dbscan,eps,0.1,SSE-Elbow,9911.30044333056,122
+Apartments for Rent,dbscan,eps,0.1,DB,1.0832220249316542,122
+Apartments for Rent,dbscan,eps,0.1,BIC,22008.709988439296,122
+Apartments for Rent,dbscan,eps,0.2,VRC,24.334734130360243,209
+Apartments for Rent,dbscan,eps,0.2,Silhouette,-0.20993410410646887,209
+Apartments for Rent,dbscan,eps,0.2,SSE-Elbow,7821.1527885517135,209
+Apartments for Rent,dbscan,eps,0.2,DB,1.1579858569347796,209
+Apartments for Rent,dbscan,eps,0.2,BIC,28536.98966676219,209
+Apartments for Rent,dbscan,eps,0.30000000000000004,VRC,37.11037064614281,223
+Apartments for Rent,dbscan,eps,0.30000000000000004,Silhouette,-0.06842236417852553,223
+Apartments for Rent,dbscan,eps,0.30000000000000004,SSE-Elbow,8539.737663884536,223
+Apartments for Rent,dbscan,eps,0.30000000000000004,DB,1.1903660615413487,223
+Apartments for Rent,dbscan,eps,0.30000000000000004,BIC,30723.627056894817,223
+Apartments for Rent,dbscan,eps,0.4,VRC,52.2108385601885,223
+Apartments for Rent,dbscan,eps,0.4,Silhouette,0.008383371855011382,223
+Apartments for Rent,dbscan,eps,0.4,SSE-Elbow,7517.506521244878,223
+Apartments for Rent,dbscan,eps,0.4,DB,1.215186020510565,223
+Apartments for Rent,dbscan,eps,0.4,BIC,29774.99361138828,223
+Apartments for Rent,dbscan,eps,0.5,VRC,69.91473840972087,200
+Apartments for Rent,dbscan,eps,0.5,Silhouette,0.05894823084219889,200
+Apartments for Rent,dbscan,eps,0.5,SSE-Elbow,7731.145635175922,200
+Apartments for Rent,dbscan,eps,0.5,DB,1.263278922556652,200
+Apartments for Rent,dbscan,eps,0.5,BIC,27512.81220685226,200
+Apartments for Rent,dbscan,eps,0.6,VRC,77.7379195155964,196
+Apartments for Rent,dbscan,eps,0.6,Silhouette,0.05942668515745596,196
+Apartments for Rent,dbscan,eps,0.6,SSE-Elbow,8698.32992985814,196
+Apartments for Rent,dbscan,eps,0.6,DB,1.3046150008881965,196
+Apartments for Rent,dbscan,eps,0.6,BIC,28049.48731269112,196
+Apartments for Rent,dbscan,eps,0.7000000000000001,VRC,84.15907391315586,180
+Apartments for Rent,dbscan,eps,0.7000000000000001,Silhouette,-0.002218534238535638,180
+Apartments for Rent,dbscan,eps,0.7000000000000001,SSE-Elbow,8003.576228572558,180
+Apartments for Rent,dbscan,eps,0.7000000000000001,DB,1.356802244736668,180
+Apartments for Rent,dbscan,eps,0.7000000000000001,BIC,25930.468509703856,180
+Apartments for Rent,dbscan,eps,0.8,VRC,102.51772875393983,150
+Apartments for Rent,dbscan,eps,0.8,Silhouette,-0.034169142020633265,150
+Apartments for Rent,dbscan,eps,0.8,SSE-Elbow,9167.372187279308,150
+Apartments for Rent,dbscan,eps,0.8,DB,1.4420557778947285,150
+Apartments for Rent,dbscan,eps,0.8,BIC,24079.68728402823,150
+Apartments for Rent,dbscan,eps,0.9,VRC,124.33265048424856,97
+Apartments for Rent,dbscan,eps,0.9,Silhouette,-0.1749518828627937,97
+Apartments for Rent,dbscan,eps,0.9,SSE-Elbow,11273.4920284111,97
+Apartments for Rent,dbscan,eps,0.9,DB,1.445516034361795,97
+Apartments for Rent,dbscan,eps,0.9,BIC,20850.24984276817,97
+Apartments for Rent,dbscan,eps,1.0,VRC,253.39058579536385,43
+Apartments for Rent,dbscan,eps,1.0,Silhouette,-0.13413862035594226,43
+Apartments for Rent,dbscan,eps,1.0,SSE-Elbow,16487.68516177442,43
+Apartments for Rent,dbscan,eps,1.0,DB,1.5760657180448605,43
+Apartments for Rent,dbscan,eps,1.0,BIC,20679.55966488434,43
+Apartments for Rent,dbscan,eps,1.1,VRC,1011.5420157925208,7
+Apartments for Rent,dbscan,eps,1.1,Silhouette,0.24280174817004543,7
+Apartments for Rent,dbscan,eps,1.1,SSE-Elbow,36887.21662799309,7
+Apartments for Rent,dbscan,eps,1.1,DB,1.4385103601376277,7
+Apartments for Rent,dbscan,eps,1.1,BIC,37496.78053371627,7
+Apartments for Rent,dbscan,eps,1.2000000000000002,VRC,866.0103601500251,8
+Apartments for Rent,dbscan,eps,1.2000000000000002,Silhouette,0.23368389506314785,8
+Apartments for Rent,dbscan,eps,1.2000000000000002,SSE-Elbow,34264.053277579646,8
+Apartments for Rent,dbscan,eps,1.2000000000000002,DB,1.5336815471077865,8
+Apartments for Rent,dbscan,eps,1.2000000000000002,BIC,34951.26070321253,8
+Apartments for Rent,dbscan,eps,1.3000000000000005,VRC,1440.204023536142,5
+Apartments for Rent,dbscan,eps,1.3000000000000005,Silhouette,0.2888970960438659,5
+Apartments for Rent,dbscan,eps,1.3000000000000005,SSE-Elbow,41713.45525244897,5
+Apartments for Rent,dbscan,eps,1.3000000000000005,DB,1.0786649852492725,5
+Apartments for Rent,dbscan,eps,1.3000000000000005,BIC,42162.78523432452,5
+Apartments for Rent,dbscan,eps,1.4,VRC,1119.1812296727617,6
+Apartments for Rent,dbscan,eps,1.4,Silhouette,0.25883121377429485,6
+Apartments for Rent,dbscan,eps,1.4,SSE-Elbow,37468.148671609495,6
+Apartments for Rent,dbscan,eps,1.4,DB,1.6842352977174573,6
+Apartments for Rent,dbscan,eps,1.4,BIC,38016.946680874215,6
+Apartments for Rent,dbscan,eps,1.5000000000000002,VRC,447.08004142497174,3
+Apartments for Rent,dbscan,eps,1.5000000000000002,Silhouette,0.3826498487505262,3
+Apartments for Rent,dbscan,eps,1.5000000000000002,SSE-Elbow,51148.34391474255,3
+Apartments for Rent,dbscan,eps,1.5000000000000002,DB,1.0897384809741977,3
+Apartments for Rent,dbscan,eps,1.5000000000000002,BIC,50751.79231330743,3
+Apartments for Rent,dbscan,eps,1.6,VRC,286.20941135192817,4
+Apartments for Rent,dbscan,eps,1.6,Silhouette,0.3678150237880485,4
+Apartments for Rent,dbscan,eps,1.6,SSE-Elbow,48339.731667604734,4
+Apartments for Rent,dbscan,eps,1.6,DB,1.999176151329049,4
+Apartments for Rent,dbscan,eps,1.6,BIC,48457.482962078946,4
+Apartments for Rent,dbscan,eps,1.7000000000000002,VRC,285.3249693168972,4
+Apartments for Rent,dbscan,eps,1.7000000000000002,Silhouette,0.300778234658079,4
+Apartments for Rent,dbscan,eps,1.7000000000000002,SSE-Elbow,46333.7738573183,4
+Apartments for Rent,dbscan,eps,1.7000000000000002,DB,0.9490974033884764,4
+Apartments for Rent,dbscan,eps,1.7000000000000002,BIC,46297.6687740182,4
+Apartments for Rent,dbscan,eps,1.8000000000000005,VRC,272.87612112915843,4
+Apartments for Rent,dbscan,eps,1.8000000000000005,Silhouette,0.30057624276826306,4
+Apartments for Rent,dbscan,eps,1.8000000000000005,SSE-Elbow,48322.310215028374,4
+Apartments for Rent,dbscan,eps,1.8000000000000005,DB,0.9197189664856764,4
+Apartments for Rent,dbscan,eps,1.8000000000000005,BIC,48503.990523112734,4
+Apartments for Rent,dbscan,eps,1.9,VRC,259.5470793503434,4
+Apartments for Rent,dbscan,eps,1.9,Silhouette,0.3003538036532303,4
+Apartments for Rent,dbscan,eps,1.9,SSE-Elbow,44497.57657757038,4
+Apartments for Rent,dbscan,eps,1.9,DB,0.9152592445416872,4
+Apartments for Rent,dbscan,eps,1.9,BIC,44828.483510724705,4
+Apartments for Rent,dbscan,eps,2.0,VRC,250.1460702922953,4
+Apartments for Rent,dbscan,eps,2.0,Silhouette,0.3198335317326882,4
+Apartments for Rent,dbscan,eps,2.0,SSE-Elbow,46854.40631156595,4
+Apartments for Rent,dbscan,eps,2.0,DB,0.9417335318215097,4
+Apartments for Rent,dbscan,eps,2.0,BIC,47230.97575909025,4
