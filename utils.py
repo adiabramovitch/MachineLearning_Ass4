@@ -154,19 +154,18 @@ def optimal_k_of_specific_metric_df(df, metric):
     n_clusters = filtered_df.loc[index]['Num clusters']
     return n_clusters
 
-def create_sum_df(df, actual_clusters):
-  for dataset in ['Apartments for Rent', 'Heart Failure', 'TV News Channel Commercial Detection Dataset']:
+def create_sum_df_per_dataset(df, dataset, actual_clusters):
     sum_df = pd.DataFrame(columns=['Dataset', 'Metric name', 'Estimated optimal k', 'Actual K', 'n_samples', 'n_features'])
     raw_metrics = pd.read_csv('raw_metrics.csv')
     sub_df = raw_metrics[raw_metrics['Dataset'] == dataset]
 
     for metric in ['VRC', 'BIC', 'DB', 'SSE-Elbow', 'Silhouette']:
-      n_clusters = optimal_k_of_specific_metric_df(sub_df, metric)
-      new_row = [dataset, metric, n_clusters, actual_clusters, df.shape[0], df.shape[1]]
-      sum_df = sum_df.append(pd.Series(new_row, index=sum_df.columns), ignore_index=True)
+        n_clusters = optimal_k_of_specific_metric_df(sub_df, metric)
+        new_row = [dataset, metric, n_clusters, actual_clusters, df.shape[0], df.shape[1]]
+        sum_df = sum_df.append(pd.Series(new_row, index=sum_df.columns), ignore_index=True)
 
-  sum_df.to_csv('optimal_k.csv', index=False)
-  return sum_df
+    sum_df.to_csv('optimal_k.csv', index=False)
+    return sum_df
 
 def calc_scores_for_all(X, dataset):
     """
