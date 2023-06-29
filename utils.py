@@ -109,7 +109,6 @@ def plot_elbow_method(x_label, y_label, x_values, y_values, algo, dataset):
     wandb.log({f'Elbow Method': fig})
     wandb.finish()
 
-
 def calc_scores(X, model):
     """Utils function to calculate all metrics scores """
     sse = np.nan
@@ -146,6 +145,28 @@ def log_rows(algo, dataset, hyper_param, hyper_param_value, n_clusters, silhouet
                  'Metric name': metric_name, 'Metric value': metric_val, 'Num clusters': n_clusters})
         run.finish()
 
+def optimal_k_of_specific_metric_df(df, metric):
+    filtered_df = df[df['Metric name'] == metric]
+    if metric == 'VRC' or metric == 'Silhouette':
+      index = filtered_df['Metric value'].idxmax()
+    else:
+      index = filtered_df['Metric value'].idxmin()
+    n_clusters = filtered_df.loc[index]['Num clusters']
+    return n_clusters
+
+def create_sum_df(df, actual_clusters):
+  for dataset in ['Apartments for Rent', 'Heart Failure', 'TV News Channel Commercial Detection Dataset']:
+    sum_df = pd.DataFrame(columns=['Dataset', 'Metric name', 'Estimated optimal k', 'Actual K', 'n_samples', 'n_features'])
+    raw_metrics = pd.read_csv('raw_metrics.csv')
+    sub_df = raw_metrics[raw_metrics['Dataset'] == dataset]
+
+    for metric in ['VRC', 'BIC', 'DB', 'SSE-Elbow', 'Silhouette']:
+      n_clusters = optimal_k_of_specific_metric_df(sub_df, metric)
+      new_row = [dataset, metric, n_clusters, actual_clusters, df.shape[0], df.shape[1]]
+      sum_df = sum_df.append(pd.Series(new_row, index=sum_df.columns), ignore_index=True)
+
+  sum_df.to_csv('optimal_k.csv', index=False)
+  return sum_df
 
 def calc_scores_for_all(X, dataset):
     """
@@ -158,7 +179,6 @@ def calc_scores_for_all(X, dataset):
     calc_dbscan(X, dataset)
     calc_optics(X, dataset)
     calc_agglomerativeClustering(X, dataset)
-
 
 def calc_kmeans(X, dataset):
     """
