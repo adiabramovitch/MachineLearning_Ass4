@@ -104,7 +104,7 @@ def plot_elbow_method(x_label, y_label, x_values, y_values, algo, dataset):
     plt.ylabel(y_label)
     plt.title(f"{plt_name}")
     fig = plt.gcf()
-    fig.savefig(f'{plt_name}')
+    fig.savefig(f'{plt_name}.png')
     plt.show()
     wandb.log({f'Elbow Method': fig})
     wandb.finish()
