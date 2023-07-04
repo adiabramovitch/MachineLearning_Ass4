@@ -164,8 +164,15 @@ def create_sum_df_per_dataset(df, dataset, actual_clusters):
         new_row = [dataset, metric, n_clusters, actual_clusters, df.shape[0], df.shape[1]]
         sum_df = sum_df.append(pd.Series(new_row, index=sum_df.columns), ignore_index=True)
 
-    sum_df.to_csv('optimal_k.csv', index=False)
+    sum_df.to_csv(f'optimal_k_{dataset}.csv', index=False)
     return sum_df
+
+def merge_optimal_k_csv():
+    heart_df = pd.read_csv('optimal_k_Heart Failure.csv')
+    ap_df = pd.read_csv('optimal_k_Apartments for Rent.csv')
+    tv_df = pd.read_csv('optimal_k_TV News Channel Commercial Detection Dataset.csv')
+    combined_df = pd.concat([heart_df,ap_df, tv_df], ignore_index=True)
+    combined_df.to_csv(f'optimal_k.csv', index=False)
 
 def calc_scores_for_all(X, dataset):
     """
@@ -247,3 +254,11 @@ def calc_agglomerativeClustering(X, dataset):
         log_rows('Agglomerative', dataset, 'n_clusters', n_clusters_values[i], k, silhouette, davies, calinski_harabasz,
                  bic, sse)
     plot_elbow_method('n_clusters', 'SSE-Elbow', n_clusters_values, sse_arr, 'Agglomerative', dataset)
+
+
+def __main__():
+    merge_optimal_k_csv()
+
+
+if __name__ == "__main__":
+    __main__()

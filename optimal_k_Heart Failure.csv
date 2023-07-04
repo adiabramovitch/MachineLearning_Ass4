@@ -1,0 +1,6 @@
+Dataset,Metric name,Estimated optimal k,Actual K,n_samples,n_features
+Heart Failure,VRC,2,2,299,12
+Heart Failure,BIC,9,2,299,12
+Heart Failure,DB,275,2,299,12
+Heart Failure,SSE-Elbow,275,2,299,12
+Heart Failure,Silhouette,2,2,299,12
