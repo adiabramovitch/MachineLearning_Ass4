@@ -699,361 +699,361 @@ TV News Channel Commercial Detection Dataset,dbscan,eps,2.0,Silhouette,-0.226445
 TV News Channel Commercial Detection Dataset,dbscan,eps,2.0,SSE-Elbow,360664.50461359613,274
 TV News Channel Commercial Detection Dataset,dbscan,eps,2.0,DB,1.3776107051291702,274
 TV News Channel Commercial Detection Dataset,dbscan,eps,2.0,BIC,394047.4283988958,274
-Heart Failure,Agglomerative,n_clusters,2.0,VRC,32.56895407225739,2
-Heart Failure,Agglomerative,n_clusters,2.0,Silhouette,0.1490423726218516,2
-Heart Failure,Agglomerative,n_clusters,2.0,SSE-Elbow,3230.121337644992,2
-Heart Failure,Agglomerative,n_clusters,2.0,DB,2.7137532774083724,2
-Heart Failure,Agglomerative,n_clusters,2.0,BIC,3366.92048646229,2
-Heart Failure,Agglomerative,n_clusters,7.0,VRC,23.87398104729851,7
-Heart Failure,Agglomerative,n_clusters,7.0,Silhouette,0.08142078593408963,7
-Heart Failure,Agglomerative,n_clusters,7.0,SSE-Elbow,2407.28737754917,7
-Heart Failure,Agglomerative,n_clusters,7.0,DB,1.934972384418687,7
-Heart Failure,Agglomerative,n_clusters,7.0,BIC,2894.6318359073566,7
-Heart Failure,Agglomerative,n_clusters,12.0,VRC,20.631139444841896,12
-Heart Failure,Agglomerative,n_clusters,12.0,Silhouette,0.10234570605189956,12
-Heart Failure,Agglomerative,n_clusters,12.0,SSE-Elbow,1971.5851666762956,12
-Heart Failure,Agglomerative,n_clusters,12.0,DB,1.9310622119456913,12
-Heart Failure,Agglomerative,n_clusters,12.0,BIC,2840.1748911382724,12
-Heart Failure,Agglomerative,n_clusters,17.0,VRC,18.81862426875857,17
-Heart Failure,Agglomerative,n_clusters,17.0,Silhouette,0.10948073526906596,17
-Heart Failure,Agglomerative,n_clusters,17.0,SSE-Elbow,1768.064241987461,17
-Heart Failure,Agglomerative,n_clusters,17.0,DB,1.77306355896119,17
-Heart Failure,Agglomerative,n_clusters,17.0,BIC,3007.312979237526,17
-Heart Failure,Agglomerative,n_clusters,22.0,VRC,17.75866027075842,22
-Heart Failure,Agglomerative,n_clusters,22.0,Silhouette,0.12667615292233284,22
-Heart Failure,Agglomerative,n_clusters,22.0,SSE-Elbow,1576.205692244812,22
-Heart Failure,Agglomerative,n_clusters,22.0,DB,1.6466969610238409,22
-Heart Failure,Agglomerative,n_clusters,22.0,BIC,3186.64608389352,22
-Heart Failure,Agglomerative,n_clusters,27.0,VRC,16.862870271773723,27
-Heart Failure,Agglomerative,n_clusters,27.0,Silhouette,0.13961729185168872,27
-Heart Failure,Agglomerative,n_clusters,27.0,SSE-Elbow,1527.4449343450392,27
-Heart Failure,Agglomerative,n_clusters,27.0,DB,1.5255200700821534,27
-Heart Failure,Agglomerative,n_clusters,27.0,BIC,3512.249438490848,27
-Heart Failure,Agglomerative,n_clusters,32.0,VRC,16.021112181926988,32
-Heart Failure,Agglomerative,n_clusters,32.0,Silhouette,0.14719146077911782,32
-Heart Failure,Agglomerative,n_clusters,32.0,SSE-Elbow,1318.12968463804,32
-Heart Failure,Agglomerative,n_clusters,32.0,DB,1.462811961358719,32
-Heart Failure,Agglomerative,n_clusters,32.0,BIC,3677.399397663746,32
-Heart Failure,Agglomerative,n_clusters,37.0,VRC,15.34007501906471,37
-Heart Failure,Agglomerative,n_clusters,37.0,Silhouette,0.14737928038900497,37
-Heart Failure,Agglomerative,n_clusters,37.0,SSE-Elbow,1197.4672893351703,37
-Heart Failure,Agglomerative,n_clusters,37.0,DB,1.3866055765869356,37
-Heart Failure,Agglomerative,n_clusters,37.0,BIC,3928.483334546307,37
-Heart Failure,Agglomerative,n_clusters,42.0,VRC,14.89116767185828,42
-Heart Failure,Agglomerative,n_clusters,42.0,Silhouette,0.15584156988772369,42
-Heart Failure,Agglomerative,n_clusters,42.0,SSE-Elbow,1115.6754365116092,42
-Heart Failure,Agglomerative,n_clusters,42.0,DB,1.3375437734967437,42
-Heart Failure,Agglomerative,n_clusters,42.0,BIC,4214.394312723253,42
-Heart Failure,Agglomerative,n_clusters,47.0,VRC,14.648859799219585,47
-Heart Failure,Agglomerative,n_clusters,47.0,Silhouette,0.1630011863543171,47
-Heart Failure,Agglomerative,n_clusters,47.0,SSE-Elbow,1069.9575777436307,47
-Heart Failure,Agglomerative,n_clusters,47.0,DB,1.3281326388204575,47
-Heart Failure,Agglomerative,n_clusters,47.0,BIC,4533.0387224747,47
-Heart Failure,Agglomerative,n_clusters,52.0,VRC,14.454062148311596,52
-Heart Failure,Agglomerative,n_clusters,52.0,Silhouette,0.1679745981862788,52
-Heart Failure,Agglomerative,n_clusters,52.0,SSE-Elbow,962.7170038795756,52
-Heart Failure,Agglomerative,n_clusters,52.0,DB,1.259793212064459,52
-Heart Failure,Agglomerative,n_clusters,52.0,BIC,4805.023423479714,52
-Heart Failure,Agglomerative,n_clusters,57.0,VRC,14.276021454907792,57
-Heart Failure,Agglomerative,n_clusters,57.0,Silhouette,0.1758408799715789,57
-Heart Failure,Agglomerative,n_clusters,57.0,SSE-Elbow,939.6203122634016,57
-Heart Failure,Agglomerative,n_clusters,57.0,DB,1.2078537159303813,57
-Heart Failure,Agglomerative,n_clusters,57.0,BIC,5146.960955040435,57
-Heart Failure,Agglomerative,n_clusters,62.0,VRC,14.148759317612685,62
-Heart Failure,Agglomerative,n_clusters,62.0,Silhouette,0.1865083947964069,62
-Heart Failure,Agglomerative,n_clusters,62.0,SSE-Elbow,874.7545512285105,62
-Heart Failure,Agglomerative,n_clusters,62.0,DB,1.1671910429024517,62
-Heart Failure,Agglomerative,n_clusters,62.0,BIC,5453.873815882128,62
-Heart Failure,Agglomerative,n_clusters,67.0,VRC,14.037093803997934,67
-Heart Failure,Agglomerative,n_clusters,67.0,Silhouette,0.19255355014896744,67
-Heart Failure,Agglomerative,n_clusters,67.0,SSE-Elbow,828.4087529051384,67
-Heart Failure,Agglomerative,n_clusters,67.0,DB,1.0922949913775026,67
-Heart Failure,Agglomerative,n_clusters,67.0,BIC,5782.26218820355,67
-Heart Failure,Agglomerative,n_clusters,72.0,VRC,13.959335911992994,72
-Heart Failure,Agglomerative,n_clusters,72.0,Silhouette,0.19542733468345505,72
-Heart Failure,Agglomerative,n_clusters,72.0,SSE-Elbow,761.4502666402091,72
-Heart Failure,Agglomerative,n_clusters,72.0,DB,1.0525058388379525,72
-Heart Failure,Agglomerative,n_clusters,72.0,BIC,6086.546747873651,72
-Heart Failure,Agglomerative,n_clusters,77.0,VRC,13.88779418046197,77
-Heart Failure,Agglomerative,n_clusters,77.0,Silhouette,0.2023633061186942,77
-Heart Failure,Agglomerative,n_clusters,77.0,SSE-Elbow,722.928853586381,77
-Heart Failure,Agglomerative,n_clusters,77.0,DB,1.0281175053540643,77
-Heart Failure,Agglomerative,n_clusters,77.0,BIC,6415.249047945404,77
-Heart Failure,Agglomerative,n_clusters,82.0,VRC,13.794407303548326,82
-Heart Failure,Agglomerative,n_clusters,82.0,Silhouette,0.20154057618152824,82
-Heart Failure,Agglomerative,n_clusters,82.0,SSE-Elbow,695.5487855545708,82
-Heart Failure,Agglomerative,n_clusters,82.0,DB,1.002188633282764,82
-Heart Failure,Agglomerative,n_clusters,82.0,BIC,6757.358579838026,82
-Heart Failure,Agglomerative,n_clusters,87.0,VRC,13.7349997712816,87
-Heart Failure,Agglomerative,n_clusters,87.0,Silhouette,0.20566236032427967,87
-Heart Failure,Agglomerative,n_clusters,87.0,SSE-Elbow,675.7803855614352,87
-Heart Failure,Agglomerative,n_clusters,87.0,DB,0.9673853629859578,87
-Heart Failure,Agglomerative,n_clusters,87.0,BIC,7109.616415792542,87
-Heart Failure,Agglomerative,n_clusters,92.0,VRC,13.680105709188748,92
-Heart Failure,Agglomerative,n_clusters,92.0,Silhouette,0.20443981853248333,92
-Heart Failure,Agglomerative,n_clusters,92.0,SSE-Elbow,581.8573355630731,92
-Heart Failure,Agglomerative,n_clusters,92.0,DB,0.9409023212181103,92
-Heart Failure,Agglomerative,n_clusters,92.0,BIC,7384.181689088608,92
-Heart Failure,Agglomerative,n_clusters,97.0,VRC,13.67553491719869,97
-Heart Failure,Agglomerative,n_clusters,97.0,Silhouette,0.2072485901438638,97
-Heart Failure,Agglomerative,n_clusters,97.0,SSE-Elbow,605.7338039779347,97
-Heart Failure,Agglomerative,n_clusters,97.0,DB,0.9339761446738516,97
-Heart Failure,Agglomerative,n_clusters,97.0,BIC,7784.054093752657,97
+Heart Failure,Agglomerative,n_clusters,2.0,VRC,27.270314412721117,2
+Heart Failure,Agglomerative,n_clusters,2.0,Silhouette,0.1457868030191755,2
+Heart Failure,Agglomerative,n_clusters,2.0,SSE-Elbow,2175.813658446423,2
+Heart Failure,Agglomerative,n_clusters,2.0,DB,2.6523514644494894,2
+Heart Failure,Agglomerative,n_clusters,2.0,BIC,2318.324747781192,2
+Heart Failure,Agglomerative,n_clusters,7.0,VRC,27.37456980866235,7
+Heart Failure,Agglomerative,n_clusters,7.0,Silhouette,0.08341695040954167,7
+Heart Failure,Agglomerative,n_clusters,7.0,SSE-Elbow,1477.5137516016366,7
+Heart Failure,Agglomerative,n_clusters,7.0,DB,1.8201011726309209,7
+Heart Failure,Agglomerative,n_clusters,7.0,BIC,1990.5536732067983,7
+Heart Failure,Agglomerative,n_clusters,12.0,VRC,24.688457450729473,12
+Heart Failure,Agglomerative,n_clusters,12.0,Silhouette,0.08891493129128675,12
+Heart Failure,Agglomerative,n_clusters,12.0,SSE-Elbow,1195.343211835795,12
+Heart Failure,Agglomerative,n_clusters,12.0,DB,1.7351298564783917,12
+Heart Failure,Agglomerative,n_clusters,12.0,BIC,2078.911965711352,12
+Heart Failure,Agglomerative,n_clusters,17.0,VRC,21.953876294464074,17
+Heart Failure,Agglomerative,n_clusters,17.0,Silhouette,0.09769540785831854,17
+Heart Failure,Agglomerative,n_clusters,17.0,SSE-Elbow,1081.2334318550538,17
+Heart Failure,Agglomerative,n_clusters,17.0,DB,1.7226925743482908,17
+Heart Failure,Agglomerative,n_clusters,17.0,BIC,2335.3310180010044,17
+Heart Failure,Agglomerative,n_clusters,22.0,VRC,19.892898124759306,22
+Heart Failure,Agglomerative,n_clusters,22.0,Silhouette,0.10136455801461804,22
+Heart Failure,Agglomerative,n_clusters,22.0,SSE-Elbow,998.1669832664954,22
+Heart Failure,Agglomerative,n_clusters,22.0,DB,1.5601909073194442,22
+Heart Failure,Agglomerative,n_clusters,22.0,BIC,2622.7934016828412,22
+Heart Failure,Agglomerative,n_clusters,27.0,VRC,18.287307441473462,27
+Heart Failure,Agglomerative,n_clusters,27.0,Silhouette,0.10033553257686992,27
+Heart Failure,Agglomerative,n_clusters,27.0,SSE-Elbow,906.8237101430476,27
+Heart Failure,Agglomerative,n_clusters,27.0,DB,1.5620560105710315,27
+Heart Failure,Agglomerative,n_clusters,27.0,BIC,2901.978960829788,27
+Heart Failure,Agglomerative,n_clusters,32.0,VRC,17.170170001177347,32
+Heart Failure,Agglomerative,n_clusters,32.0,Silhouette,0.0955253054555131,32
+Heart Failure,Agglomerative,n_clusters,32.0,SSE-Elbow,863.2163049301269,32
+Heart Failure,Agglomerative,n_clusters,32.0,DB,1.5208530202652055,32
+Heart Failure,Agglomerative,n_clusters,32.0,BIC,3228.9003878872622,32
+Heart Failure,Agglomerative,n_clusters,37.0,VRC,16.446875338945244,37
+Heart Failure,Agglomerative,n_clusters,37.0,Silhouette,0.10017107700604534,37
+Heart Failure,Agglomerative,n_clusters,37.0,SSE-Elbow,795.4527871572861,37
+Heart Failure,Agglomerative,n_clusters,37.0,DB,1.4679925305463164,37
+Heart Failure,Agglomerative,n_clusters,37.0,BIC,3531.6657023848156,37
+Heart Failure,Agglomerative,n_clusters,42.0,VRC,15.950247080284168,42
+Heart Failure,Agglomerative,n_clusters,42.0,Silhouette,0.11176597572463658,42
+Heart Failure,Agglomerative,n_clusters,42.0,SSE-Elbow,721.8539614672352,42
+Heart Failure,Agglomerative,n_clusters,42.0,DB,1.379791671715618,42
+Heart Failure,Agglomerative,n_clusters,42.0,BIC,3828.5957089651592,42
+Heart Failure,Agglomerative,n_clusters,47.0,VRC,15.503520655416416,47
+Heart Failure,Agglomerative,n_clusters,47.0,Silhouette,0.1120009846755604,47
+Heart Failure,Agglomerative,n_clusters,47.0,SSE-Elbow,662.4575846868509,47
+Heart Failure,Agglomerative,n_clusters,47.0,DB,1.3676762687720818,47
+Heart Failure,Agglomerative,n_clusters,47.0,BIC,4139.72816445517,47
+Heart Failure,Agglomerative,n_clusters,52.0,VRC,15.041802046218692,52
+Heart Failure,Agglomerative,n_clusters,52.0,Silhouette,0.11914323485014008,52
+Heart Failure,Agglomerative,n_clusters,52.0,SSE-Elbow,627.2098416855522,52
+Heart Failure,Agglomerative,n_clusters,52.0,DB,1.280329443885698,52
+Heart Failure,Agglomerative,n_clusters,52.0,BIC,4475.009253724266,52
+Heart Failure,Agglomerative,n_clusters,57.0,VRC,14.59545347570904,57
+Heart Failure,Agglomerative,n_clusters,57.0,Silhouette,0.12242340068856863,57
+Heart Failure,Agglomerative,n_clusters,57.0,SSE-Elbow,597.3775131597746,57
+Heart Failure,Agglomerative,n_clusters,57.0,DB,1.2741455612573045,57
+Heart Failure,Agglomerative,n_clusters,57.0,BIC,4815.705757468883,57
+Heart Failure,Agglomerative,n_clusters,62.0,VRC,14.188711673674971,62
+Heart Failure,Agglomerative,n_clusters,62.0,Silhouette,0.1208270847178724,62
+Heart Failure,Agglomerative,n_clusters,62.0,SSE-Elbow,560.3655452318885,62
+Heart Failure,Agglomerative,n_clusters,62.0,DB,1.225512450198531,62
+Heart Failure,Agglomerative,n_clusters,62.0,BIC,5149.222621811392,62
+Heart Failure,Agglomerative,n_clusters,67.0,VRC,13.860661828611589,67
+Heart Failure,Agglomerative,n_clusters,67.0,Silhouette,0.12320341825457276,67
+Heart Failure,Agglomerative,n_clusters,67.0,SSE-Elbow,526.4079483771659,67
+Heart Failure,Agglomerative,n_clusters,67.0,DB,1.2141131021743738,67
+Heart Failure,Agglomerative,n_clusters,67.0,BIC,5485.793857227063,67
+Heart Failure,Agglomerative,n_clusters,72.0,VRC,13.502845900958537,72
+Heart Failure,Agglomerative,n_clusters,72.0,Silhouette,0.12201230236039974,72
+Heart Failure,Agglomerative,n_clusters,72.0,SSE-Elbow,505.156524644361,72
+Heart Failure,Agglomerative,n_clusters,72.0,DB,1.20119044833345,72
+Heart Failure,Agglomerative,n_clusters,72.0,BIC,5835.071265764653,72
+Heart Failure,Agglomerative,n_clusters,77.0,VRC,13.198758123360244,77
+Heart Failure,Agglomerative,n_clusters,77.0,Silhouette,0.12410448431885732,77
+Heart Failure,Agglomerative,n_clusters,77.0,SSE-Elbow,484.7582882659036,77
+Heart Failure,Agglomerative,n_clusters,77.0,DB,1.2108749092917497,77
+Heart Failure,Agglomerative,n_clusters,77.0,BIC,6185.20186165659,77
+Heart Failure,Agglomerative,n_clusters,82.0,VRC,12.941584159489237,82
+Heart Failure,Agglomerative,n_clusters,82.0,Silhouette,0.12374390611115192,82
+Heart Failure,Agglomerative,n_clusters,82.0,SSE-Elbow,468.1282136555044,82
+Heart Failure,Agglomerative,n_clusters,82.0,DB,1.1786374393490415,82
+Heart Failure,Agglomerative,n_clusters,82.0,BIC,6539.100619316586,82
+Heart Failure,Agglomerative,n_clusters,87.0,VRC,12.738398599325963,87
+Heart Failure,Agglomerative,n_clusters,87.0,Silhouette,0.12676978727265514,87
+Heart Failure,Agglomerative,n_clusters,87.0,SSE-Elbow,445.5401889342507,87
+Heart Failure,Agglomerative,n_clusters,87.0,DB,1.1236218297289813,87
+Heart Failure,Agglomerative,n_clusters,87.0,BIC,6887.041426865726,87
+Heart Failure,Agglomerative,n_clusters,92.0,VRC,12.548386678934625,92
+Heart Failure,Agglomerative,n_clusters,92.0,Silhouette,0.12825236769102816,92
+Heart Failure,Agglomerative,n_clusters,92.0,SSE-Elbow,419.3560701221478,92
+Heart Failure,Agglomerative,n_clusters,92.0,DB,1.102687308490113,92
+Heart Failure,Agglomerative,n_clusters,92.0,BIC,7231.386140324019,92
+Heart Failure,Agglomerative,n_clusters,97.0,VRC,12.38317671818601,97
+Heart Failure,Agglomerative,n_clusters,97.0,Silhouette,0.12898341736036634,97
+Heart Failure,Agglomerative,n_clusters,97.0,SSE-Elbow,398.72424215293427,97
+Heart Failure,Agglomerative,n_clusters,97.0,DB,1.0751356201897246,97
+Heart Failure,Agglomerative,n_clusters,97.0,BIC,7581.2831446252,97
 Heart Failure,K-Means,n_clusters,1.0,VRC,NaN,1
 Heart Failure,K-Means,n_clusters,1.0,Silhouette,NaN,1
-Heart Failure,K-Means,n_clusters,1.0,SSE-Elbow,3588.000000000001,1
+Heart Failure,K-Means,n_clusters,1.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,K-Means,n_clusters,1.0,DB,NaN,1
-Heart Failure,K-Means,n_clusters,1.0,BIC,3656.405322880688,1
-Heart Failure,K-Means,n_clusters,2.0,VRC,33.92923233326583,2
-Heart Failure,K-Means,n_clusters,2.0,Silhouette,0.1078479259415144,2
-Heart Failure,K-Means,n_clusters,2.0,SSE-Elbow,3220.1325718087055,2
-Heart Failure,K-Means,n_clusters,2.0,DB,2.8294543900533866,2
-Heart Failure,K-Means,n_clusters,2.0,BIC,3362.6436611434733,2
-Heart Failure,K-Means,n_clusters,3.0,VRC,37.06198277572221,3
-Heart Failure,K-Means,n_clusters,3.0,Silhouette,0.1138474479305296,3
-Heart Failure,K-Means,n_clusters,3.0,SSE-Elbow,2869.438617457976,3
-Heart Failure,K-Means,n_clusters,3.0,DB,2.241686450132168,3
-Heart Failure,K-Means,n_clusters,3.0,BIC,3086.0554732468217,3
-Heart Failure,K-Means,n_clusters,4.0,VRC,30.279514652159847,4
-Heart Failure,K-Means,n_clusters,4.0,Silhouette,0.1150093999026835,4
-Heart Failure,K-Means,n_clusters,4.0,SSE-Elbow,2743.271807804117,4
-Heart Failure,K-Means,n_clusters,4.0,DB,2.4678624856471805,4
-Heart Failure,K-Means,n_clusters,4.0,BIC,3033.994430047042,4
-Heart Failure,K-Means,n_clusters,5.0,VRC,27.128360000446666,5
-Heart Failure,K-Means,n_clusters,5.0,Silhouette,0.09838954505833744,5
-Heart Failure,K-Means,n_clusters,5.0,SSE-Elbow,2620.712490979973,5
-Heart Failure,K-Means,n_clusters,5.0,DB,2.55960903491149,5
-Heart Failure,K-Means,n_clusters,5.0,BIC,2985.540879676976,5
-Heart Failure,K-Means,n_clusters,6.0,VRC,24.184899494561943,6
-Heart Failure,K-Means,n_clusters,6.0,Silhouette,0.10038698690595373,6
-Heart Failure,K-Means,n_clusters,6.0,SSE-Elbow,2539.7965242901764,6
-Heart Failure,K-Means,n_clusters,6.0,DB,2.4507249743014854,6
-Heart Failure,K-Means,n_clusters,6.0,BIC,2978.7306794412593,6
-Heart Failure,K-Means,n_clusters,7.0,VRC,25.336346585888545,7
-Heart Failure,K-Means,n_clusters,7.0,Silhouette,0.1096006798009158,7
-Heart Failure,K-Means,n_clusters,7.0,SSE-Elbow,2359.5795944696993,7
-Heart Failure,K-Means,n_clusters,7.0,DB,2.0529099378387214,7
-Heart Failure,K-Means,n_clusters,7.0,BIC,2872.619516074861,7
-Heart Failure,K-Means,n_clusters,8.0,VRC,20.99130503192563,8
-Heart Failure,K-Means,n_clusters,8.0,Silhouette,0.09499087150087072,8
-Heart Failure,K-Means,n_clusters,8.0,SSE-Elbow,2384.139520819928,8
-Heart Failure,K-Means,n_clusters,8.0,DB,2.2581958343044817,8
-Heart Failure,K-Means,n_clusters,8.0,BIC,2971.285208879169,8
-Heart Failure,K-Means,n_clusters,9.0,VRC,24.53179085664971,9
-Heart Failure,K-Means,n_clusters,9.0,Silhouette,0.11745837197270688,9
-Heart Failure,K-Means,n_clusters,9.0,SSE-Elbow,2139.8678480328213,9
-Heart Failure,K-Means,n_clusters,9.0,DB,1.9967097606399236,9
-Heart Failure,K-Means,n_clusters,9.0,BIC,2801.1193025461407,9
-Heart Failure,K-Means,n_clusters,10.0,VRC,23.428634250488585,10
-Heart Failure,K-Means,n_clusters,10.0,Silhouette,0.11312772366151357,10
-Heart Failure,K-Means,n_clusters,10.0,SSE-Elbow,2074.454355462825,10
-Heart Failure,K-Means,n_clusters,10.0,DB,1.820691362039544,10
-Heart Failure,K-Means,n_clusters,10.0,BIC,2809.8115764302224,10
-Heart Failure,K-Means,n_clusters,11.0,VRC,23.67730994632857,11
-Heart Failure,K-Means,n_clusters,11.0,Silhouette,0.12942953975237567,11
-Heart Failure,K-Means,n_clusters,11.0,SSE-Elbow,1969.1253249392128,11
-Heart Failure,K-Means,n_clusters,11.0,DB,1.8736959641085895,11
-Heart Failure,K-Means,n_clusters,11.0,BIC,2778.5883123606905,11
-Heart Failure,K-Means,n_clusters,12.0,VRC,23.10236742617584,12
-Heart Failure,K-Means,n_clusters,12.0,Silhouette,0.122344849181082,12
-Heart Failure,K-Means,n_clusters,12.0,SSE-Elbow,1902.9873276619303,12
-Heart Failure,K-Means,n_clusters,12.0,DB,1.8136762876433068,12
-Heart Failure,K-Means,n_clusters,12.0,BIC,2786.5560815374865,12
-Heart Failure,K-Means,n_clusters,13.0,VRC,21.59747077773345,13
-Heart Failure,K-Means,n_clusters,13.0,Silhouette,0.11437121798400236,13
-Heart Failure,K-Means,n_clusters,13.0,SSE-Elbow,1882.29113864989,13
-Heart Failure,K-Means,n_clusters,13.0,DB,1.8560017445997248,13
-Heart Failure,K-Means,n_clusters,13.0,BIC,2839.9656589795254,13
-Heart Failure,K-Means,n_clusters,14.0,VRC,19.93750905377189,14
-Heart Failure,K-Means,n_clusters,14.0,Silhouette,0.1179482163489752,14
-Heart Failure,K-Means,n_clusters,14.0,SSE-Elbow,1879.09457463169,14
-Heart Failure,K-Means,n_clusters,14.0,DB,1.8574028817764563,14
-Heart Failure,K-Means,n_clusters,14.0,BIC,2910.8748614154047,14
-Heart Failure,K-Means,n_clusters,15.0,VRC,20.08751320953925,15
-Heart Failure,K-Means,n_clusters,15.0,Silhouette,0.11889111729885908,15
-Heart Failure,K-Means,n_clusters,15.0,SSE-Elbow,1802.807141581629,15
-Heart Failure,K-Means,n_clusters,15.0,DB,1.7769779226744409,15
-Heart Failure,K-Means,n_clusters,15.0,BIC,2908.693194819422,15
-Heart Failure,K-Means,n_clusters,16.0,VRC,18.956403090502103,16
-Heart Failure,K-Means,n_clusters,16.0,Silhouette,0.11461754890972972,16
-Heart Failure,K-Means,n_clusters,16.0,SSE-Elbow,1789.7436785169907,16
-Heart Failure,K-Means,n_clusters,16.0,DB,1.8310076974398748,16
-Heart Failure,K-Means,n_clusters,16.0,BIC,2969.7354982088636,16
-Heart Failure,K-Means,n_clusters,17.0,VRC,19.05084816759532,17
-Heart Failure,K-Means,n_clusters,17.0,Silhouette,0.12855549822501294,17
-Heart Failure,K-Means,n_clusters,17.0,SSE-Elbow,1724.2546024027313,17
-Heart Failure,K-Means,n_clusters,17.0,DB,1.7751017648437115,17
-Heart Failure,K-Means,n_clusters,17.0,BIC,2978.352188548682,17
-Heart Failure,K-Means,n_clusters,18.0,VRC,18.623207709452355,18
-Heart Failure,K-Means,n_clusters,18.0,Silhouette,0.11004695556016413,18
-Heart Failure,K-Means,n_clusters,18.0,SSE-Elbow,1687.143953962335,18
-Heart Failure,K-Means,n_clusters,18.0,DB,1.7592161226896244,18
-Heart Failure,K-Means,n_clusters,18.0,BIC,3015.3473065623652,18
-Heart Failure,K-Means,n_clusters,19.0,VRC,18.140432042033204,19
-Heart Failure,K-Means,n_clusters,19.0,Silhouette,0.1183248620714339,19
-Heart Failure,K-Means,n_clusters,19.0,SSE-Elbow,1656.3792104828308,19
-Heart Failure,K-Means,n_clusters,19.0,DB,1.75626838619136,19
-Heart Failure,K-Means,n_clusters,19.0,BIC,3058.68832953694,19
-Heart Failure,K-Means,n_clusters,20.0,VRC,17.597229386683136,20
-Heart Failure,K-Means,n_clusters,20.0,Silhouette,0.11770911372896724,20
-Heart Failure,K-Means,n_clusters,20.0,SSE-Elbow,1632.112678691428,20
-Heart Failure,K-Means,n_clusters,20.0,DB,1.698729714874517,20
-Heart Failure,K-Means,n_clusters,20.0,BIC,3108.527564199616,20
-Heart Failure,K-Means,n_clusters,21.0,VRC,17.323832137537856,21
-Heart Failure,K-Means,n_clusters,21.0,Silhouette,0.11974913207357528,21
-Heart Failure,K-Means,n_clusters,21.0,SSE-Elbow,1597.2799168376753,21
-Heart Failure,K-Means,n_clusters,21.0,DB,1.7588272195082952,21
-Heart Failure,K-Means,n_clusters,21.0,BIC,3147.800568799942,21
-Heart Failure,K-Means,n_clusters,22.0,VRC,17.408520214714404,22
-Heart Failure,K-Means,n_clusters,22.0,Silhouette,0.13009872709332584,22
-Heart Failure,K-Means,n_clusters,22.0,SSE-Elbow,1546.6987199423406,22
-Heart Failure,K-Means,n_clusters,22.0,DB,1.663240865235305,22
-Heart Failure,K-Means,n_clusters,22.0,BIC,3171.3251383586867,22
-Heart Failure,K-Means,n_clusters,23.0,VRC,16.483060930298898,23
-Heart Failure,K-Means,n_clusters,23.0,Silhouette,0.11300837709217436,23
-Heart Failure,K-Means,n_clusters,23.0,SSE-Elbow,1550.6508056427772,23
-Heart Failure,K-Means,n_clusters,23.0,DB,1.7169395623607957,23
-Heart Failure,K-Means,n_clusters,23.0,BIC,3249.382990513202,23
-Heart Failure,K-Means,n_clusters,24.0,VRC,16.158401498337323,24
-Heart Failure,K-Means,n_clusters,24.0,Silhouette,0.1207714223053542,24
-Heart Failure,K-Means,n_clusters,24.0,SSE-Elbow,1525.8800330931972,24
-Heart Failure,K-Means,n_clusters,24.0,DB,1.7334090487454354,24
-Heart Failure,K-Means,n_clusters,24.0,BIC,3298.7179844177012,24
-Heart Failure,K-Means,n_clusters,25.0,VRC,16.883279146317697,25
-Heart Failure,K-Means,n_clusters,25.0,Silhouette,0.1411825301970072,25
-Heart Failure,K-Means,n_clusters,25.0,SSE-Elbow,1447.4586018891127,25
-Heart Failure,K-Means,n_clusters,25.0,DB,1.6026729758635825,25
-Heart Failure,K-Means,n_clusters,25.0,BIC,3294.402319667696,25
-Heart Failure,K-Means,n_clusters,26.0,VRC,16.028679078647496,26
-Heart Failure,K-Means,n_clusters,26.0,Silhouette,0.11770326106682708,26
-Heart Failure,K-Means,n_clusters,26.0,SSE-Elbow,1453.9102226737568,26
-Heart Failure,K-Means,n_clusters,26.0,DB,1.636440901820639,26
-Heart Failure,K-Means,n_clusters,26.0,BIC,3374.959706906419,26
-Heart Failure,K-Means,n_clusters,27.0,VRC,16.387228172508273,27
-Heart Failure,K-Means,n_clusters,27.0,Silhouette,0.13664023942904988,27
-Heart Failure,K-Means,n_clusters,27.0,SSE-Elbow,1398.0530469656985,27
-Heart Failure,K-Means,n_clusters,27.0,DB,1.512615383994306,27
-Heart Failure,K-Means,n_clusters,27.0,BIC,3393.208297652438,27
-Heart Failure,K-Means,n_clusters,28.0,VRC,15.439197032495269,28
-Heart Failure,K-Means,n_clusters,28.0,Silhouette,0.12385929052324676,28
-Heart Failure,K-Means,n_clusters,28.0,SSE-Elbow,1413.5876123056055,28
-Heart Failure,K-Means,n_clusters,28.0,DB,1.6354456541766595,28
-Heart Failure,K-Means,n_clusters,28.0,BIC,3482.8486294464246,28
-Heart Failure,K-Means,n_clusters,29.0,VRC,15.770408094285653,29
-Heart Failure,K-Means,n_clusters,29.0,Silhouette,0.14352249654053975,29
-Heart Failure,K-Means,n_clusters,29.0,SSE-Elbow,1361.4374660523297,29
-Heart Failure,K-Means,n_clusters,29.0,DB,1.5257765034420168,29
-Heart Failure,K-Means,n_clusters,29.0,BIC,3504.804249647227,29
-Heart Failure,K-Means,n_clusters,30.0,VRC,15.192112751892816,30
-Heart Failure,K-Means,n_clusters,30.0,Silhouette,0.12772164634257024,30
-Heart Failure,K-Means,n_clusters,30.0,SSE-Elbow,1360.2185447353154,30
-Heart Failure,K-Means,n_clusters,30.0,DB,1.5898535420650568,30
-Heart Failure,K-Means,n_clusters,30.0,BIC,3577.691094784293,30
-Heart Failure,K-Means,n_clusters,35.0,VRC,14.447260051484893,35
-Heart Failure,K-Means,n_clusters,35.0,Silhouette,0.12532084045037323,35
-Heart Failure,K-Means,n_clusters,35.0,SSE-Elbow,1254.268297946587,35
-Heart Failure,K-Means,n_clusters,35.0,DB,1.5026473857474727,35
-Heart Failure,K-Means,n_clusters,35.0,BIC,3842.2696802659584,35
-Heart Failure,K-Means,n_clusters,40.0,VRC,13.97447179169461,40
-Heart Failure,K-Means,n_clusters,40.0,Silhouette,0.12970399028462568,40
-Heart Failure,K-Means,n_clusters,40.0,SSE-Elbow,1155.8294956386048,40
-Heart Failure,K-Means,n_clusters,40.0,DB,1.406403286964221,40
-Heart Failure,K-Means,n_clusters,40.0,BIC,4114.359710228371,40
-Heart Failure,K-Means,n_clusters,45.0,VRC,13.51908437418985,45
-Heart Failure,K-Means,n_clusters,45.0,Silhouette,0.14059075092567533,45
-Heart Failure,K-Means,n_clusters,45.0,SSE-Elbow,1073.6443955410157,45
-Heart Failure,K-Means,n_clusters,45.0,DB,1.3526195456386685,45
-Heart Failure,K-Means,n_clusters,45.0,BIC,4402.703442401177,45
-Heart Failure,K-Means,n_clusters,50.0,VRC,13.58268438093628,50
-Heart Failure,K-Means,n_clusters,50.0,Silhouette,0.15259042090233904,50
-Heart Failure,K-Means,n_clusters,50.0,SSE-Elbow,976.8853543353345,50
-Heart Failure,K-Means,n_clusters,50.0,DB,1.3512241475038378,50
-Heart Failure,K-Means,n_clusters,50.0,BIC,4676.47323346589,50
-Heart Failure,K-Means,n_clusters,55.0,VRC,13.147020158876291,55
-Heart Failure,K-Means,n_clusters,55.0,Silhouette,0.15175562046522215,55
-Heart Failure,K-Means,n_clusters,55.0,SSE-Elbow,917.744131130868,55
-Heart Failure,K-Means,n_clusters,55.0,DB,1.2477989821211632,55
-Heart Failure,K-Means,n_clusters,55.0,BIC,4987.860842531818,55
-Heart Failure,K-Means,n_clusters,60.0,VRC,12.930204181812917,60
-Heart Failure,K-Means,n_clusters,60.0,Silhouette,0.150369978463642,60
-Heart Failure,K-Means,n_clusters,60.0,SSE-Elbow,855.9211164642206,60
-Heart Failure,K-Means,n_clusters,60.0,DB,1.2094547509662483,60
-Heart Failure,K-Means,n_clusters,60.0,BIC,5296.566660135566,60
-Heart Failure,K-Means,n_clusters,65.0,VRC,12.977763295897258,65
-Heart Failure,K-Means,n_clusters,65.0,Silhouette,0.16266086975534194,65
-Heart Failure,K-Means,n_clusters,65.0,SSE-Elbow,788.6626496346299,65
-Heart Failure,K-Means,n_clusters,65.0,DB,1.168506167548054,65
-Heart Failure,K-Means,n_clusters,65.0,BIC,5599.83702557637,65
-Heart Failure,K-Means,n_clusters,70.0,VRC,12.237448334367016,70
-Heart Failure,K-Means,n_clusters,70.0,Silhouette,0.14559725693431724,70
-Heart Failure,K-Means,n_clusters,70.0,SSE-Elbow,765.4781976454702,70
-Heart Failure,K-Means,n_clusters,70.0,DB,1.1317140295922257,70
-Heart Failure,K-Means,n_clusters,70.0,BIC,5947.181405857604,70
-Heart Failure,K-Means,n_clusters,75.0,VRC,12.02274502542688,75
-Heart Failure,K-Means,n_clusters,75.0,Silhouette,0.13880477808017647,75
-Heart Failure,K-Means,n_clusters,75.0,SSE-Elbow,721.670264181979,75
-Heart Failure,K-Means,n_clusters,75.0,DB,1.08792245148525,75
-Heart Failure,K-Means,n_clusters,75.0,BIC,6273.902304664508,75
-Heart Failure,K-Means,n_clusters,80.0,VRC,12.2666300109357,80
-Heart Failure,K-Means,n_clusters,80.0,Silhouette,0.15462595048684813,80
-Heart Failure,K-Means,n_clusters,80.0,SSE-Elbow,661.3887396201067,80
-Heart Failure,K-Means,n_clusters,80.0,DB,1.065498773289695,80
-Heart Failure,K-Means,n_clusters,80.0,BIC,6584.14961237303,80
-Heart Failure,K-Means,n_clusters,85.0,VRC,12.430918298049336,85
-Heart Failure,K-Means,n_clusters,85.0,Silhouette,0.16668982256964754,85
-Heart Failure,K-Means,n_clusters,85.0,SSE-Elbow,610.2636680677352,85
-Heart Failure,K-Means,n_clusters,85.0,DB,1.051234825140315,85
-Heart Failure,K-Means,n_clusters,85.0,BIC,6903.553373091054,85
-Heart Failure,K-Means,n_clusters,90.0,VRC,12.514786167849756,90
-Heart Failure,K-Means,n_clusters,90.0,Silhouette,0.1744906497264234,90
-Heart Failure,K-Means,n_clusters,90.0,SSE-Elbow,566.8906466268936,90
-Heart Failure,K-Means,n_clusters,90.0,DB,0.9847015458564828,90
-Heart Failure,K-Means,n_clusters,90.0,BIC,7230.709183920607,90
-Heart Failure,K-Means,n_clusters,95.0,VRC,11.62925806559256,95
-Heart Failure,K-Means,n_clusters,95.0,Silhouette,0.14783351241290696,95
-Heart Failure,K-Means,n_clusters,95.0,SSE-Elbow,564.2769566534666,95
-Heart Failure,K-Means,n_clusters,95.0,DB,0.9620725163504278,95
-Heart Failure,K-Means,n_clusters,95.0,BIC,7598.624326217574,95
-Heart Failure,K-Means,n_clusters,100.0,VRC,11.87424266374046,100
-Heart Failure,K-Means,n_clusters,100.0,Silhouette,0.16323164765291495,100
-Heart Failure,K-Means,n_clusters,100.0,SSE-Elbow,519.4514478801409,100
-Heart Failure,K-Means,n_clusters,100.0,DB,0.9201490986124914,100
-Heart Failure,K-Means,n_clusters,100.0,BIC,7924.3276497146435,100
-Heart Failure,K-Means,n_clusters,125.0,VRC,11.918173882774347,125
-Heart Failure,K-Means,n_clusters,125.0,Silhouette,0.15618040801753597,125
-Heart Failure,K-Means,n_clusters,125.0,SSE-Elbow,377.9463352954115,125
-Heart Failure,K-Means,n_clusters,125.0,DB,0.8109981277144709,125
-Heart Failure,K-Means,n_clusters,125.0,BIC,9635.466698481889,125
-Heart Failure,K-Means,n_clusters,150.0,VRC,12.977726793975952,150
-Heart Failure,K-Means,n_clusters,150.0,Silhouette,0.1691407743934267,150
-Heart Failure,K-Means,n_clusters,150.0,SSE-Elbow,256.6941000410979,150
-Heart Failure,K-Means,n_clusters,150.0,DB,0.6888405459793865,150
-Heart Failure,K-Means,n_clusters,150.0,BIC,11366.858624579543,150
-Heart Failure,K-Means,n_clusters,175.0,VRC,13.085465225563848,175
-Heart Failure,K-Means,n_clusters,175.0,Silhouette,0.15195100160449684,175
-Heart Failure,K-Means,n_clusters,175.0,SSE-Elbow,185.3127508329154,175
-Heart Failure,K-Means,n_clusters,175.0,DB,0.5831312329464273,175
-Heart Failure,K-Means,n_clusters,175.0,BIC,13148.12143672334,175
-Heart Failure,K-Means,n_clusters,200.0,VRC,15.220512095182873,200
-Heart Failure,K-Means,n_clusters,200.0,Silhouette,0.143675251332098,200
-Heart Failure,K-Means,n_clusters,200.0,SSE-Elbow,113.56311093833624,200
-Heart Failure,K-Means,n_clusters,200.0,DB,0.47925046969120255,200
-Heart Failure,K-Means,n_clusters,200.0,BIC,14929.015958180731,200
-Heart Failure,K-Means,n_clusters,225.0,VRC,18.571162099315817,225
-Heart Failure,K-Means,n_clusters,225.0,Silhouette,0.12623364392307002,225
-Heart Failure,K-Means,n_clusters,225.0,SSE-Elbow,62.71037864124417,225
-Heart Failure,K-Means,n_clusters,225.0,DB,0.3860397247226373,225
-Heart Failure,K-Means,n_clusters,225.0,BIC,16730.807387235614,225
-Heart Failure,K-Means,n_clusters,250.0,VRC,21.94001221697701,250
-Heart Failure,K-Means,n_clusters,250.0,Silhouette,0.08905417182883608,250
-Heart Failure,K-Means,n_clusters,250.0,SSE-Elbow,31.895861614699207,250
-Heart Failure,K-Means,n_clusters,250.0,DB,0.3184622646763294,250
-Heart Failure,K-Means,n_clusters,250.0,BIC,18552.63703156104,250
-Heart Failure,K-Means,n_clusters,275.0,VRC,31.141759917144466,275
-Heart Failure,K-Means,n_clusters,275.0,Silhouette,0.05518233523550741,275
-Heart Failure,K-Means,n_clusters,275.0,SSE-Elbow,10.06352551714993,275
-Heart Failure,K-Means,n_clusters,275.0,DB,0.21440694242857403,275
-Heart Failure,K-Means,n_clusters,275.0,BIC,20383.448856815467,275
+Heart Failure,K-Means,n_clusters,1.0,BIC,2508.9237175295175,1
+Heart Failure,K-Means,n_clusters,2.0,VRC,36.1323711462721,2
+Heart Failure,K-Means,n_clusters,2.0,Silhouette,0.12167673753522495,2
+Heart Failure,K-Means,n_clusters,2.0,SSE-Elbow,2175.813658446423,2
+Heart Failure,K-Means,n_clusters,2.0,DB,2.634243731889665,2
+Heart Failure,K-Means,n_clusters,2.0,BIC,2318.324747781192,2
+Heart Failure,K-Means,n_clusters,3.0,VRC,33.41864671241814,3
+Heart Failure,K-Means,n_clusters,3.0,Silhouette,0.11451759565594918,3
+Heart Failure,K-Means,n_clusters,3.0,SSE-Elbow,1990.9569879031776,3
+Heart Failure,K-Means,n_clusters,3.0,DB,2.242228346012214,3
+Heart Failure,K-Means,n_clusters,3.0,BIC,2207.5738436920237,3
+Heart Failure,K-Means,n_clusters,4.0,VRC,32.85445740708916,4
+Heart Failure,K-Means,n_clusters,4.0,Silhouette,0.11683122063701394,4
+Heart Failure,K-Means,n_clusters,4.0,SSE-Elbow,1829.3189286340296,4
+Heart Failure,K-Means,n_clusters,4.0,DB,2.0646035409735304,4
+Heart Failure,K-Means,n_clusters,4.0,BIC,2120.041550876954,4
+Heart Failure,K-Means,n_clusters,5.0,VRC,29.944615295813875,5
+Heart Failure,K-Means,n_clusters,5.0,Silhouette,0.1021285829884002,5
+Heart Failure,K-Means,n_clusters,5.0,SSE-Elbow,1734.0496795674958,5
+Heart Failure,K-Means,n_clusters,5.0,DB,2.044589867908832,5
+Heart Failure,K-Means,n_clusters,5.0,BIC,2098.8780682645,5
+Heart Failure,K-Means,n_clusters,6.0,VRC,32.12930045643806,6
+Heart Failure,K-Means,n_clusters,6.0,Silhouette,0.10593495336401992,6
+Heart Failure,K-Means,n_clusters,6.0,SSE-Elbow,1576.2755494305502,6
+Heart Failure,K-Means,n_clusters,6.0,DB,1.841013799879697,6
+Heart Failure,K-Means,n_clusters,6.0,BIC,2015.209704581633,6
+Heart Failure,K-Means,n_clusters,7.0,VRC,31.719654663671783,7
+Heart Failure,K-Means,n_clusters,7.0,Silhouette,0.11206845523386633,7
+Heart Failure,K-Means,n_clusters,7.0,SSE-Elbow,1477.5137516016366,7
+Heart Failure,K-Means,n_clusters,7.0,DB,1.809748247912568,7
+Heart Failure,K-Means,n_clusters,7.0,BIC,1990.5536732067983,7
+Heart Failure,K-Means,n_clusters,8.0,VRC,30.465317628359923,8
+Heart Failure,K-Means,n_clusters,8.0,Silhouette,0.106731093163823,8
+Heart Failure,K-Means,n_clusters,8.0,SSE-Elbow,1408.3900435899927,8
+Heart Failure,K-Means,n_clusters,8.0,DB,1.7154496576421585,8
+Heart Failure,K-Means,n_clusters,8.0,BIC,1995.5357316492332,8
+Heart Failure,K-Means,n_clusters,9.0,VRC,31.180340364260285,9
+Heart Failure,K-Means,n_clusters,9.0,Silhouette,0.11472397013317703,9
+Heart Failure,K-Means,n_clusters,9.0,SSE-Elbow,1312.0027472516017,9
+Heart Failure,K-Means,n_clusters,9.0,DB,1.6659509143078783,9
+Heart Failure,K-Means,n_clusters,9.0,BIC,1973.2542017649212,9
+Heart Failure,K-Means,n_clusters,10.0,VRC,30.323319288816545,10
+Heart Failure,K-Means,n_clusters,10.0,Silhouette,0.10745285195319848,10
+Heart Failure,K-Means,n_clusters,10.0,SSE-Elbow,1255.2009658339075,10
+Heart Failure,K-Means,n_clusters,10.0,DB,1.7227360564501577,10
+Heart Failure,K-Means,n_clusters,10.0,BIC,1990.558186801306,10
+Heart Failure,K-Means,n_clusters,11.0,VRC,27.898089847138436,11
+Heart Failure,K-Means,n_clusters,11.0,Silhouette,0.09976725375851234,11
+Heart Failure,K-Means,n_clusters,11.0,SSE-Elbow,1239.670153886739,11
+Heart Failure,K-Means,n_clusters,11.0,DB,1.7665581809104287,11
+Heart Failure,K-Means,n_clusters,11.0,BIC,2049.133141308217,11
+Heart Failure,K-Means,n_clusters,12.0,VRC,27.178597891677175,12
+Heart Failure,K-Means,n_clusters,12.0,Silhouette,0.0987830298422296,12
+Heart Failure,K-Means,n_clusters,12.0,SSE-Elbow,1195.343211835795,12
+Heart Failure,K-Means,n_clusters,12.0,DB,1.7543041345210062,12
+Heart Failure,K-Means,n_clusters,12.0,BIC,2078.911965711352,12
+Heart Failure,K-Means,n_clusters,13.0,VRC,26.51749581464157,13
+Heart Failure,K-Means,n_clusters,13.0,Silhouette,0.10505036803287784,13
+Heart Failure,K-Means,n_clusters,13.0,SSE-Elbow,1155.2081542660453,13
+Heart Failure,K-Means,n_clusters,13.0,DB,1.751418933248901,13
+Heart Failure,K-Means,n_clusters,13.0,BIC,2112.882674595681,13
+Heart Failure,K-Means,n_clusters,14.0,VRC,24.466798982212424,14
+Heart Failure,K-Means,n_clusters,14.0,Silhouette,0.09475982250615918,14
+Heart Failure,K-Means,n_clusters,14.0,SSE-Elbow,1153.348041010173,14
+Heart Failure,K-Means,n_clusters,14.0,DB,1.742357258714053,14
+Heart Failure,K-Means,n_clusters,14.0,BIC,2185.1283277938874,14
+Heart Failure,K-Means,n_clusters,15.0,VRC,23.725245826687004,15
+Heart Failure,K-Means,n_clusters,15.0,Silhouette,0.09597937893136954,15
+Heart Failure,K-Means,n_clusters,15.0,SSE-Elbow,1124.893861357188,15
+Heart Failure,K-Means,n_clusters,15.0,DB,1.749227630208955,15
+Heart Failure,K-Means,n_clusters,15.0,BIC,2230.779914594981,15
+Heart Failure,K-Means,n_clusters,16.0,VRC,22.596782676437897,16
+Heart Failure,K-Means,n_clusters,16.0,Silhouette,0.09066228181637603,16
+Heart Failure,K-Means,n_clusters,16.0,SSE-Elbow,1110.4827932836993,16
+Heart Failure,K-Means,n_clusters,16.0,DB,1.7307084651564917,16
+Heart Failure,K-Means,n_clusters,16.0,BIC,2290.4746129755713,16
+Heart Failure,K-Means,n_clusters,17.0,VRC,22.157470129403062,17
+Heart Failure,K-Means,n_clusters,17.0,Silhouette,0.09227080238175817,17
+Heart Failure,K-Means,n_clusters,17.0,SSE-Elbow,1081.2334318550538,17
+Heart Failure,K-Means,n_clusters,17.0,DB,1.7255027818708526,17
+Heart Failure,K-Means,n_clusters,17.0,BIC,2335.3310180010044,17
+Heart Failure,K-Means,n_clusters,18.0,VRC,21.38042039579293,18
+Heart Failure,K-Means,n_clusters,18.0,Silhouette,0.09374725390967176,18
+Heart Failure,K-Means,n_clusters,18.0,SSE-Elbow,1064.1126896500273,18
+Heart Failure,K-Means,n_clusters,18.0,DB,1.6578196363737177,18
+Heart Failure,K-Means,n_clusters,18.0,BIC,2392.316042250057,18
+Heart Failure,K-Means,n_clusters,19.0,VRC,20.905498416372957,19
+Heart Failure,K-Means,n_clusters,19.0,Silhouette,0.09612432683436362,19
+Heart Failure,K-Means,n_clusters,19.0,SSE-Elbow,1041.210149918964,19
+Heart Failure,K-Means,n_clusters,19.0,DB,1.6496086865519106,19
+Heart Failure,K-Means,n_clusters,19.0,BIC,2443.519268973073,19
+Heart Failure,K-Means,n_clusters,20.0,VRC,20.9404203025162,20
+Heart Failure,K-Means,n_clusters,20.0,Silhouette,0.09761918393537328,20
+Heart Failure,K-Means,n_clusters,20.0,SSE-Elbow,1005.9637129310464,20
+Heart Failure,K-Means,n_clusters,20.0,DB,1.6068656382023672,20
+Heart Failure,K-Means,n_clusters,20.0,BIC,2482.3785984392343,20
+Heart Failure,K-Means,n_clusters,21.0,VRC,19.33705325087558,21
+Heart Failure,K-Means,n_clusters,21.0,Silhouette,0.08785772619576245,21
+Heart Failure,K-Means,n_clusters,21.0,SSE-Elbow,1020.6442018058584,21
+Heart Failure,K-Means,n_clusters,21.0,DB,1.6351218658548934,21
+Heart Failure,K-Means,n_clusters,21.0,BIC,2571.164853768126,21
+Heart Failure,K-Means,n_clusters,22.0,VRC,19.060239688431896,22
+Heart Failure,K-Means,n_clusters,22.0,Silhouette,0.0879936351644709,22
+Heart Failure,K-Means,n_clusters,22.0,SSE-Elbow,998.1669832664954,22
+Heart Failure,K-Means,n_clusters,22.0,DB,1.6346853867860602,22
+Heart Failure,K-Means,n_clusters,22.0,BIC,2622.7934016828412,22
+Heart Failure,K-Means,n_clusters,23.0,VRC,18.75049613568924,23
+Heart Failure,K-Means,n_clusters,23.0,Silhouette,0.0845529186894419,23
+Heart Failure,K-Means,n_clusters,23.0,SSE-Elbow,978.3186617129982,23
+Heart Failure,K-Means,n_clusters,23.0,DB,1.65874508163801,23
+Heart Failure,K-Means,n_clusters,23.0,BIC,2677.0508465834228,23
+Heart Failure,K-Means,n_clusters,24.0,VRC,19.000185559217456,24
+Heart Failure,K-Means,n_clusters,24.0,Silhouette,0.08917527824773565,24
+Heart Failure,K-Means,n_clusters,24.0,SSE-Elbow,942.6103028058064,24
+Heart Failure,K-Means,n_clusters,24.0,DB,1.5986121066811936,24
+Heart Failure,K-Means,n_clusters,24.0,BIC,2715.4482541303105,24
+Heart Failure,K-Means,n_clusters,25.0,VRC,18.117469971197288,25
+Heart Failure,K-Means,n_clusters,25.0,Silhouette,0.08309374580333471,25
+Heart Failure,K-Means,n_clusters,25.0,SSE-Elbow,943.4027257073492,25
+Heart Failure,K-Means,n_clusters,25.0,DB,1.6118362639888508,25
+Heart Failure,K-Means,n_clusters,25.0,BIC,2790.3464434859316,25
+Heart Failure,K-Means,n_clusters,26.0,VRC,18.07518482165838,26
+Heart Failure,K-Means,n_clusters,26.0,Silhouette,0.08679791686018093,26
+Heart Failure,K-Means,n_clusters,26.0,SSE-Elbow,919.1340228898372,26
+Heart Failure,K-Means,n_clusters,26.0,DB,1.601296117797324,26
+Heart Failure,K-Means,n_clusters,26.0,BIC,2840.1835071224987,26
+Heart Failure,K-Means,n_clusters,27.0,VRC,17.693412457955393,27
+Heart Failure,K-Means,n_clusters,27.0,Silhouette,0.08183857999980731,27
+Heart Failure,K-Means,n_clusters,27.0,SSE-Elbow,906.8237101430476,27
+Heart Failure,K-Means,n_clusters,27.0,DB,1.6453938955417216,27
+Heart Failure,K-Means,n_clusters,27.0,BIC,2901.978960829788,27
+Heart Failure,K-Means,n_clusters,28.0,VRC,17.385962940127047,28
+Heart Failure,K-Means,n_clusters,28.0,Silhouette,0.08405592227899819,28
+Heart Failure,K-Means,n_clusters,28.0,SSE-Elbow,893.2492264543861,28
+Heart Failure,K-Means,n_clusters,28.0,DB,1.639242260802091,28
+Heart Failure,K-Means,n_clusters,28.0,BIC,2962.510243595206,28
+Heart Failure,K-Means,n_clusters,29.0,VRC,17.022134400120844,29
+Heart Failure,K-Means,n_clusters,29.0,Silhouette,0.08379872310607983,29
+Heart Failure,K-Means,n_clusters,29.0,SSE-Elbow,882.5643239444823,29
+Heart Failure,K-Means,n_clusters,29.0,DB,1.5967333292036714,29
+Heart Failure,K-Means,n_clusters,29.0,BIC,3025.9311075393807,29
+Heart Failure,K-Means,n_clusters,30.0,VRC,16.445549502728326,30
+Heart Failure,K-Means,n_clusters,30.0,Silhouette,0.08185033290723176,30
+Heart Failure,K-Means,n_clusters,30.0,SSE-Elbow,880.1193489104029,30
+Heart Failure,K-Means,n_clusters,30.0,DB,1.576949023162161,30
+Heart Failure,K-Means,n_clusters,30.0,BIC,3097.59189895938,30
+Heart Failure,K-Means,n_clusters,35.0,VRC,15.597676227205731,35
+Heart Failure,K-Means,n_clusters,35.0,Silhouette,0.08098661171672711,35
+Heart Failure,K-Means,n_clusters,35.0,SSE-Elbow,811.1290811893282,35
+Heart Failure,K-Means,n_clusters,35.0,DB,1.5651996037161355,35
+Heart Failure,K-Means,n_clusters,35.0,BIC,3399.1304635087,35
+Heart Failure,K-Means,n_clusters,40.0,VRC,15.166664546320613,40
+Heart Failure,K-Means,n_clusters,40.0,Silhouette,0.0852702228997932,40
+Heart Failure,K-Means,n_clusters,40.0,SSE-Elbow,743.2032047879106,40
+Heart Failure,K-Means,n_clusters,40.0,DB,1.529775806089179,40
+Heart Failure,K-Means,n_clusters,40.0,BIC,3701.733419377677,40
+Heart Failure,K-Means,n_clusters,45.0,VRC,14.829489665600338,45
+Heart Failure,K-Means,n_clusters,45.0,Silhouette,0.09953804486152153,45
+Heart Failure,K-Means,n_clusters,45.0,SSE-Elbow,683.8316060138291,45
+Heart Failure,K-Means,n_clusters,45.0,DB,1.455449393289573,45
+Heart Failure,K-Means,n_clusters,45.0,BIC,4012.8906528739903,45
+Heart Failure,K-Means,n_clusters,50.0,VRC,14.331178552002005,50
+Heart Failure,K-Means,n_clusters,50.0,Silhouette,0.09882625054708293,50
+Heart Failure,K-Means,n_clusters,50.0,SSE-Elbow,638.847090905073,50
+Heart Failure,K-Means,n_clusters,50.0,DB,1.3937338281276146,50
+Heart Failure,K-Means,n_clusters,50.0,BIC,4338.434970035629,50
+Heart Failure,K-Means,n_clusters,55.0,VRC,13.584021313023468,55
+Heart Failure,K-Means,n_clusters,55.0,Silhouette,0.09922637148284227,55
+Heart Failure,K-Means,n_clusters,55.0,SSE-Elbow,609.1701862625587,55
+Heart Failure,K-Means,n_clusters,55.0,DB,1.3542083136100187,55
+Heart Failure,K-Means,n_clusters,55.0,BIC,4679.286897663509,55
+Heart Failure,K-Means,n_clusters,60.0,VRC,13.108813759860428,60
+Heart Failure,K-Means,n_clusters,60.0,Silhouette,0.09785483158948602,60
+Heart Failure,K-Means,n_clusters,60.0,SSE-Elbow,576.1283750858877,60
+Heart Failure,K-Means,n_clusters,60.0,DB,1.2902953167333704,60
+Heart Failure,K-Means,n_clusters,60.0,BIC,5016.773918757233,60
+Heart Failure,K-Means,n_clusters,65.0,VRC,12.873996375499503,65
+Heart Failure,K-Means,n_clusters,65.0,Silhouette,0.08784394042876795,65
+Heart Failure,K-Means,n_clusters,65.0,SSE-Elbow,539.8071618376073,65
+Heart Failure,K-Means,n_clusters,65.0,DB,1.2635627370980007,65
+Heart Failure,K-Means,n_clusters,65.0,BIC,5350.981537779347,65
+Heart Failure,K-Means,n_clusters,70.0,VRC,12.363033716151149,70
+Heart Failure,K-Means,n_clusters,70.0,Silhouette,0.08724005961183481,70
+Heart Failure,K-Means,n_clusters,70.0,SSE-Elbow,516.5002174406688,70
+Heart Failure,K-Means,n_clusters,70.0,DB,1.2116112332219773,70
+Heart Failure,K-Means,n_clusters,70.0,BIC,5698.203425652803,70
+Heart Failure,K-Means,n_clusters,75.0,VRC,11.959951688588538,75
+Heart Failure,K-Means,n_clusters,75.0,Silhouette,0.09006904815362404,75
+Heart Failure,K-Means,n_clusters,75.0,SSE-Elbow,492.9289138751666,75
+Heart Failure,K-Means,n_clusters,75.0,DB,1.185814217073749,75
+Heart Failure,K-Means,n_clusters,75.0,BIC,6045.160954357695,75
+Heart Failure,K-Means,n_clusters,80.0,VRC,11.545119032886332,80
+Heart Failure,K-Means,n_clusters,80.0,Silhouette,0.08516056753049984,80
+Heart Failure,K-Means,n_clusters,80.0,SSE-Elbow,472.54031399793337,80
+Heart Failure,K-Means,n_clusters,80.0,DB,1.1700242343771907,80
+Heart Failure,K-Means,n_clusters,80.0,BIC,6395.301186750857,80
+Heart Failure,K-Means,n_clusters,85.0,VRC,11.156710448532962,85
+Heart Failure,K-Means,n_clusters,85.0,Silhouette,0.08263400944683463,85
+Heart Failure,K-Means,n_clusters,85.0,SSE-Elbow,453.6895548241023,85
+Heart Failure,K-Means,n_clusters,85.0,DB,1.1547403444063602,85
+Heart Failure,K-Means,n_clusters,85.0,BIC,6746.9792598474205,85
+Heart Failure,K-Means,n_clusters,90.0,VRC,11.015571350104237,90
+Heart Failure,K-Means,n_clusters,90.0,Silhouette,0.08771890762844284,90
+Heart Failure,K-Means,n_clusters,90.0,SSE-Elbow,428.85018718971594,90
+Heart Failure,K-Means,n_clusters,90.0,DB,1.1410074106354782,90
+Heart Failure,K-Means,n_clusters,90.0,BIC,7092.668724483429,90
+Heart Failure,K-Means,n_clusters,95.0,VRC,10.686404311883356,95
+Heart Failure,K-Means,n_clusters,95.0,Silhouette,0.08362553486408197,95
+Heart Failure,K-Means,n_clusters,95.0,SSE-Elbow,411.9625048761559,95
+Heart Failure,K-Means,n_clusters,95.0,DB,1.098516200293933,95
+Heart Failure,K-Means,n_clusters,95.0,BIC,7446.309874440263,95
+Heart Failure,K-Means,n_clusters,100.0,VRC,10.855709989172926,100
+Heart Failure,K-Means,n_clusters,100.0,Silhouette,0.0937828471290541,100
+Heart Failure,K-Means,n_clusters,100.0,SSE-Elbow,381.29648341099914,100
+Heart Failure,K-Means,n_clusters,100.0,DB,1.0544075208794337,100
+Heart Failure,K-Means,n_clusters,100.0,BIC,7786.172685245501,100
+Heart Failure,K-Means,n_clusters,125.0,VRC,9.976498818177436,125
+Heart Failure,K-Means,n_clusters,125.0,Silhouette,0.07259589841784495,125
+Heart Failure,K-Means,n_clusters,125.0,SSE-Elbow,300.93859961068523,125
+Heart Failure,K-Means,n_clusters,125.0,DB,0.91218558875837,125
+Heart Failure,K-Means,n_clusters,125.0,BIC,9558.45896279716,125
+Heart Failure,K-Means,n_clusters,150.0,VRC,10.15323962132714,150
+Heart Failure,K-Means,n_clusters,150.0,Silhouette,0.08906674491837369,150
+Heart Failure,K-Means,n_clusters,150.0,SSE-Elbow,218.81699645205236,150
+Heart Failure,K-Means,n_clusters,150.0,DB,0.7979318828488672,150
+Heart Failure,K-Means,n_clusters,150.0,BIC,11328.9815209905,150
+Heart Failure,K-Means,n_clusters,175.0,VRC,10.498565984075308,175
+Heart Failure,K-Means,n_clusters,175.0,Silhouette,0.08606697865843646,175
+Heart Failure,K-Means,n_clusters,175.0,SSE-Elbow,155.13223441358906,175
+Heart Failure,K-Means,n_clusters,175.0,DB,0.6872165957977974,175
+Heart Failure,K-Means,n_clusters,175.0,BIC,13117.940920304012,175
+Heart Failure,K-Means,n_clusters,200.0,VRC,10.645993899194687,200
+Heart Failure,K-Means,n_clusters,200.0,Silhouette,0.07570210891743542,200
+Heart Failure,K-Means,n_clusters,200.0,SSE-Elbow,108.9540337448361,200
+Heart Failure,K-Means,n_clusters,200.0,DB,0.5952225664726732,200
+Heart Failure,K-Means,n_clusters,200.0,BIC,14924.406880987231,200
+Heart Failure,K-Means,n_clusters,225.0,VRC,11.075936730030715,225
+Heart Failure,K-Means,n_clusters,225.0,Silhouette,0.0666125315396387,225
+Heart Failure,K-Means,n_clusters,225.0,SSE-Elbow,70.68401822110545,225
+Heart Failure,K-Means,n_clusters,225.0,DB,0.49749900584187695,225
+Heart Failure,K-Means,n_clusters,225.0,BIC,16738.781026815475,225
+Heart Failure,K-Means,n_clusters,250.0,VRC,13.02458105335468,250
+Heart Failure,K-Means,n_clusters,250.0,Silhouette,0.06039099215402819,250
+Heart Failure,K-Means,n_clusters,250.0,SSE-Elbow,36.32473195204351,250
+Heart Failure,K-Means,n_clusters,250.0,DB,0.4075593406764721,250
+Heart Failure,K-Means,n_clusters,250.0,BIC,18557.065901898382,250
+Heart Failure,K-Means,n_clusters,275.0,VRC,16.456147421560313,275
+Heart Failure,K-Means,n_clusters,275.0,Silhouette,0.03659502958324782,275
+Heart Failure,K-Means,n_clusters,275.0,SSE-Elbow,12.921386086275447,275
+Heart Failure,K-Means,n_clusters,275.0,DB,0.3035507597581511,275
+Heart Failure,K-Means,n_clusters,275.0,BIC,20386.306717384592,275
 Heart Failure,K-Means,n_clusters,300.0,VRC,NaN,300
 Heart Failure,K-Means,n_clusters,300.0,Silhouette,NaN,300
 Heart Failure,K-Means,n_clusters,300.0,SSE-Elbow,NaN,300
@@ -1199,903 +1199,903 @@ Heart Failure,K-Means,n_clusters,1000.0,Silhouette,NaN,1000
 Heart Failure,K-Means,n_clusters,1000.0,SSE-Elbow,NaN,1000
 Heart Failure,K-Means,n_clusters,1000.0,DB,NaN,1000
 Heart Failure,K-Means,n_clusters,1000.0,BIC,NaN,1000
-Heart Failure,OPTICS,min_samples,2.0,VRC,2.6989537265270096,63
-Heart Failure,OPTICS,min_samples,2.0,Silhouette,-0.00898116522310625,63
-Heart Failure,OPTICS,min_samples,2.0,SSE-Elbow,844.5039743785755,63
-Heart Failure,OPTICS,min_samples,2.0,DB,1.5528590417005967,63
-Heart Failure,OPTICS,min_samples,2.0,BIC,5494.436522466724,63
-Heart Failure,OPTICS,min_samples,7.0,VRC,5.649451407288811,8
-Heart Failure,OPTICS,min_samples,7.0,Silhouette,-0.1174467253189016,8
-Heart Failure,OPTICS,min_samples,7.0,SSE-Elbow,2250.3455231678136,8
-Heart Failure,OPTICS,min_samples,7.0,DB,1.8678013666688087,8
-Heart Failure,OPTICS,min_samples,7.0,BIC,2824.9044107934637,8
-Heart Failure,OPTICS,min_samples,12.0,VRC,8.349439174240024,2
-Heart Failure,OPTICS,min_samples,12.0,Silhouette,-0.04775542683914659,2
-Heart Failure,OPTICS,min_samples,12.0,SSE-Elbow,3225.749507154522,2
-Heart Failure,OPTICS,min_samples,12.0,DB,1.9658082399243733,2
-Heart Failure,OPTICS,min_samples,12.0,BIC,3362.5304312756743,2
+Heart Failure,OPTICS,min_samples,2.0,VRC,2.504751037533236,45
+Heart Failure,OPTICS,min_samples,2.0,Silhouette,-0.1599335536425323,45
+Heart Failure,OPTICS,min_samples,2.0,SSE-Elbow,683.8316060138291,45
+Heart Failure,OPTICS,min_samples,2.0,DB,1.68228007649303,45
+Heart Failure,OPTICS,min_samples,2.0,BIC,4012.8906528739903,45
+Heart Failure,OPTICS,min_samples,7.0,VRC,8.225986104573474,2
+Heart Failure,OPTICS,min_samples,7.0,Silhouette,-0.002139265748602963,2
+Heart Failure,OPTICS,min_samples,7.0,SSE-Elbow,2175.813658446423,2
+Heart Failure,OPTICS,min_samples,7.0,DB,1.8295992194440136,2
+Heart Failure,OPTICS,min_samples,7.0,BIC,2318.324747781192,2
+Heart Failure,OPTICS,min_samples,12.0,VRC,NaN,1
+Heart Failure,OPTICS,min_samples,12.0,Silhouette,NaN,1
+Heart Failure,OPTICS,min_samples,12.0,SSE-Elbow,2440.5183946488287,1
+Heart Failure,OPTICS,min_samples,12.0,DB,NaN,1
+Heart Failure,OPTICS,min_samples,12.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,17.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,17.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,17.0,SSE-Elbow,3588.5247560090875,1
+Heart Failure,OPTICS,min_samples,17.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,17.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,17.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,17.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,22.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,22.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,22.0,SSE-Elbow,3588.733146329945,1
+Heart Failure,OPTICS,min_samples,22.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,22.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,22.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,22.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,27.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,27.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,27.0,SSE-Elbow,3588.407333635805,1
+Heart Failure,OPTICS,min_samples,27.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,27.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,27.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,27.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,32.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,32.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,32.0,SSE-Elbow,3589.305316497725,1
+Heart Failure,OPTICS,min_samples,32.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,32.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,32.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,32.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,37.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,37.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,37.0,SSE-Elbow,3588.620220460181,1
+Heart Failure,OPTICS,min_samples,37.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,37.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,37.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,37.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,42.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,42.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,42.0,SSE-Elbow,3588.473174146741,1
+Heart Failure,OPTICS,min_samples,42.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,42.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,42.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,42.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,47.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,47.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,47.0,SSE-Elbow,3588.364213105023,1
+Heart Failure,OPTICS,min_samples,47.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,47.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,47.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,47.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,52.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,52.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,52.0,SSE-Elbow,3588.5030622400527,1
+Heart Failure,OPTICS,min_samples,52.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,52.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,52.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,52.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,57.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,57.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,57.0,SSE-Elbow,3588.542375222803,1
+Heart Failure,OPTICS,min_samples,57.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,57.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,57.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,57.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,62.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,62.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,62.0,SSE-Elbow,3588.7600293081196,1
+Heart Failure,OPTICS,min_samples,62.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,62.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,62.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,62.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,67.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,67.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,67.0,SSE-Elbow,3588.335844878535,1
+Heart Failure,OPTICS,min_samples,67.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,67.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,67.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,67.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,72.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,72.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,72.0,SSE-Elbow,3589.869334620293,1
+Heart Failure,OPTICS,min_samples,72.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,72.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,72.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,72.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,77.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,77.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,77.0,SSE-Elbow,3588.5300696433515,1
+Heart Failure,OPTICS,min_samples,77.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,77.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,77.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,77.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,82.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,82.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,82.0,SSE-Elbow,3589.1917896333175,1
+Heart Failure,OPTICS,min_samples,82.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,82.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,82.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,82.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,87.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,87.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,87.0,SSE-Elbow,3588.945596803227,1
+Heart Failure,OPTICS,min_samples,87.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,87.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,87.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,87.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,92.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,92.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,92.0,SSE-Elbow,3588.596959833779,1
+Heart Failure,OPTICS,min_samples,92.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,92.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,92.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,92.0,BIC,2508.9237175295175,1
 Heart Failure,OPTICS,min_samples,97.0,VRC,NaN,1
 Heart Failure,OPTICS,min_samples,97.0,Silhouette,NaN,1
-Heart Failure,OPTICS,min_samples,97.0,SSE-Elbow,3588.2652376392593,1
+Heart Failure,OPTICS,min_samples,97.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,OPTICS,min_samples,97.0,DB,NaN,1
-Heart Failure,OPTICS,min_samples,97.0,BIC,3656.405322880688,1
+Heart Failure,OPTICS,min_samples,97.0,BIC,2508.9237175295175,1
 Heart Failure,dbscan,eps,0.1,VRC,NaN,1
 Heart Failure,dbscan,eps,0.1,Silhouette,NaN,1
-Heart Failure,dbscan,eps,0.1,SSE-Elbow,3588.746387736901,1
+Heart Failure,dbscan,eps,0.1,SSE-Elbow,2440.5183946488287,1
 Heart Failure,dbscan,eps,0.1,DB,NaN,1
-Heart Failure,dbscan,eps,0.1,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.1,BIC,2508.9237175295175,1
 Heart Failure,dbscan,eps,0.2,VRC,NaN,1
 Heart Failure,dbscan,eps,0.2,Silhouette,NaN,1
-Heart Failure,dbscan,eps,0.2,SSE-Elbow,3589.585747719929,1
+Heart Failure,dbscan,eps,0.2,SSE-Elbow,2440.5183946488287,1
 Heart Failure,dbscan,eps,0.2,DB,NaN,1
-Heart Failure,dbscan,eps,0.2,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.2,BIC,2508.9237175295175,1
 Heart Failure,dbscan,eps,0.30000000000000004,VRC,NaN,1
 Heart Failure,dbscan,eps,0.30000000000000004,Silhouette,NaN,1
-Heart Failure,dbscan,eps,0.30000000000000004,SSE-Elbow,3588.9302252473904,1
+Heart Failure,dbscan,eps,0.30000000000000004,SSE-Elbow,2440.5183946488287,1
 Heart Failure,dbscan,eps,0.30000000000000004,DB,NaN,1
-Heart Failure,dbscan,eps,0.30000000000000004,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.30000000000000004,BIC,2508.9237175295175,1
 Heart Failure,dbscan,eps,0.4,VRC,NaN,1
 Heart Failure,dbscan,eps,0.4,Silhouette,NaN,1
-Heart Failure,dbscan,eps,0.4,SSE-Elbow,3589.3130823429933,1
+Heart Failure,dbscan,eps,0.4,SSE-Elbow,2440.5183946488287,1
 Heart Failure,dbscan,eps,0.4,DB,NaN,1
-Heart Failure,dbscan,eps,0.4,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.4,BIC,2508.9237175295175,1
 Heart Failure,dbscan,eps,0.5,VRC,NaN,1
 Heart Failure,dbscan,eps,0.5,Silhouette,NaN,1
-Heart Failure,dbscan,eps,0.5,SSE-Elbow,3588.5661894010864,1
+Heart Failure,dbscan,eps,0.5,SSE-Elbow,2440.5183946488287,1
 Heart Failure,dbscan,eps,0.5,DB,NaN,1
-Heart Failure,dbscan,eps,0.5,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.5,BIC,2508.9237175295175,1
 Heart Failure,dbscan,eps,0.6,VRC,NaN,1
 Heart Failure,dbscan,eps,0.6,Silhouette,NaN,1
-Heart Failure,dbscan,eps,0.6,SSE-Elbow,3588.2140433249424,1
+Heart Failure,dbscan,eps,0.6,SSE-Elbow,2440.5183946488287,1
 Heart Failure,dbscan,eps,0.6,DB,NaN,1
-Heart Failure,dbscan,eps,0.6,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.6,BIC,2508.9237175295175,1
 Heart Failure,dbscan,eps,0.7000000000000001,VRC,NaN,1
 Heart Failure,dbscan,eps,0.7000000000000001,Silhouette,NaN,1
-Heart Failure,dbscan,eps,0.7000000000000001,SSE-Elbow,3588.461494733519,1
+Heart Failure,dbscan,eps,0.7000000000000001,SSE-Elbow,2440.5183946488287,1
 Heart Failure,dbscan,eps,0.7000000000000001,DB,NaN,1
-Heart Failure,dbscan,eps,0.7000000000000001,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.7000000000000001,BIC,2508.9237175295175,1
 Heart Failure,dbscan,eps,0.8,VRC,NaN,1
 Heart Failure,dbscan,eps,0.8,Silhouette,NaN,1
-Heart Failure,dbscan,eps,0.8,SSE-Elbow,3588.6404268262913,1
+Heart Failure,dbscan,eps,0.8,SSE-Elbow,2440.5183946488287,1
 Heart Failure,dbscan,eps,0.8,DB,NaN,1
-Heart Failure,dbscan,eps,0.8,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.8,BIC,2508.9237175295175,1
 Heart Failure,dbscan,eps,0.9,VRC,NaN,1
 Heart Failure,dbscan,eps,0.9,Silhouette,NaN,1
-Heart Failure,dbscan,eps,0.9,SSE-Elbow,3588.565781768313,1
+Heart Failure,dbscan,eps,0.9,SSE-Elbow,2440.5183946488287,1
 Heart Failure,dbscan,eps,0.9,DB,NaN,1
-Heart Failure,dbscan,eps,0.9,BIC,3656.405322880688,1
+Heart Failure,dbscan,eps,0.9,BIC,2508.9237175295175,1
 Heart Failure,dbscan,eps,1.0,VRC,NaN,1
 Heart Failure,dbscan,eps,1.0,Silhouette,NaN,1
-Heart Failure,dbscan,eps,1.0,SSE-Elbow,3588.2295453765237,1
+Heart Failure,dbscan,eps,1.0,SSE-Elbow,2440.5183946488287,1
 Heart Failure,dbscan,eps,1.0,DB,NaN,1
-Heart Failure,dbscan,eps,1.0,BIC,3656.405322880688,1
-Heart Failure,dbscan,eps,1.1,VRC,3.1896771492487925,2
-Heart Failure,dbscan,eps,1.1,Silhouette,-0.074305364966237,2
-Heart Failure,dbscan,eps,1.1,SSE-Elbow,3143.516916369702,2
-Heart Failure,dbscan,eps,1.1,DB,1.4506762013668504,2
-Heart Failure,dbscan,eps,1.1,BIC,3284.139730013409,2
-Heart Failure,dbscan,eps,1.2000000000000002,VRC,3.758667076287682,2
-Heart Failure,dbscan,eps,1.2000000000000002,Silhouette,-0.07399820054348452,2
-Heart Failure,dbscan,eps,1.2000000000000002,SSE-Elbow,3206.762476531281,2
-Heart Failure,dbscan,eps,1.2000000000000002,DB,1.4683570639216843,2
-Heart Failure,dbscan,eps,1.2000000000000002,BIC,3348.279235217141,2
-Heart Failure,dbscan,eps,1.3000000000000005,VRC,3.2308323662714766,4
-Heart Failure,dbscan,eps,1.3000000000000005,Silhouette,-0.15333138883621736,4
-Heart Failure,dbscan,eps,1.3000000000000005,SSE-Elbow,2724.528438330425,4
-Heart Failure,dbscan,eps,1.3000000000000005,DB,1.5993895463824852,4
-Heart Failure,dbscan,eps,1.3000000000000005,BIC,3002.107860111283,4
-Heart Failure,dbscan,eps,1.4,VRC,3.9139830124167014,4
-Heart Failure,dbscan,eps,1.4,Silhouette,-0.13770504042218867,4
-Heart Failure,dbscan,eps,1.4,SSE-Elbow,2777.2753756999773,4
-Heart Failure,dbscan,eps,1.4,DB,1.6664757116551163,4
-Heart Failure,dbscan,eps,1.4,BIC,3059.45723537167,4
-Heart Failure,dbscan,eps,1.5000000000000002,VRC,4.315638883028117,5
-Heart Failure,dbscan,eps,1.5000000000000002,Silhouette,-0.14842034699740286,5
-Heart Failure,dbscan,eps,1.5000000000000002,SSE-Elbow,2666.3925475433043,5
-Heart Failure,dbscan,eps,1.5000000000000002,DB,1.755024852436915,5
-Heart Failure,dbscan,eps,1.5000000000000002,BIC,2997.6585564465563,5
-Heart Failure,dbscan,eps,1.6,VRC,4.684224342381669,6
-Heart Failure,dbscan,eps,1.6,Silhouette,-0.1520558946503131,6
-Heart Failure,dbscan,eps,1.6,SSE-Elbow,2537.060326299664,6
-Heart Failure,dbscan,eps,1.6,DB,1.7731799661179295,6
-Heart Failure,dbscan,eps,1.6,BIC,2971.0468547111836,6
-Heart Failure,dbscan,eps,1.7000000000000002,VRC,5.0082757971024865,9
-Heart Failure,dbscan,eps,1.7000000000000002,Silhouette,-0.14122017560705,9
-Heart Failure,dbscan,eps,1.7000000000000002,SSE-Elbow,2218.1832537692385,9
-Heart Failure,dbscan,eps,1.7000000000000002,DB,1.7344880735568395,9
-Heart Failure,dbscan,eps,1.7000000000000002,BIC,2858.4919389360066,9
-Heart Failure,dbscan,eps,1.8000000000000005,VRC,5.096662747959633,10
-Heart Failure,dbscan,eps,1.8000000000000005,Silhouette,-0.13004195651322376,10
-Heart Failure,dbscan,eps,1.8000000000000005,SSE-Elbow,2061.814595029552,10
-Heart Failure,dbscan,eps,1.8000000000000005,DB,1.8180518031057005,10
-Heart Failure,dbscan,eps,1.8000000000000005,BIC,2787.6575157193756,10
-Heart Failure,dbscan,eps,1.9,VRC,5.471513198165548,11
-Heart Failure,dbscan,eps,1.9,Silhouette,-0.11139404132982418,11
-Heart Failure,dbscan,eps,1.9,SSE-Elbow,2135.231507378913,11
-Heart Failure,dbscan,eps,1.9,DB,1.8440109245753376,11
-Heart Failure,dbscan,eps,1.9,BIC,2927.6819551540534,11
-Heart Failure,dbscan,eps,2.0,VRC,5.642571083293685,13
-Heart Failure,dbscan,eps,2.0,Silhouette,-0.08451641169433245,13
-Heart Failure,dbscan,eps,2.0,SSE-Elbow,2031.991077471768,13
-Heart Failure,dbscan,eps,2.0,DB,1.8860610432477247,13
-Heart Failure,dbscan,eps,2.0,BIC,2963.6411660053946,13
-Apartments for Rent,Agglomerative,n_clusters,2.0,VRC,3304.688583982094,2
-Apartments for Rent,Agglomerative,n_clusters,2.0,Silhouette,0.30724840665936953,2
-Apartments for Rent,Agglomerative,n_clusters,2.0,SSE-Elbow,64487.364196266746,2
-Apartments for Rent,Agglomerative,n_clusters,2.0,DB,1.3246706780316082,2
-Apartments for Rent,Agglomerative,n_clusters,2.0,BIC,64643.18906651498,2
-Apartments for Rent,Agglomerative,n_clusters,7.0,VRC,2253.3611066495014,7
-Apartments for Rent,Agglomerative,n_clusters,7.0,Silhouette,0.22707107205045057,7
-Apartments for Rent,Agglomerative,n_clusters,7.0,SSE-Elbow,36506.38866338192,7
-Apartments for Rent,Agglomerative,n_clusters,7.0,DB,1.4421325888544545,7
-Apartments for Rent,Agglomerative,n_clusters,7.0,BIC,36830.975456470034,7
-Apartments for Rent,Agglomerative,n_clusters,12.0,VRC,1867.1115180744157,12
-Apartments for Rent,Agglomerative,n_clusters,12.0,Silhouette,0.24543211244313645,12
-Apartments for Rent,Agglomerative,n_clusters,12.0,SSE-Elbow,30425.364221339503,12
-Apartments for Rent,Agglomerative,n_clusters,12.0,DB,1.3373962537496729,12
-Apartments for Rent,Agglomerative,n_clusters,12.0,BIC,31524.250699765133,12
-Apartments for Rent,Agglomerative,n_clusters,17.0,VRC,1629.5202598716928,17
-Apartments for Rent,Agglomerative,n_clusters,17.0,Silhouette,0.2222142515295193,17
-Apartments for Rent,Agglomerative,n_clusters,17.0,SSE-Elbow,23786.120384793056,17
-Apartments for Rent,Agglomerative,n_clusters,17.0,DB,1.4366343771532195,17
-Apartments for Rent,Agglomerative,n_clusters,17.0,BIC,25369.435636186085,17
-Apartments for Rent,Agglomerative,n_clusters,22.0,VRC,1459.199814673653,22
-Apartments for Rent,Agglomerative,n_clusters,22.0,Silhouette,0.2027979457288382,22
-Apartments for Rent,Agglomerative,n_clusters,22.0,SSE-Elbow,22713.66498196922,22
-Apartments for Rent,Agglomerative,n_clusters,22.0,DB,1.4416244377079386,22
-Apartments for Rent,Agglomerative,n_clusters,22.0,BIC,24777.558830389946,22
-Apartments for Rent,Agglomerative,n_clusters,27.0,VRC,1338.2517991138957,27
-Apartments for Rent,Agglomerative,n_clusters,27.0,Silhouette,0.2102314887188253,27
-Apartments for Rent,Agglomerative,n_clusters,27.0,SSE-Elbow,20571.023186070903,27
-Apartments for Rent,Agglomerative,n_clusters,27.0,DB,1.4119630891075312,27
-Apartments for Rent,Agglomerative,n_clusters,27.0,BIC,23194.555346038716,27
-Apartments for Rent,Agglomerative,n_clusters,32.0,VRC,1224.841371970521,32
-Apartments for Rent,Agglomerative,n_clusters,32.0,Silhouette,0.2131905785017082,32
-Apartments for Rent,Agglomerative,n_clusters,32.0,SSE-Elbow,18298.20738757756,32
-Apartments for Rent,Agglomerative,n_clusters,32.0,DB,1.404930070554712,32
-Apartments for Rent,Agglomerative,n_clusters,32.0,BIC,21382.226689610783,32
-Apartments for Rent,Agglomerative,n_clusters,37.0,VRC,1144.584330486505,37
-Apartments for Rent,Agglomerative,n_clusters,37.0,Silhouette,0.20445438466613608,37
-Apartments for Rent,Agglomerative,n_clusters,37.0,SSE-Elbow,17683.56458955202,37
-Apartments for Rent,Agglomerative,n_clusters,37.0,DB,1.475874270248402,37
-Apartments for Rent,Agglomerative,n_clusters,37.0,BIC,21243.1425314188,37
-Apartments for Rent,Agglomerative,n_clusters,42.0,VRC,1085.3566125703535,42
-Apartments for Rent,Agglomerative,n_clusters,42.0,Silhouette,0.20386598181896423,42
-Apartments for Rent,Agglomerative,n_clusters,42.0,SSE-Elbow,16380.648172432127,42
-Apartments for Rent,Agglomerative,n_clusters,42.0,DB,1.4375634019444172,42
-Apartments for Rent,Agglomerative,n_clusters,42.0,BIC,20297.370906053704,42
-Apartments for Rent,Agglomerative,n_clusters,47.0,VRC,1038.2049696511588,47
-Apartments for Rent,Agglomerative,n_clusters,47.0,Silhouette,0.2084187213332077,47
-Apartments for Rent,Agglomerative,n_clusters,47.0,SSE-Elbow,15736.307766999247,47
-Apartments for Rent,Agglomerative,n_clusters,47.0,DB,1.4105112058533844,47
-Apartments for Rent,Agglomerative,n_clusters,47.0,BIC,20199.010146591485,47
-Apartments for Rent,Agglomerative,n_clusters,52.0,VRC,998.2386548009972,52
-Apartments for Rent,Agglomerative,n_clusters,52.0,Silhouette,0.2169022689236866,52
-Apartments for Rent,Agglomerative,n_clusters,52.0,SSE-Elbow,14939.4195506303,52
-Apartments for Rent,Agglomerative,n_clusters,52.0,DB,1.4068673353481906,52
-Apartments for Rent,Agglomerative,n_clusters,52.0,BIC,19707.568826881474,52
-Apartments for Rent,Agglomerative,n_clusters,57.0,VRC,963.5063864817744,57
-Apartments for Rent,Agglomerative,n_clusters,57.0,Silhouette,0.21548879232492735,57
-Apartments for Rent,Agglomerative,n_clusters,57.0,SSE-Elbow,14559.29926459261,57
-Apartments for Rent,Agglomerative,n_clusters,57.0,DB,1.4338830031158154,57
-Apartments for Rent,Agglomerative,n_clusters,57.0,BIC,19901.70238169205,57
-Apartments for Rent,Agglomerative,n_clusters,62.0,VRC,932.2785104694284,62
-Apartments for Rent,Agglomerative,n_clusters,62.0,Silhouette,0.22015863601042357,62
-Apartments for Rent,Agglomerative,n_clusters,62.0,SSE-Elbow,14080.168552245366,62
-Apartments for Rent,Agglomerative,n_clusters,62.0,DB,1.4130741957248694,62
-Apartments for Rent,Agglomerative,n_clusters,62.0,BIC,20146.086626769636,62
-Apartments for Rent,Agglomerative,n_clusters,67.0,VRC,904.8733449766024,67
-Apartments for Rent,Agglomerative,n_clusters,67.0,Silhouette,0.22588070366242535,67
-Apartments for Rent,Agglomerative,n_clusters,67.0,SSE-Elbow,13149.481344375949,67
-Apartments for Rent,Agglomerative,n_clusters,67.0,DB,1.4173043851201148,67
-Apartments for Rent,Agglomerative,n_clusters,67.0,BIC,19683.908345344887,67
-Apartments for Rent,Agglomerative,n_clusters,72.0,VRC,880.7126186468249,72
-Apartments for Rent,Agglomerative,n_clusters,72.0,Silhouette,0.2355332816735257,72
-Apartments for Rent,Agglomerative,n_clusters,72.0,SSE-Elbow,12931.813396422218,72
-Apartments for Rent,Agglomerative,n_clusters,72.0,DB,1.387612678764028,72
-Apartments for Rent,Agglomerative,n_clusters,72.0,BIC,19772.11957179007,72
-Apartments for Rent,Agglomerative,n_clusters,77.0,VRC,859.2034193643052,77
-Apartments for Rent,Agglomerative,n_clusters,77.0,Silhouette,0.2370501625662321,77
-Apartments for Rent,Agglomerative,n_clusters,77.0,SSE-Elbow,12982.266771345136,77
-Apartments for Rent,Agglomerative,n_clusters,77.0,DB,1.365007689801387,77
-Apartments for Rent,Agglomerative,n_clusters,77.0,BIC,20490.999053643427,77
-Apartments for Rent,Agglomerative,n_clusters,82.0,VRC,839.0714404206957,82
-Apartments for Rent,Agglomerative,n_clusters,82.0,Silhouette,0.2397303765182859,82
-Apartments for Rent,Agglomerative,n_clusters,82.0,SSE-Elbow,12323.95112991591,82
-Apartments for Rent,Agglomerative,n_clusters,82.0,DB,1.351191100927699,82
-Apartments for Rent,Agglomerative,n_clusters,82.0,BIC,20300.076819601316,82
-Apartments for Rent,Agglomerative,n_clusters,87.0,VRC,820.2620243234962,87
-Apartments for Rent,Agglomerative,n_clusters,87.0,Silhouette,0.24405631393233695,87
-Apartments for Rent,Agglomerative,n_clusters,87.0,SSE-Elbow,11964.514518006205,87
-Apartments for Rent,Agglomerative,n_clusters,87.0,DB,1.353588246433131,87
-Apartments for Rent,Agglomerative,n_clusters,87.0,BIC,20469.199671866205,87
-Apartments for Rent,Agglomerative,n_clusters,92.0,VRC,802.3863949641062,92
-Apartments for Rent,Agglomerative,n_clusters,92.0,Silhouette,0.2451929729281201,92
-Apartments for Rent,Agglomerative,n_clusters,92.0,SSE-Elbow,11300.384855500666,92
-Apartments for Rent,Agglomerative,n_clusters,92.0,DB,1.34510617840824,92
-Apartments for Rent,Agglomerative,n_clusters,92.0,BIC,20291.29806286469,92
-Apartments for Rent,Agglomerative,n_clusters,97.0,VRC,785.5850100375584,97
-Apartments for Rent,Agglomerative,n_clusters,97.0,Silhouette,0.2483476557407389,97
-Apartments for Rent,Agglomerative,n_clusters,97.0,SSE-Elbow,10936.18107178352,97
-Apartments for Rent,Agglomerative,n_clusters,97.0,DB,1.3446985379261915,97
-Apartments for Rent,Agglomerative,n_clusters,97.0,BIC,20394.94005177712,97
+Heart Failure,dbscan,eps,1.0,BIC,2508.9237175295175,1
+Heart Failure,dbscan,eps,1.1,VRC,NaN,1
+Heart Failure,dbscan,eps,1.1,Silhouette,NaN,1
+Heart Failure,dbscan,eps,1.1,SSE-Elbow,2440.5183946488287,1
+Heart Failure,dbscan,eps,1.1,DB,NaN,1
+Heart Failure,dbscan,eps,1.1,BIC,2508.9237175295175,1
+Heart Failure,dbscan,eps,1.2000000000000002,VRC,NaN,1
+Heart Failure,dbscan,eps,1.2000000000000002,Silhouette,NaN,1
+Heart Failure,dbscan,eps,1.2000000000000002,SSE-Elbow,2440.5183946488287,1
+Heart Failure,dbscan,eps,1.2000000000000002,DB,NaN,1
+Heart Failure,dbscan,eps,1.2000000000000002,BIC,2508.9237175295175,1
+Heart Failure,dbscan,eps,1.3000000000000005,VRC,1.6979355266689016,2
+Heart Failure,dbscan,eps,1.3000000000000005,Silhouette,-0.1681003953368158,2
+Heart Failure,dbscan,eps,1.3000000000000005,SSE-Elbow,2175.813658446423,2
+Heart Failure,dbscan,eps,1.3000000000000005,DB,2.2954240094364144,2
+Heart Failure,dbscan,eps,1.3000000000000005,BIC,2318.324747781192,2
+Heart Failure,dbscan,eps,1.4,VRC,1.8940671082568732,4
+Heart Failure,dbscan,eps,1.4,Silhouette,-0.2282123056950928,4
+Heart Failure,dbscan,eps,1.4,SSE-Elbow,1829.3189286340296,4
+Heart Failure,dbscan,eps,1.4,DB,2.462983685536362,4
+Heart Failure,dbscan,eps,1.4,BIC,2120.041550876954,4
+Heart Failure,dbscan,eps,1.5000000000000002,VRC,2.4393459232098893,9
+Heart Failure,dbscan,eps,1.5000000000000002,Silhouette,-0.22334277052234008,9
+Heart Failure,dbscan,eps,1.5000000000000002,SSE-Elbow,1312.0027472516017,9
+Heart Failure,dbscan,eps,1.5000000000000002,DB,2.3797587330252936,9
+Heart Failure,dbscan,eps,1.5000000000000002,BIC,1973.2542017649212,9
+Heart Failure,dbscan,eps,1.6,VRC,4.641759785221516,8
+Heart Failure,dbscan,eps,1.6,Silhouette,-0.15384173005697738,8
+Heart Failure,dbscan,eps,1.6,SSE-Elbow,1408.3900435899927,8
+Heart Failure,dbscan,eps,1.6,DB,3.0380045650374568,8
+Heart Failure,dbscan,eps,1.6,BIC,1995.5357316492332,8
+Heart Failure,dbscan,eps,1.7000000000000002,VRC,7.975779977661303,4
+Heart Failure,dbscan,eps,1.7000000000000002,Silhouette,-0.05346404163604232,4
+Heart Failure,dbscan,eps,1.7000000000000002,SSE-Elbow,1829.3189286340296,4
+Heart Failure,dbscan,eps,1.7000000000000002,DB,3.6938939842693106,4
+Heart Failure,dbscan,eps,1.7000000000000002,BIC,2120.041550876954,4
+Heart Failure,dbscan,eps,1.8000000000000005,VRC,11.183952132142396,2
+Heart Failure,dbscan,eps,1.8000000000000005,Silhouette,0.11994547648858198,2
+Heart Failure,dbscan,eps,1.8000000000000005,SSE-Elbow,2175.813658446423,2
+Heart Failure,dbscan,eps,1.8000000000000005,DB,4.9433001163269585,2
+Heart Failure,dbscan,eps,1.8000000000000005,BIC,2318.324747781192,2
+Heart Failure,dbscan,eps,1.9,VRC,12.49178534574734,2
+Heart Failure,dbscan,eps,1.9,Silhouette,0.1665983981777416,2
+Heart Failure,dbscan,eps,1.9,SSE-Elbow,2175.813658446423,2
+Heart Failure,dbscan,eps,1.9,DB,4.590728475580474,2
+Heart Failure,dbscan,eps,1.9,BIC,2318.324747781192,2
+Heart Failure,dbscan,eps,2.0,VRC,14.01331417997291,2
+Heart Failure,dbscan,eps,2.0,Silhouette,0.21580913144679695,2
+Heart Failure,dbscan,eps,2.0,SSE-Elbow,2175.813658446423,2
+Heart Failure,dbscan,eps,2.0,DB,4.184237884195995,2
+Heart Failure,dbscan,eps,2.0,BIC,2318.324747781192,2
+Apartments for Rent,Agglomerative,n_clusters,2.0,VRC,1654.6348061517654,2
+Apartments for Rent,Agglomerative,n_clusters,2.0,Silhouette,0.16665067007699064,2
+Apartments for Rent,Agglomerative,n_clusters,2.0,SSE-Elbow,59894.90235856235,2
+Apartments for Rent,Agglomerative,n_clusters,2.0,DB,2.227726301221602,2
+Apartments for Rent,Agglomerative,n_clusters,2.0,BIC,60088.17860500938,2
+Apartments for Rent,Agglomerative,n_clusters,7.0,VRC,1765.8756210678864,7
+Apartments for Rent,Agglomerative,n_clusters,7.0,Silhouette,0.22134543901975573,7
+Apartments for Rent,Agglomerative,n_clusters,7.0,SSE-Elbow,36937.38385510483,7
+Apartments for Rent,Agglomerative,n_clusters,7.0,DB,1.4292942320012234,7
+Apartments for Rent,Agglomerative,n_clusters,7.0,BIC,37636.96806209129,7
+Apartments for Rent,Agglomerative,n_clusters,12.0,VRC,1551.6034629222318,12
+Apartments for Rent,Agglomerative,n_clusters,12.0,Silhouette,0.2312913972604866,12
+Apartments for Rent,Agglomerative,n_clusters,12.0,SSE-Elbow,27072.75541512781,12
+Apartments for Rent,Agglomerative,n_clusters,12.0,DB,1.371941506555013,12
+Apartments for Rent,Agglomerative,n_clusters,12.0,BIC,28278.62098529893,12
+Apartments for Rent,Agglomerative,n_clusters,17.0,VRC,1377.5144171902807,17
+Apartments for Rent,Agglomerative,n_clusters,17.0,Silhouette,0.22579314183441165,17
+Apartments for Rent,Agglomerative,n_clusters,17.0,SSE-Elbow,22474.45072899977,17
+Apartments for Rent,Agglomerative,n_clusters,17.0,DB,1.369021115394342,17
+Apartments for Rent,Agglomerative,n_clusters,17.0,BIC,24186.626660996997,17
+Apartments for Rent,Agglomerative,n_clusters,22.0,VRC,1250.4146157520615,22
+Apartments for Rent,Agglomerative,n_clusters,22.0,Silhouette,0.21302217207727697,22
+Apartments for Rent,Agglomerative,n_clusters,22.0,SSE-Elbow,19540.954965910976,22
+Apartments for Rent,Agglomerative,n_clusters,22.0,DB,1.4286616529077911,22
+Apartments for Rent,Agglomerative,n_clusters,22.0,BIC,21759.438972977772,22
+Apartments for Rent,Agglomerative,n_clusters,27.0,VRC,1146.7963516819348,27
+Apartments for Rent,Agglomerative,n_clusters,27.0,Silhouette,0.20463422890580224,27
+Apartments for Rent,Agglomerative,n_clusters,27.0,SSE-Elbow,17817.305764304925,27
+Apartments for Rent,Agglomerative,n_clusters,27.0,DB,1.440923543402822,27
+Apartments for Rent,Agglomerative,n_clusters,27.0,BIC,20542.08280203011,27
+Apartments for Rent,Agglomerative,n_clusters,32.0,VRC,1055.7339169652005,32
+Apartments for Rent,Agglomerative,n_clusters,32.0,Silhouette,0.1970638888021357,32
+Apartments for Rent,Agglomerative,n_clusters,32.0,SSE-Elbow,16675.07986880381,32
+Apartments for Rent,Agglomerative,n_clusters,32.0,DB,1.3958641567278691,32
+Apartments for Rent,Agglomerative,n_clusters,32.0,BIC,19906.149937187376,32
+Apartments for Rent,Agglomerative,n_clusters,37.0,VRC,993.4557249960236,37
+Apartments for Rent,Agglomerative,n_clusters,37.0,Silhouette,0.2038098705204945,37
+Apartments for Rent,Agglomerative,n_clusters,37.0,SSE-Elbow,15411.595987109213,37
+Apartments for Rent,Agglomerative,n_clusters,37.0,DB,1.3691861698143817,37
+Apartments for Rent,Agglomerative,n_clusters,37.0,BIC,19148.935050955668,37
+Apartments for Rent,Agglomerative,n_clusters,42.0,VRC,951.169564084103,42
+Apartments for Rent,Agglomerative,n_clusters,42.0,Silhouette,0.2020183072465474,42
+Apartments for Rent,Agglomerative,n_clusters,42.0,SSE-Elbow,14550.025642513545,42
+Apartments for Rent,Agglomerative,n_clusters,42.0,DB,1.4040910601818826,42
+Apartments for Rent,Agglomerative,n_clusters,42.0,BIC,18793.681772213913,42
+Apartments for Rent,Agglomerative,n_clusters,47.0,VRC,910.7330269271694,47
+Apartments for Rent,Agglomerative,n_clusters,47.0,Silhouette,0.2122192551209726,47
+Apartments for Rent,Agglomerative,n_clusters,47.0,SSE-Elbow,13682.558824586613,47
+Apartments for Rent,Agglomerative,n_clusters,47.0,DB,1.4103079156618636,47
+Apartments for Rent,Agglomerative,n_clusters,47.0,BIC,18432.5079849454,47
+Apartments for Rent,Agglomerative,n_clusters,52.0,VRC,878.3006414332151,52
+Apartments for Rent,Agglomerative,n_clusters,52.0,Silhouette,0.21690846121196616,52
+Apartments for Rent,Agglomerative,n_clusters,52.0,SSE-Elbow,12822.375890647569,52
+Apartments for Rent,Agglomerative,n_clusters,52.0,DB,1.3938933545895746,52
+Apartments for Rent,Agglomerative,n_clusters,52.0,BIC,18078.618081664717,52
+Apartments for Rent,Agglomerative,n_clusters,57.0,VRC,846.4665173971099,57
+Apartments for Rent,Agglomerative,n_clusters,57.0,Silhouette,0.2196842792986127,57
+Apartments for Rent,Agglomerative,n_clusters,57.0,SSE-Elbow,12277.428644940625,57
+Apartments for Rent,Agglomerative,n_clusters,57.0,DB,1.365753777128946,57
+Apartments for Rent,Agglomerative,n_clusters,57.0,BIC,18039.96386661615,57
+Apartments for Rent,Agglomerative,n_clusters,62.0,VRC,818.8697051573433,62
+Apartments for Rent,Agglomerative,n_clusters,62.0,Silhouette,0.22524880192194863,62
+Apartments for Rent,Agglomerative,n_clusters,62.0,SSE-Elbow,11666.473400882158,62
+Apartments for Rent,Agglomerative,n_clusters,62.0,DB,1.3800022410265331,62
+Apartments for Rent,Agglomerative,n_clusters,62.0,BIC,17935.301653216105,62
+Apartments for Rent,Agglomerative,n_clusters,67.0,VRC,794.532150702066,67
+Apartments for Rent,Agglomerative,n_clusters,67.0,Silhouette,0.229767007978298,67
+Apartments for Rent,Agglomerative,n_clusters,67.0,SSE-Elbow,11258.05644835616,67
+Apartments for Rent,Agglomerative,n_clusters,67.0,DB,1.3653587145056123,67
+Apartments for Rent,Agglomerative,n_clusters,67.0,BIC,18033.17773134849,67
+Apartments for Rent,Agglomerative,n_clusters,72.0,VRC,774.1844281741153,72
+Apartments for Rent,Agglomerative,n_clusters,72.0,Silhouette,0.23431196009643795,72
+Apartments for Rent,Agglomerative,n_clusters,72.0,SSE-Elbow,10897.916634995936,72
+Apartments for Rent,Agglomerative,n_clusters,72.0,DB,1.3919958835698636,72
+Apartments for Rent,Agglomerative,n_clusters,72.0,BIC,18179.33094864668,72
+Apartments for Rent,Agglomerative,n_clusters,77.0,VRC,754.8949521171944,77
+Apartments for Rent,Agglomerative,n_clusters,77.0,Silhouette,0.23827868706811683,77
+Apartments for Rent,Agglomerative,n_clusters,77.0,SSE-Elbow,10493.046164280851,77
+Apartments for Rent,Agglomerative,n_clusters,77.0,DB,1.3779131825811035,77
+Apartments for Rent,Agglomerative,n_clusters,77.0,BIC,18280.75350858996,77
+Apartments for Rent,Agglomerative,n_clusters,82.0,VRC,737.714871556771,82
+Apartments for Rent,Agglomerative,n_clusters,82.0,Silhouette,0.2430688009007529,82
+Apartments for Rent,Agglomerative,n_clusters,82.0,SSE-Elbow,10173.227712340587,82
+Apartments for Rent,Agglomerative,n_clusters,82.0,DB,1.372624752730432,82
+Apartments for Rent,Agglomerative,n_clusters,82.0,BIC,18467.22808730813,82
+Apartments for Rent,Agglomerative,n_clusters,87.0,VRC,721.5485935062783,87
+Apartments for Rent,Agglomerative,n_clusters,87.0,Silhouette,0.24671466897266003,87
+Apartments for Rent,Agglomerative,n_clusters,87.0,SSE-Elbow,9832.32207863597,87
+Apartments for Rent,Agglomerative,n_clusters,87.0,DB,1.3550678541431909,87
+Apartments for Rent,Agglomerative,n_clusters,87.0,BIC,18632.61548426189,87
+Apartments for Rent,Agglomerative,n_clusters,92.0,VRC,705.2227406195901,92
+Apartments for Rent,Agglomerative,n_clusters,92.0,Silhouette,0.25135408313447694,92
+Apartments for Rent,Agglomerative,n_clusters,92.0,SSE-Elbow,9527.454673427748,92
+Apartments for Rent,Agglomerative,n_clusters,92.0,DB,1.3565154818324838,92
+Apartments for Rent,Agglomerative,n_clusters,92.0,BIC,18834.041109712067,92
+Apartments for Rent,Agglomerative,n_clusters,97.0,VRC,691.1586301376074,97
+Apartments for Rent,Agglomerative,n_clusters,97.0,Silhouette,0.2563220185864403,97
+Apartments for Rent,Agglomerative,n_clusters,97.0,SSE-Elbow,9299.274714940651,97
+Apartments for Rent,Agglomerative,n_clusters,97.0,DB,1.3502286408489337,97
+Apartments for Rent,Agglomerative,n_clusters,97.0,BIC,19112.154181883365,97
 Apartments for Rent,K-Means,n_clusters,1.0,VRC,NaN,1
 Apartments for Rent,K-Means,n_clusters,1.0,Silhouette,NaN,1
-Apartments for Rent,K-Means,n_clusters,1.0,SSE-Elbow,85963.6500070063,1
+Apartments for Rent,K-Means,n_clusters,1.0,SSE-Elbow,76008.26963073258,1
 Apartments for Rent,K-Means,n_clusters,1.0,DB,NaN,1
-Apartments for Rent,K-Means,n_clusters,1.0,BIC,86055.70328530773,1
-Apartments for Rent,K-Means,n_clusters,2.0,VRC,3320.7047308671813,2
-Apartments for Rent,K-Means,n_clusters,2.0,Silhouette,0.30890123551306103,2
-Apartments for Rent,K-Means,n_clusters,2.0,SSE-Elbow,64449.877182081655,2
-Apartments for Rent,K-Means,n_clusters,2.0,DB,1.3271671219456078,2
-Apartments for Rent,K-Means,n_clusters,2.0,BIC,64643.18906651498,2
-Apartments for Rent,K-Means,n_clusters,3.0,VRC,3560.6787959443964,3
-Apartments for Rent,K-Means,n_clusters,3.0,Silhouette,0.33730301922738454,3
-Apartments for Rent,K-Means,n_clusters,3.0,SSE-Elbow,50097.509437158806,3
-Apartments for Rent,K-Means,n_clusters,3.0,DB,1.279847859064222,3
-Apartments for Rent,K-Means,n_clusters,3.0,BIC,50391.97570464598,3
-Apartments for Rent,K-Means,n_clusters,4.0,VRC,3102.838542660159,4
-Apartments for Rent,K-Means,n_clusters,4.0,Silhouette,0.2621219355681497,4
-Apartments for Rent,K-Means,n_clusters,4.0,SSE-Elbow,44404.92732104691,4
-Apartments for Rent,K-Means,n_clusters,4.0,DB,1.381009186817154,4
-Apartments for Rent,K-Means,n_clusters,4.0,BIC,44800.70946290081,4
-Apartments for Rent,K-Means,n_clusters,5.0,VRC,2629.828030054553,5
-Apartments for Rent,K-Means,n_clusters,5.0,Silhouette,0.2727586688116305,5
-Apartments for Rent,K-Means,n_clusters,5.0,SSE-Elbow,41775.57956981355,5
-Apartments for Rent,K-Means,n_clusters,5.0,DB,1.4254613325346734,5
-Apartments for Rent,K-Means,n_clusters,5.0,BIC,42272.66727264183,5
-Apartments for Rent,K-Means,n_clusters,6.0,VRC,2513.6652868839524,6
-Apartments for Rent,K-Means,n_clusters,6.0,Silhouette,0.26005870486722116,6
-Apartments for Rent,K-Means,n_clusters,6.0,SSE-Elbow,37971.31043563344,6
-Apartments for Rent,K-Means,n_clusters,6.0,DB,1.414453594767456,6
-Apartments for Rent,K-Means,n_clusters,6.0,BIC,38569.65674459335,6
-Apartments for Rent,K-Means,n_clusters,7.0,VRC,2463.7525837422,7
-Apartments for Rent,K-Means,n_clusters,7.0,Silhouette,0.2654391640846678,7
-Apartments for Rent,K-Means,n_clusters,7.0,SSE-Elbow,34569.009165243,7
-Apartments for Rent,K-Means,n_clusters,7.0,DB,1.3890389900309137,7
-Apartments for Rent,K-Means,n_clusters,7.0,BIC,35268.614080334606,7
-Apartments for Rent,K-Means,n_clusters,8.0,VRC,2289.711042573659,8
-Apartments for Rent,K-Means,n_clusters,8.0,Silhouette,0.24851399787217948,8
-Apartments for Rent,K-Means,n_clusters,8.0,SSE-Elbow,32909.17810832897,8
-Apartments for Rent,K-Means,n_clusters,8.0,DB,1.5118832431136846,8
-Apartments for Rent,K-Means,n_clusters,8.0,BIC,33710.041629552245,8
-Apartments for Rent,K-Means,n_clusters,9.0,VRC,2128.127339457568,9
-Apartments for Rent,K-Means,n_clusters,9.0,Silhouette,0.23037729539889576,9
-Apartments for Rent,K-Means,n_clusters,9.0,SSE-Elbow,31690.43856395537,9
-Apartments for Rent,K-Means,n_clusters,9.0,DB,1.3761954095959317,9
-Apartments for Rent,K-Means,n_clusters,9.0,BIC,32592.549020938604,9
-Apartments for Rent,K-Means,n_clusters,10.0,VRC,2080.532845111448,10
-Apartments for Rent,K-Means,n_clusters,10.0,Silhouette,0.25910645001110993,10
-Apartments for Rent,K-Means,n_clusters,10.0,SSE-Elbow,29809.38125561386,10
-Apartments for Rent,K-Means,n_clusters,10.0,DB,1.3589029713085738,10
-Apartments for Rent,K-Means,n_clusters,10.0,BIC,30812.722227297792,10
-Apartments for Rent,K-Means,n_clusters,11.0,VRC,2036.094080364041,11
-Apartments for Rent,K-Means,n_clusters,11.0,Silhouette,0.2221765254836118,11
-Apartments for Rent,K-Means,n_clusters,11.0,SSE-Elbow,28197.834542204226,11
-Apartments for Rent,K-Means,n_clusters,11.0,DB,1.4080579297586595,11
-Apartments for Rent,K-Means,n_clusters,11.0,BIC,29302.47388182255,11
-Apartments for Rent,K-Means,n_clusters,12.0,VRC,1901.5169315459707,12
-Apartments for Rent,K-Means,n_clusters,12.0,Silhouette,0.21949551627461772,12
-Apartments for Rent,K-Means,n_clusters,12.0,SSE-Elbow,27688.071333168555,12
-Apartments for Rent,K-Means,n_clusters,12.0,DB,1.4716770490534443,12
-Apartments for Rent,K-Means,n_clusters,12.0,BIC,28893.969278918543,12
-Apartments for Rent,K-Means,n_clusters,13.0,VRC,1893.3981083994777,13
-Apartments for Rent,K-Means,n_clusters,13.0,Silhouette,0.23508647396301963,13
-Apartments for Rent,K-Means,n_clusters,13.0,SSE-Elbow,26156.753290167144,13
-Apartments for Rent,K-Means,n_clusters,13.0,DB,1.435758984009449,13
-Apartments for Rent,K-Means,n_clusters,13.0,BIC,27463.89043648868,13
-Apartments for Rent,K-Means,n_clusters,14.0,VRC,1911.374836134236,14
-Apartments for Rent,K-Means,n_clusters,14.0,Silhouette,0.2508781412265918,14
-Apartments for Rent,K-Means,n_clusters,14.0,SSE-Elbow,24555.48379181596,14
-Apartments for Rent,K-Means,n_clusters,14.0,DB,1.36893437220846,14
-Apartments for Rent,K-Means,n_clusters,14.0,BIC,25963.898949829367,14
-Apartments for Rent,K-Means,n_clusters,15.0,VRC,1862.3215997579784,15
-Apartments for Rent,K-Means,n_clusters,15.0,Silhouette,0.23563945405872527,15
-Apartments for Rent,K-Means,n_clusters,15.0,SSE-Elbow,23718.63656113993,15
-Apartments for Rent,K-Means,n_clusters,15.0,DB,1.3866349283172217,15
-Apartments for Rent,K-Means,n_clusters,15.0,BIC,25228.310325284932,15
-Apartments for Rent,K-Means,n_clusters,16.0,VRC,1744.4401022526845,16
-Apartments for Rent,K-Means,n_clusters,16.0,Silhouette,0.2389771541059677,16
-Apartments for Rent,K-Means,n_clusters,16.0,SSE-Elbow,23655.09938440348,16
-Apartments for Rent,K-Means,n_clusters,16.0,DB,1.409377885328404,16
-Apartments for Rent,K-Means,n_clusters,16.0,BIC,25266.020177339647,16
-Apartments for Rent,K-Means,n_clusters,17.0,VRC,1757.4951281074607,17
-Apartments for Rent,K-Means,n_clusters,17.0,Silhouette,0.22988574863560715,17
-Apartments for Rent,K-Means,n_clusters,17.0,SSE-Elbow,22439.19766286108,17
-Apartments for Rent,K-Means,n_clusters,17.0,DB,1.3693170363927187,17
-Apartments for Rent,K-Means,n_clusters,17.0,BIC,24151.385906141517,17
-Apartments for Rent,K-Means,n_clusters,18.0,VRC,1685.691746638022,18
-Apartments for Rent,K-Means,n_clusters,18.0,Silhouette,0.2608873690476789,18
-Apartments for Rent,K-Means,n_clusters,18.0,SSE-Elbow,22125.37999835904,18
-Apartments for Rent,K-Means,n_clusters,18.0,DB,1.3283225061237456,18
-Apartments for Rent,K-Means,n_clusters,18.0,BIC,23938.82958089909,18
-Apartments for Rent,K-Means,n_clusters,19.0,VRC,1691.2234283659295,19
-Apartments for Rent,K-Means,n_clusters,19.0,Silhouette,0.23352745866302885,19
-Apartments for Rent,K-Means,n_clusters,19.0,SSE-Elbow,21145.432569782555,19
-Apartments for Rent,K-Means,n_clusters,19.0,DB,1.422543804201371,19
-Apartments for Rent,K-Means,n_clusters,19.0,BIC,23060.140758454298,19
-Apartments for Rent,K-Means,n_clusters,20.0,VRC,1587.5899289102258,20
-Apartments for Rent,K-Means,n_clusters,20.0,Silhouette,0.21130525803851455,20
-Apartments for Rent,K-Means,n_clusters,20.0,SSE-Elbow,21290.40029812683,20
-Apartments for Rent,K-Means,n_clusters,20.0,DB,1.486974180166317,20
-Apartments for Rent,K-Means,n_clusters,20.0,BIC,23306.299571694297,20
-Apartments for Rent,K-Means,n_clusters,21.0,VRC,1633.8211489590526,21
-Apartments for Rent,K-Means,n_clusters,21.0,Silhouette,0.2320869140004299,21
-Apartments for Rent,K-Means,n_clusters,21.0,SSE-Elbow,20033.47225929077,21
-Apartments for Rent,K-Means,n_clusters,21.0,DB,1.423120491174367,21
-Apartments for Rent,K-Means,n_clusters,21.0,BIC,22150.66295973225,21
-Apartments for Rent,K-Means,n_clusters,22.0,VRC,1598.2485983315394,22
-Apartments for Rent,K-Means,n_clusters,22.0,Silhouette,0.2329171404927045,22
-Apartments for Rent,K-Means,n_clusters,22.0,SSE-Elbow,19623.434481328815,22
-Apartments for Rent,K-Means,n_clusters,22.0,DB,1.3658899659052954,22
-Apartments for Rent,K-Means,n_clusters,22.0,BIC,21841.91848839557,22
-Apartments for Rent,K-Means,n_clusters,23.0,VRC,1503.4367087841556,23
-Apartments for Rent,K-Means,n_clusters,23.0,Silhouette,0.23197922608384092,23
-Apartments for Rent,K-Means,n_clusters,23.0,SSE-Elbow,19844.43099589082,23
-Apartments for Rent,K-Means,n_clusters,23.0,DB,1.4032064007048408,23
-Apartments for Rent,K-Means,n_clusters,23.0,BIC,22164.14743839498,23
-Apartments for Rent,K-Means,n_clusters,24.0,VRC,1511.1349690216705,24
-Apartments for Rent,K-Means,n_clusters,24.0,Silhouette,0.2348542110889592,24
-Apartments for Rent,K-Means,n_clusters,24.0,SSE-Elbow,19096.593389173813,24
-Apartments for Rent,K-Means,n_clusters,24.0,DB,1.3221206992610417,24
-Apartments for Rent,K-Means,n_clusters,24.0,BIC,21517.57698665096,24
-Apartments for Rent,K-Means,n_clusters,25.0,VRC,1494.6269893052552,25
-Apartments for Rent,K-Means,n_clusters,25.0,Silhouette,0.22966167527047987,25
-Apartments for Rent,K-Means,n_clusters,25.0,SSE-Elbow,18630.193397941646,25
-Apartments for Rent,K-Means,n_clusters,25.0,DB,1.4344327036105415,25
-Apartments for Rent,K-Means,n_clusters,25.0,BIC,21152.45322340351,25
-Apartments for Rent,K-Means,n_clusters,26.0,VRC,1442.192548745497,26
-Apartments for Rent,K-Means,n_clusters,26.0,Silhouette,0.20962104324706815,26
-Apartments for Rent,K-Means,n_clusters,26.0,SSE-Elbow,18554.291062836182,26
-Apartments for Rent,K-Means,n_clusters,26.0,DB,1.5090672840666255,26
-Apartments for Rent,K-Means,n_clusters,26.0,BIC,21177.787097375236,26
-Apartments for Rent,K-Means,n_clusters,27.0,VRC,1412.882896386404,27
-Apartments for Rent,K-Means,n_clusters,27.0,Silhouette,0.2248012461040262,27
-Apartments for Rent,K-Means,n_clusters,27.0,SSE-Elbow,18282.414400201906,27
-Apartments for Rent,K-Means,n_clusters,27.0,DB,1.4179192531814495,27
-Apartments for Rent,K-Means,n_clusters,27.0,BIC,21007.13196357377,27
-Apartments for Rent,K-Means,n_clusters,28.0,VRC,1400.2736275543643,28
-Apartments for Rent,K-Means,n_clusters,28.0,Silhouette,0.22895599817845208,28
-Apartments for Rent,K-Means,n_clusters,28.0,SSE-Elbow,17870.150280804315,28
-Apartments for Rent,K-Means,n_clusters,28.0,DB,1.411629503964775,28
-Apartments for Rent,K-Means,n_clusters,28.0,BIC,20696.18592466119,28
-Apartments for Rent,K-Means,n_clusters,29.0,VRC,1412.920317111499,29
-Apartments for Rent,K-Means,n_clusters,29.0,Silhouette,0.22779281167157445,29
-Apartments for Rent,K-Means,n_clusters,29.0,SSE-Elbow,17235.199060967392,29
-Apartments for Rent,K-Means,n_clusters,29.0,DB,1.420097345068099,29
-Apartments for Rent,K-Means,n_clusters,29.0,BIC,20162.493310955917,29
-Apartments for Rent,K-Means,n_clusters,30.0,VRC,1377.2289304535825,30
-Apartments for Rent,K-Means,n_clusters,30.0,Silhouette,0.21965994746287895,30
-Apartments for Rent,K-Means,n_clusters,30.0,SSE-Elbow,17103.212305017616,30
-Apartments for Rent,K-Means,n_clusters,30.0,DB,1.400235218084702,30
-Apartments for Rent,K-Means,n_clusters,30.0,BIC,20131.753470100277,30
-Apartments for Rent,K-Means,n_clusters,35.0,VRC,1255.375930162378,35
-Apartments for Rent,K-Means,n_clusters,35.0,Silhouette,0.22087598754093765,35
-Apartments for Rent,K-Means,n_clusters,35.0,SSE-Elbow,16204.699934536688,35
-Apartments for Rent,K-Means,n_clusters,35.0,DB,1.4139661406482396,35
-Apartments for Rent,K-Means,n_clusters,35.0,BIC,19739.51390657794,35
-Apartments for Rent,K-Means,n_clusters,40.0,VRC,1212.032132548826,40
-Apartments for Rent,K-Means,n_clusters,40.0,Silhouette,0.228690318886006,40
-Apartments for Rent,K-Means,n_clusters,40.0,SSE-Elbow,14898.75653054646,40
-Apartments for Rent,K-Means,n_clusters,40.0,DB,1.417808094088581,40
-Apartments for Rent,K-Means,n_clusters,40.0,BIC,18939.895447983483,40
-Apartments for Rent,K-Means,n_clusters,45.0,VRC,1165.9277598069673,45
-Apartments for Rent,K-Means,n_clusters,45.0,Silhouette,0.24035821147893852,45
-Apartments for Rent,K-Means,n_clusters,45.0,SSE-Elbow,13911.584444173272,45
-Apartments for Rent,K-Means,n_clusters,45.0,DB,1.406244723582566,45
-Apartments for Rent,K-Means,n_clusters,45.0,BIC,18459.016392268724,45
-Apartments for Rent,K-Means,n_clusters,50.0,VRC,1112.0644915350624,50
-Apartments for Rent,K-Means,n_clusters,50.0,Silhouette,0.2296150004887285,50
-Apartments for Rent,K-Means,n_clusters,50.0,SSE-Elbow,13216.723133160793,50
-Apartments for Rent,K-Means,n_clusters,50.0,DB,1.359223065321874,50
-Apartments for Rent,K-Means,n_clusters,50.0,BIC,18270.44811191459,50
-Apartments for Rent,K-Means,n_clusters,55.0,VRC,1051.9582379067697,55
-Apartments for Rent,K-Means,n_clusters,55.0,Silhouette,0.2365361899369279,55
-Apartments for Rent,K-Means,n_clusters,55.0,SSE-Elbow,12752.63595288054,55
-Apartments for Rent,K-Means,n_clusters,55.0,DB,1.3855184904134676,55
-Apartments for Rent,K-Means,n_clusters,55.0,BIC,18312.653962292763,55
-Apartments for Rent,K-Means,n_clusters,60.0,VRC,1029.3384110765649,60
-Apartments for Rent,K-Means,n_clusters,60.0,Silhouette,0.24581523679945852,60
-Apartments for Rent,K-Means,n_clusters,60.0,SSE-Elbow,12038.692490005084,60
-Apartments for Rent,K-Means,n_clusters,60.0,DB,1.365553997389907,60
-Apartments for Rent,K-Means,n_clusters,60.0,BIC,18104.952589058845,60
-Apartments for Rent,K-Means,n_clusters,65.0,VRC,1007.5343722632068,65
-Apartments for Rent,K-Means,n_clusters,65.0,Silhouette,0.24877467810216872,65
-Apartments for Rent,K-Means,n_clusters,65.0,SSE-Elbow,11426.417591635132,65
-Apartments for Rent,K-Means,n_clusters,65.0,DB,1.3307226041289255,65
-Apartments for Rent,K-Means,n_clusters,65.0,BIC,17999.021662364114,65
-Apartments for Rent,K-Means,n_clusters,70.0,VRC,957.355056860308,70
-Apartments for Rent,K-Means,n_clusters,70.0,Silhouette,0.25011610605662205,70
-Apartments for Rent,K-Means,n_clusters,70.0,SSE-Elbow,11184.472416274672,70
-Apartments for Rent,K-Means,n_clusters,70.0,DB,1.37280081987812,70
-Apartments for Rent,K-Means,n_clusters,70.0,BIC,18263.36951766205,70
-Apartments for Rent,K-Means,n_clusters,75.0,VRC,938.4406175184272,75
-Apartments for Rent,K-Means,n_clusters,75.0,Silhouette,0.25966675245014376,75
-Apartments for Rent,K-Means,n_clusters,75.0,SSE-Elbow,10702.159149261925,75
-Apartments for Rent,K-Means,n_clusters,75.0,DB,1.321872695683491,75
-Apartments for Rent,K-Means,n_clusters,75.0,BIC,18287.349281307692,75
-Apartments for Rent,K-Means,n_clusters,80.0,VRC,901.691776206076,80
-Apartments for Rent,K-Means,n_clusters,80.0,Silhouette,0.25036726243270774,80
-Apartments for Rent,K-Means,n_clusters,80.0,SSE-Elbow,10461.456604321776,80
-Apartments for Rent,K-Means,n_clusters,80.0,DB,1.3557096457688584,80
-Apartments for Rent,K-Means,n_clusters,80.0,BIC,18552.926294037465,80
-Apartments for Rent,K-Means,n_clusters,85.0,VRC,893.4238563412847,85
-Apartments for Rent,K-Means,n_clusters,85.0,Silhouette,0.25865995970822714,85
-Apartments for Rent,K-Means,n_clusters,85.0,SSE-Elbow,9987.108721710743,85
-Apartments for Rent,K-Means,n_clusters,85.0,DB,1.3208140065677092,85
-Apartments for Rent,K-Means,n_clusters,85.0,BIC,18584.88491507329,85
-Apartments for Rent,K-Means,n_clusters,90.0,VRC,859.6617391361651,90
-Apartments for Rent,K-Means,n_clusters,90.0,Silhouette,0.2644333784360692,90
-Apartments for Rent,K-Means,n_clusters,90.0,SSE-Elbow,9813.62303609923,90
-Apartments for Rent,K-Means,n_clusters,90.0,DB,1.3380527248383305,90
-Apartments for Rent,K-Means,n_clusters,90.0,BIC,18917.692260120195,90
-Apartments for Rent,K-Means,n_clusters,95.0,VRC,823.2097685219012,95
-Apartments for Rent,K-Means,n_clusters,95.0,Silhouette,0.2566286345845236,95
-Apartments for Rent,K-Means,n_clusters,95.0,SSE-Elbow,9711.183408780706,95
-Apartments for Rent,K-Means,n_clusters,95.0,DB,1.3428906405502503,95
-Apartments for Rent,K-Means,n_clusters,95.0,BIC,19321.545663460056,95
-Apartments for Rent,K-Means,n_clusters,100.0,VRC,827.0384014591592,100
-Apartments for Rent,K-Means,n_clusters,100.0,Silhouette,0.24879681287768865,100
-Apartments for Rent,K-Means,n_clusters,100.0,SSE-Elbow,9231.129140727757,100
-Apartments for Rent,K-Means,n_clusters,100.0,DB,1.3247849070597777,100
-Apartments for Rent,K-Means,n_clusters,100.0,BIC,19347.78442606549,100
-Apartments for Rent,K-Means,n_clusters,125.0,VRC,751.7273890660798,125
-Apartments for Rent,K-Means,n_clusters,125.0,Silhouette,0.2777098711129607,125
-Apartments for Rent,K-Means,n_clusters,125.0,SSE-Elbow,8196.811428121244,125
-Apartments for Rent,K-Means,n_clusters,125.0,DB,1.305087841374289,125
-Apartments for Rent,K-Means,n_clusters,125.0,BIC,20844.93186675096,125
-Apartments for Rent,K-Means,n_clusters,150.0,VRC,704.9344822623333,150
-Apartments for Rent,K-Means,n_clusters,150.0,Silhouette,0.27327703032295436,150
-Apartments for Rent,K-Means,n_clusters,150.0,SSE-Elbow,7336.108548119024,150
-Apartments for Rent,K-Means,n_clusters,150.0,DB,1.2776215458253637,150
-Apartments for Rent,K-Means,n_clusters,150.0,BIC,22515.69414004071,150
-Apartments for Rent,K-Means,n_clusters,175.0,VRC,652.3822203707284,175
-Apartments for Rent,K-Means,n_clusters,175.0,Silhouette,0.2574998818702919,175
-Apartments for Rent,K-Means,n_clusters,175.0,SSE-Elbow,6815.622056839593,175
-Apartments for Rent,K-Means,n_clusters,175.0,DB,1.3084883355214565,175
-Apartments for Rent,K-Means,n_clusters,175.0,BIC,24526.672802053276,175
-Apartments for Rent,K-Means,n_clusters,200.0,VRC,621.3074370739447,200
-Apartments for Rent,K-Means,n_clusters,200.0,Silhouette,0.3032978066080397,200
-Apartments for Rent,K-Means,n_clusters,200.0,SSE-Elbow,6283.412974690762,200
-Apartments for Rent,K-Means,n_clusters,200.0,DB,1.2521629217573729,200
-Apartments for Rent,K-Means,n_clusters,200.0,BIC,26525.928873196415,200
-Apartments for Rent,K-Means,n_clusters,225.0,VRC,594.7137513019333,225
-Apartments for Rent,K-Means,n_clusters,225.0,Silhouette,0.2768877164212196,225
-Apartments for Rent,K-Means,n_clusters,225.0,SSE-Elbow,5848.547277815168,225
-Apartments for Rent,K-Means,n_clusters,225.0,DB,1.2508886638759615,225
-Apartments for Rent,K-Means,n_clusters,225.0,BIC,28622.528329612796,225
-Apartments for Rent,K-Means,n_clusters,250.0,VRC,574.370211783363,250
-Apartments for Rent,K-Means,n_clusters,250.0,Silhouette,0.2796577360317639,250
-Apartments for Rent,K-Means,n_clusters,250.0,SSE-Elbow,5460.042500118709,250
-Apartments for Rent,K-Means,n_clusters,250.0,DB,1.2445275767849542,250
-Apartments for Rent,K-Means,n_clusters,250.0,BIC,30765.48632696572,250
-Apartments for Rent,K-Means,n_clusters,275.0,VRC,549.45124636008,275
-Apartments for Rent,K-Means,n_clusters,275.0,Silhouette,0.2908030095927044,275
-Apartments for Rent,K-Means,n_clusters,275.0,SSE-Elbow,5190.826492215731,275
-Apartments for Rent,K-Means,n_clusters,275.0,DB,1.2079436194387347,275
-Apartments for Rent,K-Means,n_clusters,275.0,BIC,33027.73785059731,275
-Apartments for Rent,K-Means,n_clusters,300.0,VRC,537.1273793437606,300
-Apartments for Rent,K-Means,n_clusters,300.0,Silhouette,0.2932423547597347,300
-Apartments for Rent,K-Means,n_clusters,300.0,SSE-Elbow,4872.504722247216,300
-Apartments for Rent,K-Means,n_clusters,300.0,DB,1.2086220122902631,300
-Apartments for Rent,K-Means,n_clusters,300.0,BIC,35240.88123392078,300
-Apartments for Rent,K-Means,n_clusters,325.0,VRC,519.0068203212354,325
-Apartments for Rent,K-Means,n_clusters,325.0,Silhouette,0.2941097200633565,325
-Apartments for Rent,K-Means,n_clusters,325.0,SSE-Elbow,4653.991872714619,325
-Apartments for Rent,K-Means,n_clusters,325.0,DB,1.20273616223957,325
-Apartments for Rent,K-Means,n_clusters,325.0,BIC,37553.82520099417,325
-Apartments for Rent,K-Means,n_clusters,350.0,VRC,507.9792368553741,350
-Apartments for Rent,K-Means,n_clusters,350.0,Silhouette,0.2955796721772376,350
-Apartments for Rent,K-Means,n_clusters,350.0,SSE-Elbow,4415.841749417815,350
-Apartments for Rent,K-Means,n_clusters,350.0,DB,1.173472131547791,350
-Apartments for Rent,K-Means,n_clusters,350.0,BIC,39847.13541793819,350
-Apartments for Rent,K-Means,n_clusters,375.0,VRC,500.93373301065736,375
-Apartments for Rent,K-Means,n_clusters,375.0,Silhouette,0.29678812390793463,375
-Apartments for Rent,K-Means,n_clusters,375.0,SSE-Elbow,4179.790403263026,375
-Apartments for Rent,K-Means,n_clusters,375.0,DB,1.158860871759705,375
-Apartments for Rent,K-Means,n_clusters,375.0,BIC,42142.5623748125,375
-Apartments for Rent,K-Means,n_clusters,400.0,VRC,486.8210865547457,400
-Apartments for Rent,K-Means,n_clusters,400.0,Silhouette,0.30313887149004165,400
-Apartments for Rent,K-Means,n_clusters,400.0,SSE-Elbow,4028.3973814375618,400
-Apartments for Rent,K-Means,n_clusters,400.0,DB,1.1495527636406926,400
-Apartments for Rent,K-Means,n_clusters,400.0,BIC,44522.63085177238,400
-Apartments for Rent,K-Means,n_clusters,425.0,VRC,480.8248602718175,425
-Apartments for Rent,K-Means,n_clusters,425.0,Silhouette,0.30528314932868955,425
-Apartments for Rent,K-Means,n_clusters,425.0,SSE-Elbow,3837.0381735688834,425
-Apartments for Rent,K-Means,n_clusters,425.0,DB,1.1395117551582137,425
-Apartments for Rent,K-Means,n_clusters,425.0,BIC,46862.74045170232,425
-Apartments for Rent,K-Means,n_clusters,450.0,VRC,469.9927859512335,450
-Apartments for Rent,K-Means,n_clusters,450.0,Silhouette,0.2986753992411066,450
-Apartments for Rent,K-Means,n_clusters,450.0,SSE-Elbow,3703.1998826941417,450
-Apartments for Rent,K-Means,n_clusters,450.0,DB,1.1421948820055887,450
-Apartments for Rent,K-Means,n_clusters,450.0,BIC,49260.367314119554,450
-Apartments for Rent,K-Means,n_clusters,475.0,VRC,468.18081328996175,475
-Apartments for Rent,K-Means,n_clusters,475.0,Silhouette,0.30969401614085745,475
-Apartments for Rent,K-Means,n_clusters,475.0,SSE-Elbow,3520.0140905839694,475
-Apartments for Rent,K-Means,n_clusters,475.0,DB,1.107848034947335,475
-Apartments for Rent,K-Means,n_clusters,475.0,BIC,51608.64667530136,475
-Apartments for Rent,K-Means,n_clusters,500.0,VRC,460.79075367585693,500
-Apartments for Rent,K-Means,n_clusters,500.0,Silhouette,0.31098848939509316,500
-Apartments for Rent,K-Means,n_clusters,500.0,SSE-Elbow,3393.520467856263,500
-Apartments for Rent,K-Means,n_clusters,500.0,DB,1.097044553263668,500
-Apartments for Rent,K-Means,n_clusters,500.0,BIC,54013.61820586562,500
-Apartments for Rent,K-Means,n_clusters,525.0,VRC,455.45095540099544,525
-Apartments for Rent,K-Means,n_clusters,525.0,Silhouette,0.31258486363499466,525
-Apartments for Rent,K-Means,n_clusters,525.0,SSE-Elbow,3265.8952085408378,525
-Apartments for Rent,K-Means,n_clusters,525.0,DB,1.0929928972854368,525
-Apartments for Rent,K-Means,n_clusters,525.0,BIC,56417.4575768666,525
-Apartments for Rent,K-Means,n_clusters,550.0,VRC,454.46500923384383,550
-Apartments for Rent,K-Means,n_clusters,550.0,Silhouette,0.3150076952171227,550
-Apartments for Rent,K-Means,n_clusters,550.0,SSE-Elbow,3121.105769111131,550
-Apartments for Rent,K-Means,n_clusters,550.0,DB,1.0670416255303177,550
-Apartments for Rent,K-Means,n_clusters,550.0,BIC,58804.13381370445,550
-Apartments for Rent,K-Means,n_clusters,575.0,VRC,444.4133687993556,575
-Apartments for Rent,K-Means,n_clusters,575.0,Silhouette,0.31583478922531055,575
-Apartments for Rent,K-Means,n_clusters,575.0,SSE-Elbow,3047.2871289658583,575
-Apartments for Rent,K-Means,n_clusters,575.0,DB,1.0678192332332728,575
-Apartments for Rent,K-Means,n_clusters,575.0,BIC,61261.77447502558,575
-Apartments for Rent,K-Means,n_clusters,600.0,VRC,444.7962590299044,600
-Apartments for Rent,K-Means,n_clusters,600.0,Silhouette,0.31208037806369854,600
-Apartments for Rent,K-Means,n_clusters,600.0,SSE-Elbow,2914.4662527983255,600
-Apartments for Rent,K-Means,n_clusters,600.0,DB,1.0644557783584925,600
-Apartments for Rent,K-Means,n_clusters,600.0,BIC,63660.42460397559,600
-Apartments for Rent,K-Means,n_clusters,625.0,VRC,436.0341650739606,625
-Apartments for Rent,K-Means,n_clusters,625.0,Silhouette,0.3138602529935479,625
-Apartments for Rent,K-Means,n_clusters,625.0,SSE-Elbow,2848.5488348343397,625
-Apartments for Rent,K-Means,n_clusters,625.0,DB,1.0524408395542169,625
-Apartments for Rent,K-Means,n_clusters,625.0,BIC,66125.97233930358,625
-Apartments for Rent,K-Means,n_clusters,650.0,VRC,433.22254178021507,650
-Apartments for Rent,K-Means,n_clusters,650.0,Silhouette,0.31965497119316155,650
-Apartments for Rent,K-Means,n_clusters,650.0,SSE-Elbow,2752.385905845868,650
-Apartments for Rent,K-Means,n_clusters,650.0,DB,1.0282293900188513,650
-Apartments for Rent,K-Means,n_clusters,650.0,BIC,68561.27456360709,650
-Apartments for Rent,K-Means,n_clusters,675.0,VRC,433.8296937606077,675
-Apartments for Rent,K-Means,n_clusters,675.0,Silhouette,0.3205227813882463,675
-Apartments for Rent,K-Means,n_clusters,675.0,SSE-Elbow,2642.942392820865,675
-Apartments for Rent,K-Means,n_clusters,675.0,DB,1.0362669499537227,675
-Apartments for Rent,K-Means,n_clusters,675.0,BIC,70983.29620387407,675
-Apartments for Rent,K-Means,n_clusters,700.0,VRC,429.2072503803128,700
-Apartments for Rent,K-Means,n_clusters,700.0,Silhouette,0.3142032676075712,700
-Apartments for Rent,K-Means,n_clusters,700.0,SSE-Elbow,2571.13850949447,700
-Apartments for Rent,K-Means,n_clusters,700.0,DB,1.0360343503677176,700
-Apartments for Rent,K-Means,n_clusters,700.0,BIC,73442.95223445463,700
-Apartments for Rent,K-Means,n_clusters,725.0,VRC,425.9110310499141,725
-Apartments for Rent,K-Means,n_clusters,725.0,Silhouette,0.3150754981027324,725
-Apartments for Rent,K-Means,n_clusters,725.0,SSE-Elbow,2497.01876310747,725
-Apartments for Rent,K-Means,n_clusters,725.0,DB,1.0100903157551802,725
-Apartments for Rent,K-Means,n_clusters,725.0,BIC,75900.30288074462,725
-Apartments for Rent,K-Means,n_clusters,750.0,VRC,422.19745162960066,750
-Apartments for Rent,K-Means,n_clusters,750.0,Silhouette,0.31913257333614453,750
-Apartments for Rent,K-Means,n_clusters,750.0,SSE-Elbow,2430.2478729539826,750
-Apartments for Rent,K-Means,n_clusters,750.0,DB,1.007208966846868,750
-Apartments for Rent,K-Means,n_clusters,750.0,BIC,78364.9971438831,750
-Apartments for Rent,K-Means,n_clusters,775.0,VRC,422.30752207595185,775
-Apartments for Rent,K-Means,n_clusters,775.0,Silhouette,0.31853396134948636,775
-Apartments for Rent,K-Means,n_clusters,775.0,SSE-Elbow,2347.0839480144996,775
-Apartments for Rent,K-Means,n_clusters,775.0,DB,1.0046588535931094,775
-Apartments for Rent,K-Means,n_clusters,775.0,BIC,80813.2983722356,775
-Apartments for Rent,K-Means,n_clusters,800.0,VRC,421.8075762846108,800
-Apartments for Rent,K-Means,n_clusters,800.0,Silhouette,0.32212118185063143,800
-Apartments for Rent,K-Means,n_clusters,800.0,SSE-Elbow,2272.1718606219956,800
-Apartments for Rent,K-Means,n_clusters,800.0,DB,0.9863997793627204,800
-Apartments for Rent,K-Means,n_clusters,800.0,BIC,83269.85143813507,800
-Apartments for Rent,K-Means,n_clusters,825.0,VRC,418.485840196505,825
-Apartments for Rent,K-Means,n_clusters,825.0,Silhouette,0.3181806768928013,825
-Apartments for Rent,K-Means,n_clusters,825.0,SSE-Elbow,2216.138033271515,825
-Apartments for Rent,K-Means,n_clusters,825.0,DB,0.9886882178271696,825
-Apartments for Rent,K-Means,n_clusters,825.0,BIC,85745.28276407656,825
-Apartments for Rent,K-Means,n_clusters,850.0,VRC,414.0449039739377,850
-Apartments for Rent,K-Means,n_clusters,850.0,Silhouette,0.31666640452211753,850
-Apartments for Rent,K-Means,n_clusters,850.0,SSE-Elbow,2169.2093349945612,850
-Apartments for Rent,K-Means,n_clusters,850.0,DB,0.978545248402739,850
-Apartments for Rent,K-Means,n_clusters,850.0,BIC,88229.81921909159,850
-Apartments for Rent,K-Means,n_clusters,875.0,VRC,416.19842061043255,875
-Apartments for Rent,K-Means,n_clusters,875.0,Silhouette,0.32852400637321355,875
-Apartments for Rent,K-Means,n_clusters,875.0,SSE-Elbow,2092.414937044002,875
-Apartments for Rent,K-Means,n_clusters,875.0,DB,0.9482372833484568,875
-Apartments for Rent,K-Means,n_clusters,875.0,BIC,90684.489974433,875
-Apartments for Rent,K-Means,n_clusters,900.0,VRC,414.0934266171784,900
-Apartments for Rent,K-Means,n_clusters,900.0,Silhouette,0.32586457537422914,900
-Apartments for Rent,K-Means,n_clusters,900.0,SSE-Elbow,2040.2052131713772,900
-Apartments for Rent,K-Means,n_clusters,900.0,DB,0.9486446354512276,900
-Apartments for Rent,K-Means,n_clusters,900.0,BIC,93163.74540385234,900
-Apartments for Rent,K-Means,n_clusters,925.0,VRC,414.0178594507983,925
-Apartments for Rent,K-Means,n_clusters,925.0,Silhouette,0.3216799786861417,925
-Apartments for Rent,K-Means,n_clusters,925.0,SSE-Elbow,1981.2730228067044,925
-Apartments for Rent,K-Means,n_clusters,925.0,DB,0.933543734555555,925
-Apartments for Rent,K-Means,n_clusters,925.0,BIC,95636.27836677966,925
-Apartments for Rent,K-Means,n_clusters,950.0,VRC,412.9980874290288,950
-Apartments for Rent,K-Means,n_clusters,950.0,Silhouette,0.3280748595852436,950
-Apartments for Rent,K-Means,n_clusters,950.0,SSE-Elbow,1929.6706277366477,950
-Apartments for Rent,K-Means,n_clusters,950.0,DB,0.9319375407486246,950
-Apartments for Rent,K-Means,n_clusters,950.0,BIC,98116.14112500157,950
-Apartments for Rent,K-Means,n_clusters,975.0,VRC,412.07440320068446,975
-Apartments for Rent,K-Means,n_clusters,975.0,Silhouette,0.3240117894265707,975
-Apartments for Rent,K-Means,n_clusters,975.0,SSE-Elbow,1880.226832996755,975
-Apartments for Rent,K-Means,n_clusters,975.0,DB,0.9263936583602944,975
-Apartments for Rent,K-Means,n_clusters,975.0,BIC,100598.16248355366,975
-Apartments for Rent,K-Means,n_clusters,1000.0,VRC,410.38534445351974,1000
-Apartments for Rent,K-Means,n_clusters,1000.0,Silhouette,0.31616947308237936,1000
-Apartments for Rent,K-Means,n_clusters,1000.0,SSE-Elbow,1836.5536014456084,1000
-Apartments for Rent,K-Means,n_clusters,1000.0,DB,0.9370138348979238,1000
-Apartments for Rent,K-Means,n_clusters,1000.0,BIC,103085.9461106717,1000
-Apartments for Rent,OPTICS,min_samples,2.0,VRC,5.47324855391523,2517
-Apartments for Rent,OPTICS,min_samples,2.0,Silhouette,0.100398332371141,2517
-Apartments for Rent,OPTICS,min_samples,2.0,SSE-Elbow,1702.518671175818,2517
-Apartments for Rent,OPTICS,min_samples,2.0,DB,1.1745592562744955,2517
-Apartments for Rent,OPTICS,min_samples,2.0,BIC,256429.6890679663,2517
-Apartments for Rent,OPTICS,min_samples,7.0,VRC,16.940036321988547,319
-Apartments for Rent,OPTICS,min_samples,7.0,Silhouette,-0.2190345997764488,319
-Apartments for Rent,OPTICS,min_samples,7.0,SSE-Elbow,6970.223147399125,319
-Apartments for Rent,OPTICS,min_samples,7.0,DB,1.2400014874325285,319
-Apartments for Rent,OPTICS,min_samples,7.0,BIC,38855.67117892128,319
-Apartments for Rent,OPTICS,min_samples,12.0,VRC,31.60011373278821,162
-Apartments for Rent,OPTICS,min_samples,12.0,Silhouette,-0.19569484139071025,162
-Apartments for Rent,OPTICS,min_samples,12.0,SSE-Elbow,9677.428147089984,162
-Apartments for Rent,OPTICS,min_samples,12.0,DB,1.2536025333912215,162
-Apartments for Rent,OPTICS,min_samples,12.0,BIC,25762.94159514764,162
-Apartments for Rent,OPTICS,min_samples,17.0,VRC,46.383937425138946,97
-Apartments for Rent,OPTICS,min_samples,17.0,Silhouette,-0.23294830732374244,97
-Apartments for Rent,OPTICS,min_samples,17.0,SSE-Elbow,11680.668300314188,97
-Apartments for Rent,OPTICS,min_samples,17.0,DB,1.2686519766712778,97
-Apartments for Rent,OPTICS,min_samples,17.0,BIC,21023.73733918686,97
-Apartments for Rent,OPTICS,min_samples,22.0,VRC,59.53024133785114,70
-Apartments for Rent,OPTICS,min_samples,22.0,Silhouette,-0.24476932326746437,70
-Apartments for Rent,OPTICS,min_samples,22.0,SSE-Elbow,12585.706902506843,70
-Apartments for Rent,OPTICS,min_samples,22.0,DB,1.2364299512998809,70
-Apartments for Rent,OPTICS,min_samples,22.0,BIC,19324.599233365523,70
-Apartments for Rent,OPTICS,min_samples,27.0,VRC,60.49121052862282,53
-Apartments for Rent,OPTICS,min_samples,27.0,Silhouette,-0.2736900133479805,53
-Apartments for Rent,OPTICS,min_samples,27.0,SSE-Elbow,15342.307763737448,53
-Apartments for Rent,OPTICS,min_samples,27.0,DB,1.2790606810548557,53
-Apartments for Rent,OPTICS,min_samples,27.0,BIC,20272.96292751047,53
-Apartments for Rent,OPTICS,min_samples,32.0,VRC,79.76030906640122,40
-Apartments for Rent,OPTICS,min_samples,32.0,Silhouette,-0.2548462499356341,40
-Apartments for Rent,OPTICS,min_samples,32.0,SSE-Elbow,16486.06624084057,40
-Apartments for Rent,OPTICS,min_samples,32.0,DB,1.212192459155544,40
-Apartments for Rent,OPTICS,min_samples,32.0,BIC,20100.76862216139,40
-Apartments for Rent,OPTICS,min_samples,37.0,VRC,122.50371880671877,31
-Apartments for Rent,OPTICS,min_samples,37.0,Silhouette,-0.21015584616887747,31
-Apartments for Rent,OPTICS,min_samples,37.0,SSE-Elbow,18964.26806569028,31
-Apartments for Rent,OPTICS,min_samples,37.0,DB,1.194149015205439,31
-Apartments for Rent,OPTICS,min_samples,37.0,BIC,21919.259910849345,31
-Apartments for Rent,OPTICS,min_samples,42.0,VRC,100.1868787124806,26
-Apartments for Rent,OPTICS,min_samples,42.0,Silhouette,-0.2923898646497063,26
-Apartments for Rent,OPTICS,min_samples,42.0,SSE-Elbow,20417.156785656327,26
-Apartments for Rent,OPTICS,min_samples,42.0,DB,1.2522566344488757,26
-Apartments for Rent,OPTICS,min_samples,42.0,BIC,22962.682714030103,26
-Apartments for Rent,OPTICS,min_samples,47.0,VRC,130.03754776387387,22
-Apartments for Rent,OPTICS,min_samples,47.0,Silhouette,-0.2576692579688899,22
-Apartments for Rent,OPTICS,min_samples,47.0,SSE-Elbow,22352.38723339919,22
-Apartments for Rent,OPTICS,min_samples,47.0,DB,1.2530545092370473,22
-Apartments for Rent,OPTICS,min_samples,47.0,BIC,24416.56647084142,22
-Apartments for Rent,OPTICS,min_samples,52.0,VRC,210.50141982217065,20
-Apartments for Rent,OPTICS,min_samples,52.0,Silhouette,-0.14971163943413,20
-Apartments for Rent,OPTICS,min_samples,52.0,SSE-Elbow,23114.57478426139,20
-Apartments for Rent,OPTICS,min_samples,52.0,DB,1.242194309760672,20
-Apartments for Rent,OPTICS,min_samples,52.0,BIC,24938.27067061186,20
-Apartments for Rent,OPTICS,min_samples,57.0,VRC,165.32861911189335,17
-Apartments for Rent,OPTICS,min_samples,57.0,Silhouette,-0.1837080913620121,17
-Apartments for Rent,OPTICS,min_samples,57.0,SSE-Elbow,24292.77748433647,17
-Apartments for Rent,OPTICS,min_samples,57.0,DB,1.1619226570326562,17
-Apartments for Rent,OPTICS,min_samples,57.0,BIC,25814.12249947303,17
-Apartments for Rent,OPTICS,min_samples,62.0,VRC,180.0376581468911,15
-Apartments for Rent,OPTICS,min_samples,62.0,Silhouette,-0.13063062377438903,15
-Apartments for Rent,OPTICS,min_samples,62.0,SSE-Elbow,24765.93059763109,15
-Apartments for Rent,OPTICS,min_samples,62.0,DB,1.1261930286674322,15
-Apartments for Rent,OPTICS,min_samples,62.0,BIC,26174.49619111343,15
-Apartments for Rent,OPTICS,min_samples,67.0,VRC,193.67441257072096,16
-Apartments for Rent,OPTICS,min_samples,67.0,Silhouette,-0.15903372360340112,16
-Apartments for Rent,OPTICS,min_samples,67.0,SSE-Elbow,26583.027135360047,16
-Apartments for Rent,OPTICS,min_samples,67.0,DB,1.1925086669764755,16
-Apartments for Rent,OPTICS,min_samples,67.0,BIC,27977.91228078269,16
-Apartments for Rent,OPTICS,min_samples,72.0,VRC,164.6200326208045,13
-Apartments for Rent,OPTICS,min_samples,72.0,Silhouette,-0.18420195429321728,13
-Apartments for Rent,OPTICS,min_samples,72.0,SSE-Elbow,27023.69796063006,13
-Apartments for Rent,OPTICS,min_samples,72.0,DB,1.1485075019220454,13
-Apartments for Rent,OPTICS,min_samples,72.0,BIC,28154.017664725096,13
-Apartments for Rent,OPTICS,min_samples,77.0,VRC,216.53267038335505,13
-Apartments for Rent,OPTICS,min_samples,77.0,Silhouette,-0.12740767366241865,13
-Apartments for Rent,OPTICS,min_samples,77.0,SSE-Elbow,26153.428651314593,13
-Apartments for Rent,OPTICS,min_samples,77.0,DB,1.1021793319555673,13
-Apartments for Rent,OPTICS,min_samples,77.0,BIC,27343.429804327938,13
-Apartments for Rent,OPTICS,min_samples,82.0,VRC,225.9778523035724,9
-Apartments for Rent,OPTICS,min_samples,82.0,Silhouette,-0.12141192274972004,9
-Apartments for Rent,OPTICS,min_samples,82.0,SSE-Elbow,31774.74857427559,9
-Apartments for Rent,OPTICS,min_samples,82.0,DB,1.1839219122779787,9
-Apartments for Rent,OPTICS,min_samples,82.0,BIC,32560.48723509483,9
-Apartments for Rent,OPTICS,min_samples,87.0,VRC,225.33698476252633,7
-Apartments for Rent,OPTICS,min_samples,87.0,Silhouette,-0.13569129218383758,7
-Apartments for Rent,OPTICS,min_samples,87.0,SSE-Elbow,37350.576814845255,7
-Apartments for Rent,OPTICS,min_samples,87.0,DB,1.2098395919079363,7
-Apartments for Rent,OPTICS,min_samples,87.0,BIC,37936.498370041656,7
-Apartments for Rent,OPTICS,min_samples,92.0,VRC,185.9602866169573,7
-Apartments for Rent,OPTICS,min_samples,92.0,Silhouette,-0.16906970730213616,7
-Apartments for Rent,OPTICS,min_samples,92.0,SSE-Elbow,37531.04739008202,7
-Apartments for Rent,OPTICS,min_samples,92.0,DB,1.236854757283376,7
-Apartments for Rent,OPTICS,min_samples,92.0,BIC,38208.8796184084,7
-Apartments for Rent,OPTICS,min_samples,97.0,VRC,230.83642213048583,6
-Apartments for Rent,OPTICS,min_samples,97.0,Silhouette,-0.15574633023923298,6
-Apartments for Rent,OPTICS,min_samples,97.0,SSE-Elbow,38371.34569050421,6
-Apartments for Rent,OPTICS,min_samples,97.0,DB,1.2093869274613758,6
-Apartments for Rent,OPTICS,min_samples,97.0,BIC,38871.74937356073,6
-Apartments for Rent,dbscan,eps,0.1,VRC,12.386948033076107,122
-Apartments for Rent,dbscan,eps,0.1,Silhouette,-0.49942608714685127,122
-Apartments for Rent,dbscan,eps,0.1,SSE-Elbow,9911.30044333056,122
-Apartments for Rent,dbscan,eps,0.1,DB,1.0832220249316542,122
-Apartments for Rent,dbscan,eps,0.1,BIC,22008.709988439296,122
-Apartments for Rent,dbscan,eps,0.2,VRC,24.334734130360243,209
-Apartments for Rent,dbscan,eps,0.2,Silhouette,-0.20993410410646887,209
-Apartments for Rent,dbscan,eps,0.2,SSE-Elbow,7821.1527885517135,209
-Apartments for Rent,dbscan,eps,0.2,DB,1.1579858569347796,209
-Apartments for Rent,dbscan,eps,0.2,BIC,28536.98966676219,209
-Apartments for Rent,dbscan,eps,0.30000000000000004,VRC,37.11037064614281,223
-Apartments for Rent,dbscan,eps,0.30000000000000004,Silhouette,-0.06842236417852553,223
-Apartments for Rent,dbscan,eps,0.30000000000000004,SSE-Elbow,8539.737663884536,223
-Apartments for Rent,dbscan,eps,0.30000000000000004,DB,1.1903660615413487,223
-Apartments for Rent,dbscan,eps,0.30000000000000004,BIC,30723.627056894817,223
-Apartments for Rent,dbscan,eps,0.4,VRC,52.2108385601885,223
-Apartments for Rent,dbscan,eps,0.4,Silhouette,0.008383371855011382,223
-Apartments for Rent,dbscan,eps,0.4,SSE-Elbow,7517.506521244878,223
-Apartments for Rent,dbscan,eps,0.4,DB,1.215186020510565,223
-Apartments for Rent,dbscan,eps,0.4,BIC,29774.99361138828,223
-Apartments for Rent,dbscan,eps,0.5,VRC,69.91473840972087,200
-Apartments for Rent,dbscan,eps,0.5,Silhouette,0.05894823084219889,200
-Apartments for Rent,dbscan,eps,0.5,SSE-Elbow,7731.145635175922,200
-Apartments for Rent,dbscan,eps,0.5,DB,1.263278922556652,200
-Apartments for Rent,dbscan,eps,0.5,BIC,27512.81220685226,200
-Apartments for Rent,dbscan,eps,0.6,VRC,77.7379195155964,196
-Apartments for Rent,dbscan,eps,0.6,Silhouette,0.05942668515745596,196
-Apartments for Rent,dbscan,eps,0.6,SSE-Elbow,8698.32992985814,196
-Apartments for Rent,dbscan,eps,0.6,DB,1.3046150008881965,196
-Apartments for Rent,dbscan,eps,0.6,BIC,28049.48731269112,196
-Apartments for Rent,dbscan,eps,0.7000000000000001,VRC,84.15907391315586,180
-Apartments for Rent,dbscan,eps,0.7000000000000001,Silhouette,-0.002218534238535638,180
-Apartments for Rent,dbscan,eps,0.7000000000000001,SSE-Elbow,8003.576228572558,180
-Apartments for Rent,dbscan,eps,0.7000000000000001,DB,1.356802244736668,180
-Apartments for Rent,dbscan,eps,0.7000000000000001,BIC,25930.468509703856,180
-Apartments for Rent,dbscan,eps,0.8,VRC,102.51772875393983,150
-Apartments for Rent,dbscan,eps,0.8,Silhouette,-0.034169142020633265,150
-Apartments for Rent,dbscan,eps,0.8,SSE-Elbow,9167.372187279308,150
-Apartments for Rent,dbscan,eps,0.8,DB,1.4420557778947285,150
-Apartments for Rent,dbscan,eps,0.8,BIC,24079.68728402823,150
-Apartments for Rent,dbscan,eps,0.9,VRC,124.33265048424856,97
-Apartments for Rent,dbscan,eps,0.9,Silhouette,-0.1749518828627937,97
-Apartments for Rent,dbscan,eps,0.9,SSE-Elbow,11273.4920284111,97
-Apartments for Rent,dbscan,eps,0.9,DB,1.445516034361795,97
-Apartments for Rent,dbscan,eps,0.9,BIC,20850.24984276817,97
-Apartments for Rent,dbscan,eps,1.0,VRC,253.39058579536385,43
-Apartments for Rent,dbscan,eps,1.0,Silhouette,-0.13413862035594226,43
-Apartments for Rent,dbscan,eps,1.0,SSE-Elbow,16487.68516177442,43
-Apartments for Rent,dbscan,eps,1.0,DB,1.5760657180448605,43
-Apartments for Rent,dbscan,eps,1.0,BIC,20679.55966488434,43
-Apartments for Rent,dbscan,eps,1.1,VRC,1011.5420157925208,7
-Apartments for Rent,dbscan,eps,1.1,Silhouette,0.24280174817004543,7
-Apartments for Rent,dbscan,eps,1.1,SSE-Elbow,36887.21662799309,7
-Apartments for Rent,dbscan,eps,1.1,DB,1.4385103601376277,7
-Apartments for Rent,dbscan,eps,1.1,BIC,37496.78053371627,7
-Apartments for Rent,dbscan,eps,1.2000000000000002,VRC,866.0103601500251,8
-Apartments for Rent,dbscan,eps,1.2000000000000002,Silhouette,0.23368389506314785,8
-Apartments for Rent,dbscan,eps,1.2000000000000002,SSE-Elbow,34264.053277579646,8
-Apartments for Rent,dbscan,eps,1.2000000000000002,DB,1.5336815471077865,8
-Apartments for Rent,dbscan,eps,1.2000000000000002,BIC,34951.26070321253,8
-Apartments for Rent,dbscan,eps,1.3000000000000005,VRC,1440.204023536142,5
-Apartments for Rent,dbscan,eps,1.3000000000000005,Silhouette,0.2888970960438659,5
-Apartments for Rent,dbscan,eps,1.3000000000000005,SSE-Elbow,41713.45525244897,5
-Apartments for Rent,dbscan,eps,1.3000000000000005,DB,1.0786649852492725,5
-Apartments for Rent,dbscan,eps,1.3000000000000005,BIC,42162.78523432452,5
-Apartments for Rent,dbscan,eps,1.4,VRC,1119.1812296727617,6
-Apartments for Rent,dbscan,eps,1.4,Silhouette,0.25883121377429485,6
-Apartments for Rent,dbscan,eps,1.4,SSE-Elbow,37468.148671609495,6
-Apartments for Rent,dbscan,eps,1.4,DB,1.6842352977174573,6
-Apartments for Rent,dbscan,eps,1.4,BIC,38016.946680874215,6
-Apartments for Rent,dbscan,eps,1.5000000000000002,VRC,447.08004142497174,3
-Apartments for Rent,dbscan,eps,1.5000000000000002,Silhouette,0.3826498487505262,3
-Apartments for Rent,dbscan,eps,1.5000000000000002,SSE-Elbow,51148.34391474255,3
-Apartments for Rent,dbscan,eps,1.5000000000000002,DB,1.0897384809741977,3
-Apartments for Rent,dbscan,eps,1.5000000000000002,BIC,50751.79231330743,3
-Apartments for Rent,dbscan,eps,1.6,VRC,286.20941135192817,4
-Apartments for Rent,dbscan,eps,1.6,Silhouette,0.3678150237880485,4
-Apartments for Rent,dbscan,eps,1.6,SSE-Elbow,48339.731667604734,4
-Apartments for Rent,dbscan,eps,1.6,DB,1.999176151329049,4
-Apartments for Rent,dbscan,eps,1.6,BIC,48457.482962078946,4
-Apartments for Rent,dbscan,eps,1.7000000000000002,VRC,285.3249693168972,4
-Apartments for Rent,dbscan,eps,1.7000000000000002,Silhouette,0.300778234658079,4
-Apartments for Rent,dbscan,eps,1.7000000000000002,SSE-Elbow,46333.7738573183,4
-Apartments for Rent,dbscan,eps,1.7000000000000002,DB,0.9490974033884764,4
-Apartments for Rent,dbscan,eps,1.7000000000000002,BIC,46297.6687740182,4
-Apartments for Rent,dbscan,eps,1.8000000000000005,VRC,272.87612112915843,4
-Apartments for Rent,dbscan,eps,1.8000000000000005,Silhouette,0.30057624276826306,4
-Apartments for Rent,dbscan,eps,1.8000000000000005,SSE-Elbow,48322.310215028374,4
-Apartments for Rent,dbscan,eps,1.8000000000000005,DB,0.9197189664856764,4
-Apartments for Rent,dbscan,eps,1.8000000000000005,BIC,48503.990523112734,4
-Apartments for Rent,dbscan,eps,1.9,VRC,259.5470793503434,4
-Apartments for Rent,dbscan,eps,1.9,Silhouette,0.3003538036532303,4
-Apartments for Rent,dbscan,eps,1.9,SSE-Elbow,44497.57657757038,4
-Apartments for Rent,dbscan,eps,1.9,DB,0.9152592445416872,4
-Apartments for Rent,dbscan,eps,1.9,BIC,44828.483510724705,4
-Apartments for Rent,dbscan,eps,2.0,VRC,250.1460702922953,4
-Apartments for Rent,dbscan,eps,2.0,Silhouette,0.3198335317326882,4
-Apartments for Rent,dbscan,eps,2.0,SSE-Elbow,46854.40631156595,4
-Apartments for Rent,dbscan,eps,2.0,DB,0.9417335318215097,4
-Apartments for Rent,dbscan,eps,2.0,BIC,47230.97575909025,4
+Apartments for Rent,K-Means,n_clusters,1.0,BIC,76100.32290903424,1
+Apartments for Rent,K-Means,n_clusters,2.0,VRC,2676.2916578152885,2
+Apartments for Rent,K-Means,n_clusters,2.0,Silhouette,0.2489875439112656,2
+Apartments for Rent,K-Means,n_clusters,2.0,SSE-Elbow,59894.90235856235,2
+Apartments for Rent,K-Means,n_clusters,2.0,DB,1.7197874691787869,2
+Apartments for Rent,K-Means,n_clusters,2.0,BIC,60088.17860500938,2
+Apartments for Rent,K-Means,n_clusters,3.0,VRC,2599.831395206711,3
+Apartments for Rent,K-Means,n_clusters,3.0,Silhouette,0.2580295331657707,3
+Apartments for Rent,K-Means,n_clusters,3.0,SSE-Elbow,49915.61241145159,3
+Apartments for Rent,K-Means,n_clusters,3.0,DB,1.463760123819031,3
+Apartments for Rent,K-Means,n_clusters,3.0,BIC,50210.13727108485,3
+Apartments for Rent,K-Means,n_clusters,4.0,VRC,2168.0304752954553,4
+Apartments for Rent,K-Means,n_clusters,4.0,Silhouette,0.2520765993052114,4
+Apartments for Rent,K-Means,n_clusters,4.0,SSE-Elbow,45955.87416392636,4
+Apartments for Rent,K-Means,n_clusters,4.0,DB,1.5075749959429787,4
+Apartments for Rent,K-Means,n_clusters,4.0,BIC,46351.69828765053,4
+Apartments for Rent,K-Means,n_clusters,5.0,VRC,2155.9204898400067,5
+Apartments for Rent,K-Means,n_clusters,5.0,Silhouette,0.23001673398777975,5
+Apartments for Rent,K-Means,n_clusters,5.0,SSE-Elbow,40708.44894279665,5
+Apartments for Rent,K-Means,n_clusters,5.0,DB,1.4742292660359664,5
+Apartments for Rent,K-Means,n_clusters,5.0,BIC,41205.53664562489,5
+Apartments for Rent,K-Means,n_clusters,6.0,VRC,1842.5181472373424,6
+Apartments for Rent,K-Means,n_clusters,6.0,Silhouette,0.1830781232965749,6
+Apartments for Rent,K-Means,n_clusters,6.0,SSE-Elbow,39455.17339682397,6
+Apartments for Rent,K-Means,n_clusters,6.0,DB,1.6082978816873696,6
+Apartments for Rent,K-Means,n_clusters,6.0,BIC,40053.5000791062,6
+Apartments for Rent,K-Means,n_clusters,7.0,VRC,1752.8864635956595,7
+Apartments for Rent,K-Means,n_clusters,7.0,Silhouette,0.1876430476864572,7
+Apartments for Rent,K-Means,n_clusters,7.0,SSE-Elbow,36937.38385510483,7
+Apartments for Rent,K-Means,n_clusters,7.0,DB,1.6638089624962489,7
+Apartments for Rent,K-Means,n_clusters,7.0,BIC,37636.96806209129,7
+Apartments for Rent,K-Means,n_clusters,8.0,VRC,1833.0817552640456,8
+Apartments for Rent,K-Means,n_clusters,8.0,Silhouette,0.2435687691272385,8
+Apartments for Rent,K-Means,n_clusters,8.0,SSE-Elbow,33182.10101476291,8
+Apartments for Rent,K-Means,n_clusters,8.0,DB,1.4703675895840478,8
+Apartments for Rent,K-Means,n_clusters,8.0,BIC,33982.93118941886,8
+Apartments for Rent,K-Means,n_clusters,9.0,VRC,1803.7779211078623,9
+Apartments for Rent,K-Means,n_clusters,9.0,Silhouette,0.2624486708118197,9
+Apartments for Rent,K-Means,n_clusters,9.0,SSE-Elbow,31003.704531487663,9
+Apartments for Rent,K-Means,n_clusters,9.0,DB,1.3110839102831484,9
+Apartments for Rent,K-Means,n_clusters,9.0,BIC,31905.826658842667,9
+Apartments for Rent,K-Means,n_clusters,10.0,VRC,1747.0115325929844,10
+Apartments for Rent,K-Means,n_clusters,10.0,Silhouette,0.22605564261597688,10
+Apartments for Rent,K-Means,n_clusters,10.0,SSE-Elbow,29440.033770134625,10
+Apartments for Rent,K-Means,n_clusters,10.0,DB,1.4719261610205538,10
+Apartments for Rent,K-Means,n_clusters,10.0,BIC,30443.39727293756,10
+Apartments for Rent,K-Means,n_clusters,11.0,VRC,1664.99517647444,11
+Apartments for Rent,K-Means,n_clusters,11.0,Silhouette,0.22980713050529816,11
+Apartments for Rent,K-Means,n_clusters,11.0,SSE-Elbow,28412.043075339163,11
+Apartments for Rent,K-Means,n_clusters,11.0,DB,1.44670988098977,11
+Apartments for Rent,K-Means,n_clusters,11.0,BIC,29516.672974638688,11
+Apartments for Rent,K-Means,n_clusters,12.0,VRC,1633.0474750368617,12
+Apartments for Rent,K-Means,n_clusters,12.0,Silhouette,0.23495054110119987,12
+Apartments for Rent,K-Means,n_clusters,12.0,SSE-Elbow,27072.75541512781,12
+Apartments for Rent,K-Means,n_clusters,12.0,DB,1.4245156506247862,12
+Apartments for Rent,K-Means,n_clusters,12.0,BIC,28278.62098529893,12
+Apartments for Rent,K-Means,n_clusters,13.0,VRC,1569.6865482368082,13
+Apartments for Rent,K-Means,n_clusters,13.0,Silhouette,0.2295944608669834,13
+Apartments for Rent,K-Means,n_clusters,13.0,SSE-Elbow,26249.88401117952,13
+Apartments for Rent,K-Means,n_clusters,13.0,DB,1.4358585614170576,13
+Apartments for Rent,K-Means,n_clusters,13.0,BIC,27557.04056306122,13
+Apartments for Rent,K-Means,n_clusters,14.0,VRC,1495.4032768103311,14
+Apartments for Rent,K-Means,n_clusters,14.0,Silhouette,0.2181592613652432,14
+Apartments for Rent,K-Means,n_clusters,14.0,SSE-Elbow,25708.48423824449,14
+Apartments for Rent,K-Means,n_clusters,14.0,DB,1.4614313317042569,14
+Apartments for Rent,K-Means,n_clusters,14.0,BIC,27116.88228132889,14
+Apartments for Rent,K-Means,n_clusters,15.0,VRC,1491.5998646717555,15
+Apartments for Rent,K-Means,n_clusters,15.0,Silhouette,0.2224153789359017,15
+Apartments for Rent,K-Means,n_clusters,15.0,SSE-Elbow,24503.780119614363,15
+Apartments for Rent,K-Means,n_clusters,15.0,DB,1.4689048862174554,15
+Apartments for Rent,K-Means,n_clusters,15.0,BIC,26013.434795446927,15
+Apartments for Rent,K-Means,n_clusters,16.0,VRC,1421.230533614557,16
+Apartments for Rent,K-Means,n_clusters,16.0,Silhouette,0.21685870335146684,16
+Apartments for Rent,K-Means,n_clusters,16.0,SSE-Elbow,24160.255170613254,16
+Apartments for Rent,K-Means,n_clusters,16.0,DB,1.5090747413498835,16
+Apartments for Rent,K-Means,n_clusters,16.0,BIC,25771.148837403303,16
+Apartments for Rent,K-Means,n_clusters,17.0,VRC,1478.767865547808,17
+Apartments for Rent,K-Means,n_clusters,17.0,Silhouette,0.2304765170856475,17
+Apartments for Rent,K-Means,n_clusters,17.0,SSE-Elbow,22474.45072899977,17
+Apartments for Rent,K-Means,n_clusters,17.0,DB,1.4457658981969792,17
+Apartments for Rent,K-Means,n_clusters,17.0,BIC,24186.626660996997,17
+Apartments for Rent,K-Means,n_clusters,18.0,VRC,1477.1034644778656,18
+Apartments for Rent,K-Means,n_clusters,18.0,Silhouette,0.23512197499735868,18
+Apartments for Rent,K-Means,n_clusters,18.0,SSE-Elbow,21542.666980106605,18
+Apartments for Rent,K-Means,n_clusters,18.0,DB,1.392520431414897,18
+Apartments for Rent,K-Means,n_clusters,18.0,BIC,23356.10654657103,18
+Apartments for Rent,K-Means,n_clusters,19.0,VRC,1440.9985270328257,19
+Apartments for Rent,K-Means,n_clusters,19.0,Silhouette,0.22882444792299617,19
+Apartments for Rent,K-Means,n_clusters,19.0,SSE-Elbow,21044.33478538248,19
+Apartments for Rent,K-Means,n_clusters,19.0,DB,1.39169425349992,19
+Apartments for Rent,K-Means,n_clusters,19.0,BIC,22959.027340570326,19
+Apartments for Rent,K-Means,n_clusters,20.0,VRC,1427.593694964051,20
+Apartments for Rent,K-Means,n_clusters,20.0,Silhouette,0.2360741823032985,20
+Apartments for Rent,K-Means,n_clusters,20.0,SSE-Elbow,20369.12736405091,20
+Apartments for Rent,K-Means,n_clusters,20.0,DB,1.383531012054542,20
+Apartments for Rent,K-Means,n_clusters,20.0,BIC,22385.06081771857,20
+Apartments for Rent,K-Means,n_clusters,21.0,VRC,1407.8801207035626,21
+Apartments for Rent,K-Means,n_clusters,21.0,Silhouette,0.2352267403822172,21
+Apartments for Rent,K-Means,n_clusters,21.0,SSE-Elbow,19815.002161619017,21
+Apartments for Rent,K-Means,n_clusters,21.0,DB,1.3676585470875473,21
+Apartments for Rent,K-Means,n_clusters,21.0,BIC,21932.227562554097,21
+Apartments for Rent,K-Means,n_clusters,22.0,VRC,1366.135651215674,22
+Apartments for Rent,K-Means,n_clusters,22.0,Silhouette,0.23488814809174,22
+Apartments for Rent,K-Means,n_clusters,22.0,SSE-Elbow,19540.954965910976,22
+Apartments for Rent,K-Means,n_clusters,22.0,DB,1.3796525056799434,22
+Apartments for Rent,K-Means,n_clusters,22.0,BIC,21759.438972977772,22
+Apartments for Rent,K-Means,n_clusters,23.0,VRC,1326.015575927318,23
+Apartments for Rent,K-Means,n_clusters,23.0,Silhouette,0.22635295205049832,23
+Apartments for Rent,K-Means,n_clusters,23.0,SSE-Elbow,19297.87155208316,23
+Apartments for Rent,K-Means,n_clusters,23.0,DB,1.4186307819320834,23
+Apartments for Rent,K-Means,n_clusters,23.0,BIC,21617.614165281648,23
+Apartments for Rent,K-Means,n_clusters,24.0,VRC,1328.702720356305,24
+Apartments for Rent,K-Means,n_clusters,24.0,Silhouette,0.23667471301736287,24
+Apartments for Rent,K-Means,n_clusters,24.0,SSE-Elbow,18634.996578056755,24
+Apartments for Rent,K-Means,n_clusters,24.0,DB,1.374664931997872,24
+Apartments for Rent,K-Means,n_clusters,24.0,BIC,21055.962808585275,24
+Apartments for Rent,K-Means,n_clusters,25.0,VRC,1297.6004516513094,25
+Apartments for Rent,K-Means,n_clusters,25.0,Silhouette,0.23224273383250024,25
+Apartments for Rent,K-Means,n_clusters,25.0,SSE-Elbow,18369.360538235313,25
+Apartments for Rent,K-Means,n_clusters,25.0,DB,1.3950673769379756,25
+Apartments for Rent,K-Means,n_clusters,25.0,BIC,20891.62036369712,25
+Apartments for Rent,K-Means,n_clusters,26.0,VRC,1275.628028024538,26
+Apartments for Rent,K-Means,n_clusters,26.0,Silhouette,0.2328885819251322,26
+Apartments for Rent,K-Means,n_clusters,26.0,SSE-Elbow,18039.273932220964,26
+Apartments for Rent,K-Means,n_clusters,26.0,DB,1.37922942304874,26
+Apartments for Rent,K-Means,n_clusters,26.0,BIC,20662.77388904857,26
+Apartments for Rent,K-Means,n_clusters,27.0,VRC,1246.4738196004143,27
+Apartments for Rent,K-Means,n_clusters,27.0,Silhouette,0.2288134789811588,27
+Apartments for Rent,K-Means,n_clusters,27.0,SSE-Elbow,17817.305764304925,27
+Apartments for Rent,K-Means,n_clusters,27.0,DB,1.4350918625055682,27
+Apartments for Rent,K-Means,n_clusters,27.0,BIC,20542.08280203011,27
+Apartments for Rent,K-Means,n_clusters,28.0,VRC,1228.456462362101,28
+Apartments for Rent,K-Means,n_clusters,28.0,Silhouette,0.23235747730498735,28
+Apartments for Rent,K-Means,n_clusters,28.0,SSE-Elbow,17501.70276763788,28
+Apartments for Rent,K-Means,n_clusters,28.0,DB,1.4368282751399524,28
+Apartments for Rent,K-Means,n_clusters,28.0,BIC,20327.73841149475,28
+Apartments for Rent,K-Means,n_clusters,29.0,VRC,1203.951919428616,29
+Apartments for Rent,K-Means,n_clusters,29.0,Silhouette,0.23322100193995068,29
+Apartments for Rent,K-Means,n_clusters,29.0,SSE-Elbow,17282.83089204213,29
+Apartments for Rent,K-Means,n_clusters,29.0,DB,1.4377261335767506,29
+Apartments for Rent,K-Means,n_clusters,29.0,BIC,20210.11482403507,29
+Apartments for Rent,K-Means,n_clusters,30.0,VRC,1177.7663226686643,30
+Apartments for Rent,K-Means,n_clusters,30.0,Silhouette,0.23310115533287176,30
+Apartments for Rent,K-Means,n_clusters,30.0,SSE-Elbow,17107.163102111124,30
+Apartments for Rent,K-Means,n_clusters,30.0,DB,1.4396848906126962,30
+Apartments for Rent,K-Means,n_clusters,30.0,BIC,20135.715958231303,30
+Apartments for Rent,K-Means,n_clusters,35.0,VRC,1110.592370969414,35
+Apartments for Rent,K-Means,n_clusters,35.0,Silhouette,0.2325684602638918,35
+Apartments for Rent,K-Means,n_clusters,35.0,SSE-Elbow,15807.444017539216,35
+Apartments for Rent,K-Means,n_clusters,35.0,DB,1.4297310313420095,35
+Apartments for Rent,K-Means,n_clusters,35.0,BIC,19342.287326895712,35
+Apartments for Rent,K-Means,n_clusters,40.0,VRC,1046.323030646087,40
+Apartments for Rent,K-Means,n_clusters,40.0,Silhouette,0.23160512744485137,40
+Apartments for Rent,K-Means,n_clusters,40.0,SSE-Elbow,14851.992538663904,40
+Apartments for Rent,K-Means,n_clusters,40.0,DB,1.4613246730135798,40
+Apartments for Rent,K-Means,n_clusters,40.0,BIC,18893.11990286299,40
+Apartments for Rent,K-Means,n_clusters,45.0,VRC,1001.2443252582672,45
+Apartments for Rent,K-Means,n_clusters,45.0,Silhouette,0.2357817756024054,45
+Apartments for Rent,K-Means,n_clusters,45.0,SSE-Elbow,13952.28677575731,45
+Apartments for Rent,K-Means,n_clusters,45.0,DB,1.4357759425790362,45
+Apartments for Rent,K-Means,n_clusters,45.0,BIC,18499.71872385273,45
+Apartments for Rent,K-Means,n_clusters,50.0,VRC,957.3799835045156,50
+Apartments for Rent,K-Means,n_clusters,50.0,Silhouette,0.23839253389362144,50
+Apartments for Rent,K-Means,n_clusters,50.0,SSE-Elbow,13245.210751780643,50
+Apartments for Rent,K-Means,n_clusters,50.0,DB,1.3847656669183726,50
+Apartments for Rent,K-Means,n_clusters,50.0,BIC,18298.93573053444,50
+Apartments for Rent,K-Means,n_clusters,55.0,VRC,931.0442491326238,55
+Apartments for Rent,K-Means,n_clusters,55.0,Silhouette,0.24834030217075775,55
+Apartments for Rent,K-Means,n_clusters,55.0,SSE-Elbow,12499.326255072574,55
+Apartments for Rent,K-Means,n_clusters,55.0,DB,1.3672742309858548,55
+Apartments for Rent,K-Means,n_clusters,55.0,BIC,18059.34426448476,55
+Apartments for Rent,K-Means,n_clusters,60.0,VRC,900.5958627224636,60
+Apartments for Rent,K-Means,n_clusters,60.0,Silhouette,0.2513447029054955,60
+Apartments for Rent,K-Means,n_clusters,60.0,SSE-Elbow,11927.329268859245,60
+Apartments for Rent,K-Means,n_clusters,60.0,DB,1.3967352288681454,60
+Apartments for Rent,K-Means,n_clusters,60.0,BIC,17993.640308929844,60
+Apartments for Rent,K-Means,n_clusters,65.0,VRC,873.7094517138929,65
+Apartments for Rent,K-Means,n_clusters,65.0,Silhouette,0.25478968117576845,65
+Apartments for Rent,K-Means,n_clusters,65.0,SSE-Elbow,11418.150238292594,65
+Apartments for Rent,K-Means,n_clusters,65.0,DB,1.3780687170176429,65
+Apartments for Rent,K-Means,n_clusters,65.0,BIC,17990.75430902158,65
+Apartments for Rent,K-Means,n_clusters,70.0,VRC,848.3698625569581,70
+Apartments for Rent,K-Means,n_clusters,70.0,Silhouette,0.25684726686611764,70
+Apartments for Rent,K-Means,n_clusters,70.0,SSE-Elbow,10976.160759454888,70
+Apartments for Rent,K-Means,n_clusters,70.0,DB,1.3615423344932,70
+Apartments for Rent,K-Means,n_clusters,70.0,BIC,18055.057860842266,70
+Apartments for Rent,K-Means,n_clusters,75.0,VRC,818.141810940621,75
+Apartments for Rent,K-Means,n_clusters,75.0,Silhouette,0.2532809394563435,75
+Apartments for Rent,K-Means,n_clusters,75.0,SSE-Elbow,10659.036754222274,75
+Apartments for Rent,K-Means,n_clusters,75.0,DB,1.3836395932293315,75
+Apartments for Rent,K-Means,n_clusters,75.0,BIC,18244.21276782852,75
+Apartments for Rent,K-Means,n_clusters,80.0,VRC,794.6802718998896,80
+Apartments for Rent,K-Means,n_clusters,80.0,Silhouette,0.26079725178403546,80
+Apartments for Rent,K-Means,n_clusters,80.0,SSE-Elbow,10326.280671775208,80
+Apartments for Rent,K-Means,n_clusters,80.0,DB,1.375337813071953,80
+Apartments for Rent,K-Means,n_clusters,80.0,BIC,18417.763834479378,80
+Apartments for Rent,K-Means,n_clusters,85.0,VRC,780.199717033673,85
+Apartments for Rent,K-Means,n_clusters,85.0,Silhouette,0.26356243960449965,85
+Apartments for Rent,K-Means,n_clusters,85.0,SSE-Elbow,9944.34902450758,85
+Apartments for Rent,K-Means,n_clusters,85.0,DB,1.3505370618669614,85
+Apartments for Rent,K-Means,n_clusters,85.0,BIC,18542.12521787014,85
+Apartments for Rent,K-Means,n_clusters,90.0,VRC,763.2684196826094,90
+Apartments for Rent,K-Means,n_clusters,90.0,Silhouette,0.26524732395835476,90
+Apartments for Rent,K-Means,n_clusters,90.0,SSE-Elbow,9634.052840946772,90
+Apartments for Rent,K-Means,n_clusters,90.0,DB,1.3439102380136267,90
+Apartments for Rent,K-Means,n_clusters,90.0,BIC,18738.122064967734,90
+Apartments for Rent,K-Means,n_clusters,95.0,VRC,743.5785968204016,95
+Apartments for Rent,K-Means,n_clusters,95.0,Silhouette,0.2659829100069245,95
+Apartments for Rent,K-Means,n_clusters,95.0,SSE-Elbow,9392.457172797123,95
+Apartments for Rent,K-Means,n_clusters,95.0,DB,1.35331637281392,95
+Apartments for Rent,K-Means,n_clusters,95.0,BIC,19002.819427476483,95
+Apartments for Rent,K-Means,n_clusters,100.0,VRC,728.1526666456325,100
+Apartments for Rent,K-Means,n_clusters,100.0,Silhouette,0.2677447482765127,100
+Apartments for Rent,K-Means,n_clusters,100.0,SSE-Elbow,9137.269051015684,100
+Apartments for Rent,K-Means,n_clusters,100.0,DB,1.3553188876271651,100
+Apartments for Rent,K-Means,n_clusters,100.0,BIC,19253.924336353437,100
+Apartments for Rent,K-Means,n_clusters,125.0,VRC,657.266873231454,125
+Apartments for Rent,K-Means,n_clusters,125.0,Silhouette,0.2706414946971058,125
+Apartments for Rent,K-Means,n_clusters,125.0,SSE-Elbow,8177.085326575005,125
+Apartments for Rent,K-Means,n_clusters,125.0,DB,1.3406527851843897,125
+Apartments for Rent,K-Means,n_clusters,125.0,BIC,20825.20576520473,125
+Apartments for Rent,K-Means,n_clusters,150.0,VRC,617.3804940217509,150
+Apartments for Rent,K-Means,n_clusters,150.0,Silhouette,0.2854247186447095,150
+Apartments for Rent,K-Means,n_clusters,150.0,SSE-Elbow,7317.864947083613,150
+Apartments for Rent,K-Means,n_clusters,150.0,DB,1.306064281140915,150
+Apartments for Rent,K-Means,n_clusters,150.0,BIC,22497.429039222905,150
+Apartments for Rent,K-Means,n_clusters,175.0,VRC,586.1464995614731,175
+Apartments for Rent,K-Means,n_clusters,175.0,Silhouette,0.2866887449382174,175
+Apartments for Rent,K-Means,n_clusters,175.0,SSE-Elbow,6647.736051942112,175
+Apartments for Rent,K-Means,n_clusters,175.0,DB,1.2800041650932843,175
+Apartments for Rent,K-Means,n_clusters,175.0,BIC,24358.78679715578,175
+Apartments for Rent,K-Means,n_clusters,200.0,VRC,549.2008858237558,200
+Apartments for Rent,K-Means,n_clusters,200.0,Silhouette,0.28696338484982886,200
+Apartments for Rent,K-Means,n_clusters,200.0,SSE-Elbow,6225.424656827424,200
+Apartments for Rent,K-Means,n_clusters,200.0,DB,1.2548972401226637,200
+Apartments for Rent,K-Means,n_clusters,200.0,BIC,26467.94055533308,200
+Apartments for Rent,K-Means,n_clusters,225.0,VRC,524.0534729294491,225
+Apartments for Rent,K-Means,n_clusters,225.0,Silhouette,0.2776246178608439,225
+Apartments for Rent,K-Means,n_clusters,225.0,SSE-Elbow,5815.145189422758,225
+Apartments for Rent,K-Means,n_clusters,225.0,DB,1.244027442229071,225
+Apartments for Rent,K-Means,n_clusters,225.0,BIC,28589.126241220387,225
+Apartments for Rent,K-Means,n_clusters,250.0,VRC,507.4241858768835,250
+Apartments for Rent,K-Means,n_clusters,250.0,Silhouette,0.28583181904877697,250
+Apartments for Rent,K-Means,n_clusters,250.0,SSE-Elbow,5419.240585050518,250
+Apartments for Rent,K-Means,n_clusters,250.0,DB,1.2406436660406055,250
+Apartments for Rent,K-Means,n_clusters,250.0,BIC,30724.686790140127,250
+Apartments for Rent,K-Means,n_clusters,275.0,VRC,491.0811154517323,275
+Apartments for Rent,K-Means,n_clusters,275.0,Silhouette,0.291978466333879,275
+Apartments for Rent,K-Means,n_clusters,275.0,SSE-Elbow,5098.6185927905835,275
+Apartments for Rent,K-Means,n_clusters,275.0,DB,1.221495963239552,275
+Apartments for Rent,K-Means,n_clusters,275.0,BIC,32935.52995117217,275
+Apartments for Rent,K-Means,n_clusters,300.0,VRC,475.47541630688073,300
+Apartments for Rent,K-Means,n_clusters,300.0,Silhouette,0.2942134953947844,300
+Apartments for Rent,K-Means,n_clusters,300.0,SSE-Elbow,4831.336937028278,300
+Apartments for Rent,K-Means,n_clusters,300.0,DB,1.2025546746902231,300
+Apartments for Rent,K-Means,n_clusters,300.0,BIC,35199.71344870184,300
+Apartments for Rent,K-Means,n_clusters,325.0,VRC,462.57127203460254,325
+Apartments for Rent,K-Means,n_clusters,325.0,Silhouette,0.2983345638535151,325
+Apartments for Rent,K-Means,n_clusters,325.0,SSE-Elbow,4586.760790575928,325
+Apartments for Rent,K-Means,n_clusters,325.0,DB,1.1884115332786775,325
+Apartments for Rent,K-Means,n_clusters,325.0,BIC,37486.60245554147,325
+Apartments for Rent,K-Means,n_clusters,350.0,VRC,454.3092622716635,350
+Apartments for Rent,K-Means,n_clusters,350.0,Silhouette,0.29939279064170243,350
+Apartments for Rent,K-Means,n_clusters,350.0,SSE-Elbow,4339.353694940532,350
+Apartments for Rent,K-Means,n_clusters,350.0,DB,1.1643481979349788,350
+Apartments for Rent,K-Means,n_clusters,350.0,BIC,39770.660513198054,350
+Apartments for Rent,K-Means,n_clusters,375.0,VRC,443.36466128712686,375
+Apartments for Rent,K-Means,n_clusters,375.0,Silhouette,0.29855954311159827,375
+Apartments for Rent,K-Means,n_clusters,375.0,SSE-Elbow,4149.410701432819,375
+Apartments for Rent,K-Means,n_clusters,375.0,DB,1.1558407988161317,375
+Apartments for Rent,K-Means,n_clusters,375.0,BIC,42112.18267298231,375
+Apartments for Rent,K-Means,n_clusters,400.0,VRC,433.2582090817372,400
+Apartments for Rent,K-Means,n_clusters,400.0,Silhouette,0.29899734984750465,400
+Apartments for Rent,K-Means,n_clusters,400.0,SSE-Elbow,3979.1627771560225,400
+Apartments for Rent,K-Means,n_clusters,400.0,DB,1.1539693502164858,400
+Apartments for Rent,K-Means,n_clusters,400.0,BIC,44473.39990199749,400
+Apartments for Rent,K-Means,n_clusters,425.0,VRC,429.6910140744136,425
+Apartments for Rent,K-Means,n_clusters,425.0,Silhouette,0.300246740614202,425
+Apartments for Rent,K-Means,n_clusters,425.0,SSE-Elbow,3776.359336978093,425
+Apartments for Rent,K-Means,n_clusters,425.0,DB,1.1298358371368706,425
+Apartments for Rent,K-Means,n_clusters,425.0,BIC,46802.05041190951,425
+Apartments for Rent,K-Means,n_clusters,450.0,VRC,423.3063464377992,450
+Apartments for Rent,K-Means,n_clusters,450.0,Silhouette,0.30544926200064365,450
+Apartments for Rent,K-Means,n_clusters,450.0,SSE-Elbow,3618.270695462262,450
+Apartments for Rent,K-Means,n_clusters,450.0,DB,1.1189359386106144,450
+Apartments for Rent,K-Means,n_clusters,450.0,BIC,49175.438126887675,450
+Apartments for Rent,K-Means,n_clusters,475.0,VRC,417.53083809316377,475
+Apartments for Rent,K-Means,n_clusters,475.0,Silhouette,0.30684157301163567,475
+Apartments for Rent,K-Means,n_clusters,475.0,SSE-Elbow,3472.6700768824903,475
+Apartments for Rent,K-Means,n_clusters,475.0,DB,1.1188095137411918,475
+Apartments for Rent,K-Means,n_clusters,475.0,BIC,51561.302661599875,475
+Apartments for Rent,K-Means,n_clusters,500.0,VRC,410.4704417817706,500
+Apartments for Rent,K-Means,n_clusters,500.0,Silhouette,0.3086903254836705,500
+Apartments for Rent,K-Means,n_clusters,500.0,SSE-Elbow,3352.1474045275127,500
+Apartments for Rent,K-Means,n_clusters,500.0,DB,1.1141230847769734,500
+Apartments for Rent,K-Means,n_clusters,500.0,BIC,53972.23393933485,500
+Apartments for Rent,K-Means,n_clusters,525.0,VRC,407.39496138396754,525
+Apartments for Rent,K-Means,n_clusters,525.0,Silhouette,0.3150231867343831,525
+Apartments for Rent,K-Means,n_clusters,525.0,SSE-Elbow,3213.9045387070846,525
+Apartments for Rent,K-Means,n_clusters,525.0,DB,1.0961949225101588,525
+Apartments for Rent,K-Means,n_clusters,525.0,BIC,56365.461817188465,525
+Apartments for Rent,K-Means,n_clusters,550.0,VRC,403.5112035646,550
+Apartments for Rent,K-Means,n_clusters,550.0,Silhouette,0.3140882401874304,550
+Apartments for Rent,K-Means,n_clusters,550.0,SSE-Elbow,3094.1655695652007,550
+Apartments for Rent,K-Means,n_clusters,550.0,DB,1.080616097804213,550
+Apartments for Rent,K-Means,n_clusters,550.0,BIC,58776.97427488179,550
+Apartments for Rent,K-Means,n_clusters,575.0,VRC,398.6302945023312,575
+Apartments for Rent,K-Means,n_clusters,575.0,Silhouette,0.3152137931595469,575
+Apartments for Rent,K-Means,n_clusters,575.0,SSE-Elbow,2991.650155522126,575
+Apartments for Rent,K-Means,n_clusters,575.0,DB,1.0655566675892312,575
+Apartments for Rent,K-Means,n_clusters,575.0,BIC,61206.14335340741,575
+Apartments for Rent,K-Means,n_clusters,600.0,VRC,395.8770624231211,600
+Apartments for Rent,K-Means,n_clusters,600.0,Silhouette,0.317151809750639,600
+Apartments for Rent,K-Means,n_clusters,600.0,SSE-Elbow,2883.302020163737,600
+Apartments for Rent,K-Means,n_clusters,600.0,DB,1.048824745976799,600
+Apartments for Rent,K-Means,n_clusters,600.0,BIC,63629.260371341006,600
+Apartments for Rent,K-Means,n_clusters,625.0,VRC,393.28314284875273,625
+Apartments for Rent,K-Means,n_clusters,625.0,Silhouette,0.320522295007062,625
+Apartments for Rent,K-Means,n_clusters,625.0,SSE-Elbow,2782.4270912596826,625
+Apartments for Rent,K-Means,n_clusters,625.0,DB,1.0377044199469103,625
+Apartments for Rent,K-Means,n_clusters,625.0,BIC,66059.84752920455,625
+Apartments for Rent,K-Means,n_clusters,650.0,VRC,392.6623079420584,650
+Apartments for Rent,K-Means,n_clusters,650.0,Silhouette,0.3237266146580383,650
+Apartments for Rent,K-Means,n_clusters,650.0,SSE-Elbow,2676.169848640137,650
+Apartments for Rent,K-Means,n_clusters,650.0,DB,1.0264775742983634,650
+Apartments for Rent,K-Means,n_clusters,650.0,BIC,68485.05543987697,650
+Apartments for Rent,K-Means,n_clusters,675.0,VRC,390.0178987828714,675
+Apartments for Rent,K-Means,n_clusters,675.0,Silhouette,0.3231731095309778,675
+Apartments for Rent,K-Means,n_clusters,675.0,SSE-Elbow,2590.428592466601,675
+Apartments for Rent,K-Means,n_clusters,675.0,DB,1.019802538991304,675
+Apartments for Rent,K-Means,n_clusters,675.0,BIC,70930.77933699543,675
+Apartments for Rent,K-Means,n_clusters,700.0,VRC,387.26245026481416,700
+Apartments for Rent,K-Means,n_clusters,700.0,Silhouette,0.3234599056252956,700
+Apartments for Rent,K-Means,n_clusters,700.0,SSE-Elbow,2511.4708390756946,700
+Apartments for Rent,K-Means,n_clusters,700.0,DB,1.0089625862924685,700
+Apartments for Rent,K-Means,n_clusters,700.0,BIC,73383.28673689648,700
+Apartments for Rent,K-Means,n_clusters,725.0,VRC,385.4367772984627,725
+Apartments for Rent,K-Means,n_clusters,725.0,Silhouette,0.3265026877362399,725
+Apartments for Rent,K-Means,n_clusters,725.0,SSE-Elbow,2432.2678907521113,725
+Apartments for Rent,K-Means,n_clusters,725.0,DB,0.9925288729813811,725
+Apartments for Rent,K-Means,n_clusters,725.0,BIC,75835.5489418649,725
+Apartments for Rent,K-Means,n_clusters,750.0,VRC,383.94864663569774,750
+Apartments for Rent,K-Means,n_clusters,750.0,Silhouette,0.3268995079232425,750
+Apartments for Rent,K-Means,n_clusters,750.0,SSE-Elbow,2356.23288516152,750
+Apartments for Rent,K-Means,n_clusters,750.0,DB,0.9828880224573217,750
+Apartments for Rent,K-Means,n_clusters,750.0,BIC,78290.97908956626,750
+Apartments for Rent,K-Means,n_clusters,775.0,VRC,382.112865465677,775
+Apartments for Rent,K-Means,n_clusters,775.0,Silhouette,0.3276024164228436,775
+Apartments for Rent,K-Means,n_clusters,775.0,SSE-Elbow,2287.0035433948633,775
+Apartments for Rent,K-Means,n_clusters,775.0,DB,0.9780091528548516,775
+Apartments for Rent,K-Means,n_clusters,775.0,BIC,80753.21490109159,775
+Apartments for Rent,K-Means,n_clusters,800.0,VRC,381.64557922843306,800
+Apartments for Rent,K-Means,n_clusters,800.0,Silhouette,0.3286159200394757,800
+Apartments for Rent,K-Means,n_clusters,800.0,SSE-Elbow,2214.292534051336,800
+Apartments for Rent,K-Means,n_clusters,800.0,DB,0.961426067783934,800
+Apartments for Rent,K-Means,n_clusters,800.0,BIC,83211.97211156442,800
+Apartments for Rent,K-Means,n_clusters,825.0,VRC,380.62444720586166,825
+Apartments for Rent,K-Means,n_clusters,825.0,Silhouette,0.32964212038383467,825
+Apartments for Rent,K-Means,n_clusters,825.0,SSE-Elbow,2148.892177487655,825
+Apartments for Rent,K-Means,n_clusters,825.0,DB,0.9521517040931484,825
+Apartments for Rent,K-Means,n_clusters,825.0,BIC,85678.03690829269,825
+Apartments for Rent,K-Means,n_clusters,850.0,VRC,377.98212175494746,850
+Apartments for Rent,K-Means,n_clusters,850.0,Silhouette,0.3282570544656462,850
+Apartments for Rent,K-Means,n_clusters,850.0,SSE-Elbow,2095.9422922481695,850
+Apartments for Rent,K-Means,n_clusters,850.0,DB,0.9455173859813848,850
+Apartments for Rent,K-Means,n_clusters,850.0,BIC,88156.5521763452,850
+Apartments for Rent,K-Means,n_clusters,875.0,VRC,377.60089478380183,875
+Apartments for Rent,K-Means,n_clusters,875.0,Silhouette,0.33015920379644204,875
+Apartments for Rent,K-Means,n_clusters,875.0,SSE-Elbow,2034.1455172278445,875
+Apartments for Rent,K-Means,n_clusters,875.0,DB,0.9372422194617356,875
+Apartments for Rent,K-Means,n_clusters,875.0,BIC,90626.22055461684,875
+Apartments for Rent,K-Means,n_clusters,900.0,VRC,376.0783904269985,900
+Apartments for Rent,K-Means,n_clusters,900.0,Silhouette,0.3295520780653846,900
+Apartments for Rent,K-Means,n_clusters,900.0,SSE-Elbow,1981.532231133399,900
+Apartments for Rent,K-Means,n_clusters,900.0,DB,0.9269077417026086,900
+Apartments for Rent,K-Means,n_clusters,900.0,BIC,93105.0634286162,900
+Apartments for Rent,K-Means,n_clusters,925.0,VRC,375.5102181142303,925
+Apartments for Rent,K-Means,n_clusters,925.0,Silhouette,0.33011518686395114,925
+Apartments for Rent,K-Means,n_clusters,925.0,SSE-Elbow,1926.9142985099468,925
+Apartments for Rent,K-Means,n_clusters,925.0,DB,0.9257988244234856,925
+Apartments for Rent,K-Means,n_clusters,925.0,BIC,95581.9196424829,925
+Apartments for Rent,K-Means,n_clusters,950.0,VRC,374.9003156226701,950
+Apartments for Rent,K-Means,n_clusters,950.0,Silhouette,0.3276981083863433,950
+Apartments for Rent,K-Means,n_clusters,950.0,SSE-Elbow,1875.304779438948,950
+Apartments for Rent,K-Means,n_clusters,950.0,DB,0.9241293717659894,950
+Apartments for Rent,K-Means,n_clusters,950.0,BIC,98061.77527670386,950
+Apartments for Rent,K-Means,n_clusters,975.0,VRC,372.4331110870851,975
+Apartments for Rent,K-Means,n_clusters,975.0,Silhouette,0.3271360442148759,975
+Apartments for Rent,K-Means,n_clusters,975.0,SSE-Elbow,1835.159041885307,975
+Apartments for Rent,K-Means,n_clusters,975.0,DB,0.9257338340515536,975
+Apartments for Rent,K-Means,n_clusters,975.0,BIC,100553.0946924422,975
+Apartments for Rent,K-Means,n_clusters,1000.0,VRC,371.7218481090895,1000
+Apartments for Rent,K-Means,n_clusters,1000.0,Silhouette,0.3266785992867384,1000
+Apartments for Rent,K-Means,n_clusters,1000.0,SSE-Elbow,1788.7819809142577,1000
+Apartments for Rent,K-Means,n_clusters,1000.0,DB,0.9180834568099212,1000
+Apartments for Rent,K-Means,n_clusters,1000.0,BIC,103038.18278476312,1000
+Apartments for Rent,OPTICS,min_samples,2.0,VRC,5.239685554857997,2522
+Apartments for Rent,OPTICS,min_samples,2.0,Silhouette,0.10720220549589674,2522
+Apartments for Rent,OPTICS,min_samples,2.0,SSE-Elbow,459.1393183268062,2522
+Apartments for Rent,OPTICS,min_samples,2.0,DB,1.192982842909165,2522
+Apartments for Rent,OPTICS,min_samples,2.0,BIC,255824.13736017444,2522
+Apartments for Rent,OPTICS,min_samples,7.0,VRC,17.073636503403506,320
+Apartments for Rent,OPTICS,min_samples,7.0,Silhouette,-0.18727317343093716,320
+Apartments for Rent,OPTICS,min_samples,7.0,SSE-Elbow,4642.078876507211,320
+Apartments for Rent,OPTICS,min_samples,7.0,DB,1.2578217500027176,320
+Apartments for Rent,OPTICS,min_samples,7.0,BIC,37035.627510814345,320
+Apartments for Rent,OPTICS,min_samples,12.0,VRC,29.485120323647216,162
+Apartments for Rent,OPTICS,min_samples,12.0,Silhouette,-0.18251286363084773,162
+Apartments for Rent,OPTICS,min_samples,12.0,SSE-Elbow,6957.52836577694,162
+Apartments for Rent,OPTICS,min_samples,12.0,DB,1.2698656185911483,162
+Apartments for Rent,OPTICS,min_samples,12.0,BIC,23352.21723127879,162
+Apartments for Rent,OPTICS,min_samples,17.0,VRC,42.96942597718847,101
+Apartments for Rent,OPTICS,min_samples,17.0,Silhouette,-0.21346617250416863,101
+Apartments for Rent,OPTICS,min_samples,17.0,SSE-Elbow,9122.864840738755,101
+Apartments for Rent,OPTICS,min_samples,17.0,DB,1.2781187943689738,101
+Apartments for Rent,OPTICS,min_samples,17.0,BIC,19340.77873220819,101
+Apartments for Rent,OPTICS,min_samples,22.0,VRC,49.687259188661315,75
+Apartments for Rent,OPTICS,min_samples,22.0,Silhouette,-0.238144684395094,75
+Apartments for Rent,OPTICS,min_samples,22.0,SSE-Elbow,10659.036754222274,75
+Apartments for Rent,OPTICS,min_samples,22.0,DB,1.307497497583448,75
+Apartments for Rent,OPTICS,min_samples,22.0,BIC,18244.21276782852,75
+Apartments for Rent,OPTICS,min_samples,27.0,VRC,55.93633907035172,54
+Apartments for Rent,OPTICS,min_samples,27.0,Silhouette,-0.2606656460000018,54
+Apartments for Rent,OPTICS,min_samples,27.0,SSE-Elbow,12540.66511322626,54
+Apartments for Rent,OPTICS,min_samples,27.0,DB,1.2881311767966612,54
+Apartments for Rent,OPTICS,min_samples,27.0,BIC,17999.424516506777,54
+Apartments for Rent,OPTICS,min_samples,32.0,VRC,80.08000594142484,40
+Apartments for Rent,OPTICS,min_samples,32.0,Silhouette,-0.24223855325225255,40
+Apartments for Rent,OPTICS,min_samples,32.0,SSE-Elbow,14851.992538663904,40
+Apartments for Rent,OPTICS,min_samples,32.0,DB,1.2275571167020174,40
+Apartments for Rent,OPTICS,min_samples,32.0,BIC,18893.11990286299,40
+Apartments for Rent,OPTICS,min_samples,37.0,VRC,100.6732787017132,35
+Apartments for Rent,OPTICS,min_samples,37.0,Silhouette,-0.2053495668088509,35
+Apartments for Rent,OPTICS,min_samples,37.0,SSE-Elbow,15807.444017539216,35
+Apartments for Rent,OPTICS,min_samples,37.0,DB,1.2983781652245692,35
+Apartments for Rent,OPTICS,min_samples,37.0,BIC,19342.287326895712,35
+Apartments for Rent,OPTICS,min_samples,42.0,VRC,103.02316183620307,28
+Apartments for Rent,OPTICS,min_samples,42.0,Silhouette,-0.22868450407211344,28
+Apartments for Rent,OPTICS,min_samples,42.0,SSE-Elbow,17501.70276763788,28
+Apartments for Rent,OPTICS,min_samples,42.0,DB,1.251127514219607,28
+Apartments for Rent,OPTICS,min_samples,42.0,BIC,20327.73841149475,28
+Apartments for Rent,OPTICS,min_samples,47.0,VRC,139.04686886261672,20
+Apartments for Rent,OPTICS,min_samples,47.0,Silhouette,-0.20277725258352455,20
+Apartments for Rent,OPTICS,min_samples,47.0,SSE-Elbow,20369.12736405091,20
+Apartments for Rent,OPTICS,min_samples,47.0,DB,1.2559135235632812,20
+Apartments for Rent,OPTICS,min_samples,47.0,BIC,22385.06081771857,20
+Apartments for Rent,OPTICS,min_samples,52.0,VRC,184.48105817799777,19
+Apartments for Rent,OPTICS,min_samples,52.0,Silhouette,-0.13492725398241656,19
+Apartments for Rent,OPTICS,min_samples,52.0,SSE-Elbow,21044.33478538248,19
+Apartments for Rent,OPTICS,min_samples,52.0,DB,1.2857199359467115,19
+Apartments for Rent,OPTICS,min_samples,52.0,BIC,22959.027340570326,19
+Apartments for Rent,OPTICS,min_samples,57.0,VRC,182.6471317999479,18
+Apartments for Rent,OPTICS,min_samples,57.0,Silhouette,-0.1200631035897234,18
+Apartments for Rent,OPTICS,min_samples,57.0,SSE-Elbow,21542.666980106605,18
+Apartments for Rent,OPTICS,min_samples,57.0,DB,1.208103819975075,18
+Apartments for Rent,OPTICS,min_samples,57.0,BIC,23356.10654657103,18
+Apartments for Rent,OPTICS,min_samples,62.0,VRC,182.13325057654708,16
+Apartments for Rent,OPTICS,min_samples,62.0,Silhouette,-0.09217027337631312,16
+Apartments for Rent,OPTICS,min_samples,62.0,SSE-Elbow,24160.255170613254,16
+Apartments for Rent,OPTICS,min_samples,62.0,DB,1.1729003029447278,16
+Apartments for Rent,OPTICS,min_samples,62.0,BIC,25771.148837403303,16
+Apartments for Rent,OPTICS,min_samples,67.0,VRC,151.84516059087517,16
+Apartments for Rent,OPTICS,min_samples,67.0,Silhouette,-0.13841822956605604,16
+Apartments for Rent,OPTICS,min_samples,67.0,SSE-Elbow,24160.255170613254,16
+Apartments for Rent,OPTICS,min_samples,67.0,DB,1.1564472094669154,16
+Apartments for Rent,OPTICS,min_samples,67.0,BIC,25771.148837403303,16
+Apartments for Rent,OPTICS,min_samples,72.0,VRC,152.31841432323537,13
+Apartments for Rent,OPTICS,min_samples,72.0,Silhouette,-0.16354468731431113,13
+Apartments for Rent,OPTICS,min_samples,72.0,SSE-Elbow,26249.88401117952,13
+Apartments for Rent,OPTICS,min_samples,72.0,DB,1.2027063151468271,13
+Apartments for Rent,OPTICS,min_samples,72.0,BIC,27557.04056306122,13
+Apartments for Rent,OPTICS,min_samples,77.0,VRC,193.62022660744577,13
+Apartments for Rent,OPTICS,min_samples,77.0,Silhouette,-0.11305440579923708,13
+Apartments for Rent,OPTICS,min_samples,77.0,SSE-Elbow,26249.88401117952,13
+Apartments for Rent,OPTICS,min_samples,77.0,DB,1.1975745781160336,13
+Apartments for Rent,OPTICS,min_samples,77.0,BIC,27557.04056306122,13
+Apartments for Rent,OPTICS,min_samples,82.0,VRC,156.64384395328693,10
+Apartments for Rent,OPTICS,min_samples,82.0,Silhouette,-0.16718713694582263,10
+Apartments for Rent,OPTICS,min_samples,82.0,SSE-Elbow,29440.033770134625,10
+Apartments for Rent,OPTICS,min_samples,82.0,DB,1.2239485763410358,10
+Apartments for Rent,OPTICS,min_samples,82.0,BIC,30443.39727293756,10
+Apartments for Rent,OPTICS,min_samples,87.0,VRC,237.789895675468,7
+Apartments for Rent,OPTICS,min_samples,87.0,Silhouette,-0.09753534161403224,7
+Apartments for Rent,OPTICS,min_samples,87.0,SSE-Elbow,36937.38385510483,7
+Apartments for Rent,OPTICS,min_samples,87.0,DB,1.2440179692711135,7
+Apartments for Rent,OPTICS,min_samples,87.0,BIC,37636.96806209129,7
+Apartments for Rent,OPTICS,min_samples,92.0,VRC,152.32757508451425,5
+Apartments for Rent,OPTICS,min_samples,92.0,Silhouette,-0.14881575482237483,5
+Apartments for Rent,OPTICS,min_samples,92.0,SSE-Elbow,40708.44894279665,5
+Apartments for Rent,OPTICS,min_samples,92.0,DB,1.2708070273474914,5
+Apartments for Rent,OPTICS,min_samples,92.0,BIC,41205.53664562489,5
+Apartments for Rent,OPTICS,min_samples,97.0,VRC,193.4979180387435,6
+Apartments for Rent,OPTICS,min_samples,97.0,Silhouette,-0.15250466204521304,6
+Apartments for Rent,OPTICS,min_samples,97.0,SSE-Elbow,39455.17339682397,6
+Apartments for Rent,OPTICS,min_samples,97.0,DB,1.2952533512317643,6
+Apartments for Rent,OPTICS,min_samples,97.0,BIC,40053.5000791062,6
+Apartments for Rent,dbscan,eps,0.1,VRC,11.72280089913601,122
+Apartments for Rent,dbscan,eps,0.1,Silhouette,-0.48228104158694135,122
+Apartments for Rent,dbscan,eps,0.1,SSE-Elbow,8264.79709201637,122
+Apartments for Rent,dbscan,eps,0.1,DB,1.1033791212462865,122
+Apartments for Rent,dbscan,eps,0.1,BIC,20609.141712251047,122
+Apartments for Rent,dbscan,eps,0.2,VRC,22.048315149502265,210
+Apartments for Rent,dbscan,eps,0.2,Silhouette,-0.2119646101693058,210
+Apartments for Rent,dbscan,eps,0.2,SSE-Elbow,6035.979596284651,210
+Apartments for Rent,dbscan,eps,0.2,DB,1.1854885613881267,210
+Apartments for Rent,dbscan,eps,0.2,BIC,27291.08155610709,210
+Apartments for Rent,dbscan,eps,0.30000000000000004,VRC,32.95994068548282,228
+Apartments for Rent,dbscan,eps,0.30000000000000004,Silhouette,-0.06266503562716347,228
+Apartments for Rent,dbscan,eps,0.30000000000000004,SSE-Elbow,5754.994252741144,228
+Apartments for Rent,dbscan,eps,0.30000000000000004,DB,1.210689759381122,228
+Apartments for Rent,dbscan,eps,0.30000000000000004,BIC,28832.75112293382,228
+Apartments for Rent,dbscan,eps,0.4,VRC,47.347191432850344,221
+Apartments for Rent,dbscan,eps,0.4,Silhouette,0.013934152866464985,221
+Apartments for Rent,dbscan,eps,0.4,SSE-Elbow,5897.388046254373,221
+Apartments for Rent,dbscan,eps,0.4,DB,1.2310667853879589,221
+Apartments for Rent,dbscan,eps,0.4,BIC,28266.33467352528,221
+Apartments for Rent,dbscan,eps,0.5,VRC,62.43578522259348,201
+Apartments for Rent,dbscan,eps,0.5,Silhouette,0.06191407480503502,201
+Apartments for Rent,dbscan,eps,0.5,SSE-Elbow,6213.108946963969,201
+Apartments for Rent,dbscan,eps,0.5,DB,1.2864653461116775,201
+Apartments for Rent,dbscan,eps,0.5,BIC,26556.88345160131,201
+Apartments for Rent,dbscan,eps,0.6,VRC,69.05738618705415,197
+Apartments for Rent,dbscan,eps,0.6,Silhouette,0.06217926403535004,197
+Apartments for Rent,dbscan,eps,0.6,SSE-Elbow,6277.087479172198,197
+Apartments for Rent,dbscan,eps,0.6,DB,1.32743459952677,197
+Apartments for Rent,dbscan,eps,0.6,BIC,26215.827559282818,197
+Apartments for Rent,dbscan,eps,0.7000000000000001,VRC,82.80685022009453,172
+Apartments for Rent,dbscan,eps,0.7000000000000001,Silhouette,0.06381200466001591,172
+Apartments for Rent,dbscan,eps,0.7000000000000001,SSE-Elbow,6749.969514282104,172
+Apartments for Rent,dbscan,eps,0.7000000000000001,DB,1.362381951572622,172
+Apartments for Rent,dbscan,eps,0.7000000000000001,BIC,24157.244441100727,172
+Apartments for Rent,dbscan,eps,0.8,VRC,89.11404665696675,149
+Apartments for Rent,dbscan,eps,0.8,Silhouette,-0.03293917993151303,149
+Apartments for Rent,dbscan,eps,0.8,SSE-Elbow,7331.736300456563,149
+Apartments for Rent,dbscan,eps,0.8,DB,1.4688937478059552,149
+Apartments for Rent,dbscan,eps,0.8,BIC,22410.063286246583,149
+Apartments for Rent,dbscan,eps,0.9,VRC,106.3679440733305,92
+Apartments for Rent,dbscan,eps,0.9,Silhouette,-0.18653135247670655,92
+Apartments for Rent,dbscan,eps,0.9,SSE-Elbow,9527.454673427748,92
+Apartments for Rent,dbscan,eps,0.9,DB,1.4645390679441257,92
+Apartments for Rent,dbscan,eps,0.9,BIC,18834.041109712067,92
+Apartments for Rent,dbscan,eps,1.0,VRC,206.40164802865957,42
+Apartments for Rent,dbscan,eps,1.0,Silhouette,-0.1300594579097648,42
+Apartments for Rent,dbscan,eps,1.0,SSE-Elbow,14550.025642513545,42
+Apartments for Rent,dbscan,eps,1.0,DB,1.583745493703486,42
+Apartments for Rent,dbscan,eps,1.0,BIC,18793.681772213913,42
+Apartments for Rent,dbscan,eps,1.1,VRC,719.8384625952012,7
+Apartments for Rent,dbscan,eps,1.1,Silhouette,0.16748324297876965,7
+Apartments for Rent,dbscan,eps,1.1,SSE-Elbow,36937.38385510483,7
+Apartments for Rent,dbscan,eps,1.1,DB,1.5064285839032685,7
+Apartments for Rent,dbscan,eps,1.1,BIC,37636.96806209129,7
+Apartments for Rent,dbscan,eps,1.2000000000000002,VRC,605.4699909844305,8
+Apartments for Rent,dbscan,eps,1.2000000000000002,Silhouette,0.15956682794657723,8
+Apartments for Rent,dbscan,eps,1.2000000000000002,SSE-Elbow,33182.10101476291,8
+Apartments for Rent,dbscan,eps,1.2000000000000002,DB,1.6631500467107614,8
+Apartments for Rent,dbscan,eps,1.2000000000000002,BIC,33982.93118941886,8
+Apartments for Rent,dbscan,eps,1.3000000000000005,VRC,999.8511581783124,5
+Apartments for Rent,dbscan,eps,1.3000000000000005,Silhouette,0.1999078675586712,5
+Apartments for Rent,dbscan,eps,1.3000000000000005,SSE-Elbow,40708.44894279665,5
+Apartments for Rent,dbscan,eps,1.3000000000000005,DB,1.2294379736516563,5
+Apartments for Rent,dbscan,eps,1.3000000000000005,BIC,41205.53664562489,5
+Apartments for Rent,dbscan,eps,1.4,VRC,386.97484303425864,5
+Apartments for Rent,dbscan,eps,1.4,Silhouette,0.17287605641861778,5
+Apartments for Rent,dbscan,eps,1.4,SSE-Elbow,40708.44894279665,5
+Apartments for Rent,dbscan,eps,1.4,DB,1.8127444409035465,5
+Apartments for Rent,dbscan,eps,1.4,BIC,41205.53664562489,5
+Apartments for Rent,dbscan,eps,1.5000000000000002,VRC,516.748804082136,3
+Apartments for Rent,dbscan,eps,1.5000000000000002,Silhouette,0.4112056259105495,3
+Apartments for Rent,dbscan,eps,1.5000000000000002,SSE-Elbow,49915.61241145159,3
+Apartments for Rent,dbscan,eps,1.5000000000000002,DB,1.04234300474546,3
+Apartments for Rent,dbscan,eps,1.5000000000000002,BIC,50210.13727108485,3
+Apartments for Rent,dbscan,eps,1.6,VRC,326.1836811823353,4
+Apartments for Rent,dbscan,eps,1.6,Silhouette,0.3970841274324635,4
+Apartments for Rent,dbscan,eps,1.6,SSE-Elbow,45955.87416392636,4
+Apartments for Rent,dbscan,eps,1.6,DB,1.984704592564738,4
+Apartments for Rent,dbscan,eps,1.6,BIC,46351.69828765053,4
+Apartments for Rent,dbscan,eps,1.7000000000000002,VRC,324.40519700702663,4
+Apartments for Rent,dbscan,eps,1.7000000000000002,Silhouette,0.331931788306841,4
+Apartments for Rent,dbscan,eps,1.7000000000000002,SSE-Elbow,45955.87416392636,4
+Apartments for Rent,dbscan,eps,1.7000000000000002,DB,0.9247355390501496,4
+Apartments for Rent,dbscan,eps,1.7000000000000002,BIC,46351.69828765053,4
+Apartments for Rent,dbscan,eps,1.8000000000000005,VRC,304.60735697243234,4
+Apartments for Rent,dbscan,eps,1.8000000000000005,Silhouette,0.331548313338722,4
+Apartments for Rent,dbscan,eps,1.8000000000000005,SSE-Elbow,45955.87416392636,4
+Apartments for Rent,dbscan,eps,1.8000000000000005,DB,0.9066699057444432,4
+Apartments for Rent,dbscan,eps,1.8000000000000005,BIC,46351.69828765053,4
+Apartments for Rent,dbscan,eps,1.9,VRC,295.5145721931374,4
+Apartments for Rent,dbscan,eps,1.9,Silhouette,0.33153805799221076,4
+Apartments for Rent,dbscan,eps,1.9,SSE-Elbow,45955.87416392636,4
+Apartments for Rent,dbscan,eps,1.9,DB,0.8945404046493929,4
+Apartments for Rent,dbscan,eps,1.9,BIC,46351.69828765053,4
+Apartments for Rent,dbscan,eps,2.0,VRC,285.11810205765767,4
+Apartments for Rent,dbscan,eps,2.0,Silhouette,0.35059063480212505,4
+Apartments for Rent,dbscan,eps,2.0,SSE-Elbow,45955.87416392636,4
+Apartments for Rent,dbscan,eps,2.0,DB,0.9136112166301344,4
+Apartments for Rent,dbscan,eps,2.0,BIC,46351.69828765053,4
