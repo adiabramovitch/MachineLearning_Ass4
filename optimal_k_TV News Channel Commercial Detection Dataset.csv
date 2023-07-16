@@ -1,6 +1,6 @@
 Dataset,Metric name,Estimated optimal k,Actual K,n_samples,n_features
 TV News Channel Commercial Detection Dataset,VRC,2,5,129685,10
-TV News Channel Commercial Detection Dataset,BIC,823,5,129685,10
-TV News Channel Commercial Detection Dataset,DB,4,5,129685,10
-TV News Channel Commercial Detection Dataset,SSE-Elbow,18016,5,129685,10
+TV News Channel Commercial Detection Dataset,BIC,750,5,129685,10
+TV News Channel Commercial Detection Dataset,DB,5,5,129685,10
+TV News Channel Commercial Detection Dataset,SSE-Elbow,20,5,129685,10
 TV News Channel Commercial Detection Dataset,Silhouette,2,5,129685,10

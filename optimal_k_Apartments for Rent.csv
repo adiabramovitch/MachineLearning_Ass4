@@ -1,6 +1,6 @@
 Dataset,Metric name,Estimated optimal k,Actual K,n_samples,n_features
-Apartments for Rent,VRC,2,12,9950,10
-Apartments for Rent,BIC,62,12,9950,10
-Apartments for Rent,DB,4,12,9950,10
-Apartments for Rent,SSE-Elbow,2522,12,9950,10
-Apartments for Rent,Silhouette,3,12,9950,10
+Apartments for Rent,VRC,2,5,9950,10
+Apartments for Rent,BIC,65,5,9950,10
+Apartments for Rent,DB,1000,5,9950,10
+Apartments for Rent,SSE-Elbow,10,5,9950,10
+Apartments for Rent,Silhouette,875,5,9950,10
